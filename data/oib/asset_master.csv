@@ -1,0 +1,1601 @@
+asset_id,depot,asset_type,manufacturer,model,age_years,criticality,connectivity_tier,protocol,health_score,failure_risk_30d,work_center,operating_hours
+A-00001,RRAD,Test Stand,Fanuc-like,M617,19.3,High,Legacy Analog,Serial/PLC,68.9,43.3,Quality,1369
+A-00002,ANAD,Transformer,Caterpillar-like,M877,13.7,Medium,Vendor Digital,OEM Cloud API,52.0,43.2,Machining,23376
+A-00003,SIAD,Overhead Crane,Legacy OEM,M144,12.0,Medium,Native Digital,Modbus TCP,79.6,24.3,Material Handling,18071
+A-00004,WVA,Diesel Engine,Fanuc-like,M821,4.1,Low,Native Digital,REST API,84.3,12.6,Inspection,2001
+A-00005,RRAD,Test Stand,Siemens-like,M463,16.4,Low,Legacy Analog,Serial/PLC,34.5,62.3,Welding,22460
+A-00006,ANAD,CNC Machine,Siemens-like,M755,7.3,Low,Vendor Digital,Controller API,74.4,31.1,Utilities,7696
+A-00007,SIAD,Test Stand,Haas-like,M997,20.6,High,Native Digital,REST API,49.3,70.8,Assembly,7467
+A-00008,WVA,Test Stand,Haas-like,M369,20.1,Medium,Legacy Analog,Serial/PLC,79.6,26.8,Quality,14538
+A-00009,RRAD,Paint/Blast Booth,Generic Industrial,M532,8.5,Low,Vendor Digital,OEM Cloud API,78.3,23.4,Quality,2581
+A-00010,ANAD,Hydraulic Press,Haas-like,M868,16.9,Medium,Vendor Digital,Controller API,66.2,31.6,Coating,25685
+A-00011,SIAD,Test Stand,Generic Industrial,M405,19.5,Medium,Legacy Analog,None,75.5,22.1,Utilities,20454
+A-00012,WVA,CNC Machine,Siemens-like,M999,12.8,Medium,Native Digital,MTConnect,65.1,35.1,Coating,8346
+A-00013,RRAD,Diesel Engine,Haas-like,M269,27.0,High,Vendor Digital,Controller API,43.0,70.9,Coating,17790
+A-00014,ANAD,Paint/Blast Booth,Siemens-like,M548,19.6,Medium,Native Digital,OPC UA,52.8,51.6,Utilities,15294
+A-00015,SIAD,Diesel Engine,Caterpillar-like,M132,14.2,Medium,Native Digital,OPC UA,81.0,18.6,Assembly,2821
+A-00016,WVA,Laser Cutter,Mazak-like,M926,10.3,High,Vendor Digital,Controller API,64.4,43.9,Test,6739
+A-00017,RRAD,Diesel Engine,Mazak-like,M845,9.0,Medium,Legacy Analog,Retrofit Sensors,63.6,38.6,Assembly,26733
+A-00018,ANAD,Paint/Blast Booth,Legacy OEM,M177,12.6,High,Native Digital,Modbus TCP,76.5,38.6,Material Handling,26977
+A-00019,SIAD,Paint/Blast Booth,Legacy OEM,M510,10.6,Low,Legacy Analog,None,71.0,24.2,Disassembly,5894
+A-00020,WVA,Hydraulic Press,Legacy OEM,M669,18.1,Low,Native Digital,Modbus TCP,61.7,30.7,Material Handling,5572
+A-00021,RRAD,CNC Machine,Legacy OEM,M643,13.6,Medium,Native Digital,REST API,74.6,20.3,Machining,2363
+A-00022,ANAD,Material Handler,Haas-like,M352,8.2,High,Native Digital,MTConnect,49.9,66.8,Quality,19981
+A-00023,SIAD,Diesel Engine,Mazak-like,M234,23.2,Medium,Native Digital,REST API,73.9,25.3,Coating,15482
+A-00024,WVA,CNC Machine,Fanuc-like,M618,7.2,Medium,Native Digital,Modbus TCP,78.7,21.2,Coating,4840
+A-00025,RRAD,Material Handler,Haas-like,M406,25.1,Medium,Native Digital,REST API,47.4,45.3,Inspection,29274
+A-00026,ANAD,Diesel Engine,Fanuc-like,M803,10.9,High,Native Digital,OPC UA,56.9,48.2,Coating,17061
+A-00027,SIAD,Overhead Crane,Siemens-like,M265,25.8,High,Vendor Digital,OEM Cloud API,50.8,57.9,Material Handling,18577
+A-00028,WVA,Test Stand,Fanuc-like,M540,16.7,Medium,Native Digital,OPC UA,76.9,17.4,Machining,1870
+A-00029,RRAD,CNC Machine,Haas-like,M995,24.5,Low,Legacy Analog,None,51.8,45.8,Test,20837
+A-00030,ANAD,Air Compressor,Siemens-like,M901,6.5,Low,Native Digital,OPC UA,93.8,7.5,Test,26787
+A-00031,SIAD,Test Stand,Mazak-like,M458,12.4,High,Vendor Digital,OEM Cloud API,62.1,49.4,Coating,27387
+A-00032,WVA,Air Compressor,Legacy OEM,M385,27.5,High,Native Digital,OPC UA,62.1,49.8,Assembly,21520
+A-00033,RRAD,Laser Cutter,Caterpillar-like,M710,6.4,High,Native Digital,REST API,53.6,60.2,Test,11827
+A-00034,ANAD,Test Stand,Mazak-like,M101,11.5,High,Vendor Digital,Proprietary Gateway,73.0,38.4,Utilities,26927
+A-00035,SIAD,Laser Cutter,Caterpillar-like,M837,10.5,Medium,Native Digital,MTConnect,52.8,41.9,Coating,17117
+A-00036,WVA,CNC Machine,Mazak-like,M793,4.7,Medium,Vendor Digital,Controller API,81.7,25.2,Machining,20669
+A-00037,RRAD,Transformer,Mazak-like,M912,0.5,High,Native Digital,REST API,90.4,16.4,Machining,22089
+A-00038,ANAD,Diesel Engine,Fanuc-like,M250,15.0,Medium,Vendor Digital,OEM Cloud API,65.8,31.1,Disassembly,2014
+A-00039,SIAD,CNC Machine,Fanuc-like,M771,0.5,High,Vendor Digital,Controller API,81.4,24.9,Disassembly,29750
+A-00040,WVA,Air Compressor,Mazak-like,M151,18.4,Medium,Native Digital,Modbus TCP,74.1,18.7,Utilities,8665
+A-00041,RRAD,Material Handler,Mazak-like,M950,16.1,Medium,Vendor Digital,Proprietary Gateway,73.6,30.6,Utilities,15111
+A-00042,ANAD,Paint/Blast Booth,Mazak-like,M741,0.5,Medium,Vendor Digital,OEM Cloud API,74.2,34.4,Welding,9498
+A-00043,SIAD,Overhead Crane,Generic Industrial,M319,11.7,High,Legacy Analog,None,63.0,47.9,Inspection,14094
+A-00044,WVA,Hydraulic Press,Generic Industrial,M120,25.2,Medium,Vendor Digital,Proprietary Gateway,77.3,19.0,Quality,12964
+A-00045,RRAD,Overhead Crane,Fanuc-like,M599,19.3,Medium,Legacy Analog,Retrofit Sensors,63.8,35.3,Welding,9443
+A-00046,ANAD,Overhead Crane,Haas-like,M646,0.5,High,Native Digital,Modbus TCP,92.2,8.3,Disassembly,13411
+A-00047,SIAD,Transformer,Siemens-like,M445,11.3,Medium,Legacy Analog,Serial/PLC,67.5,30.0,Test,9617
+A-00048,WVA,Air Compressor,Siemens-like,M329,16.8,Low,Native Digital,MTConnect,68.7,29.6,Inspection,26099
+A-00049,RRAD,Material Handler,Fanuc-like,M576,14.9,High,Legacy Analog,None,70.5,37.0,Coating,25629
+A-00050,ANAD,Hydraulic Press,Siemens-like,M689,13.7,Medium,Legacy Analog,Serial/PLC,72.6,28.1,Test,13497
+A-00051,SIAD,Material Handler,Haas-like,M901,16.4,Low,Native Digital,REST API,84.2,18.8,Disassembly,11877
+A-00052,WVA,Laser Cutter,Siemens-like,M750,0.5,Medium,Native Digital,REST API,80.2,17.7,Material Handling,23677
+A-00053,RRAD,Diesel Engine,Siemens-like,M972,17.3,Medium,Vendor Digital,Proprietary Gateway,81.5,21.6,Welding,27721
+A-00054,ANAD,Material Handler,Mazak-like,M971,3.5,High,Vendor Digital,Controller API,70.7,35.3,Assembly,6458
+A-00055,SIAD,Overhead Crane,Fanuc-like,M837,9.2,High,Vendor Digital,Controller API,80.3,26.5,Test,16509
+A-00056,WVA,Laser Cutter,Generic Industrial,M349,12.5,High,Vendor Digital,Proprietary Gateway,78.2,33.7,Coating,22256
+A-00057,RRAD,Transformer,Fanuc-like,M223,3.3,Medium,Legacy Analog,Retrofit Sensors,78.7,17.2,Welding,10839
+A-00058,ANAD,Diesel Engine,Haas-like,M878,15.0,Medium,Legacy Analog,None,69.1,26.9,Utilities,20055
+A-00059,SIAD,CNC Machine,Caterpillar-like,M666,17.2,High,Native Digital,MTConnect,73.2,37.9,Coating,23352
+A-00060,WVA,Material Handler,Siemens-like,M288,14.7,Medium,Legacy Analog,Retrofit Sensors,67.0,38.6,Disassembly,8773
+A-00061,RRAD,Material Handler,Caterpillar-like,M354,0.5,Medium,Native Digital,MTConnect,80.8,23.7,Inspection,18786
+A-00062,ANAD,Air Compressor,Legacy OEM,M702,0.5,Medium,Legacy Analog,Serial/PLC,65.4,36.3,Test,10506
+A-00063,SIAD,Transformer,Haas-like,M176,31.9,High,Legacy Analog,Retrofit Sensors,71.7,41.5,Machining,587
+A-00064,WVA,Hydraulic Press,Mazak-like,M172,15.9,Medium,Vendor Digital,OEM Cloud API,64.3,28.2,Welding,9168
+A-00065,RRAD,Air Compressor,Caterpillar-like,M161,4.7,Low,Vendor Digital,Controller API,62.9,44.9,Machining,26472
+A-00066,ANAD,CNC Machine,Mazak-like,M378,4.8,Medium,Vendor Digital,Proprietary Gateway,65.3,35.5,Utilities,18194
+A-00067,SIAD,Laser Cutter,Legacy OEM,M689,15.0,Medium,Native Digital,REST API,71.4,29.6,Quality,1179
+A-00068,WVA,Material Handler,Siemens-like,M285,24.9,Medium,Native Digital,MTConnect,51.4,47.9,Quality,14783
+A-00069,RRAD,Test Stand,Generic Industrial,M510,9.5,High,Native Digital,MTConnect,73.0,32.0,Utilities,1702
+A-00070,ANAD,Overhead Crane,Mazak-like,M155,17.9,High,Native Digital,Modbus TCP,59.9,44.9,Welding,17488
+A-00071,SIAD,Hydraulic Press,Caterpillar-like,M745,13.5,Medium,Native Digital,OPC UA,53.8,50.4,Quality,26691
+A-00072,WVA,CNC Machine,Mazak-like,M220,6.7,High,Vendor Digital,OEM Cloud API,99,10.5,Machining,16830
+A-00073,RRAD,Material Handler,Haas-like,M620,9.7,Medium,Vendor Digital,OEM Cloud API,90.8,4.6,Machining,28812
+A-00074,ANAD,Diesel Engine,Siemens-like,M957,10.5,Medium,Legacy Analog,Serial/PLC,76.4,19.9,Quality,19502
+A-00075,SIAD,Material Handler,Fanuc-like,M685,8.5,Medium,Native Digital,Modbus TCP,73.8,35.8,Test,8153
+A-00076,WVA,Paint/Blast Booth,Legacy OEM,M767,0.5,Medium,Native Digital,Modbus TCP,64.4,40.5,Machining,16730
+A-00077,RRAD,Material Handler,Fanuc-like,M519,27.6,High,Native Digital,Modbus TCP,85.0,25.7,Machining,2951
+A-00078,ANAD,Overhead Crane,Legacy OEM,M646,12.2,Low,Native Digital,Modbus TCP,85.3,6.9,Test,10876
+A-00079,SIAD,Transformer,Generic Industrial,M192,20.0,Medium,Vendor Digital,Controller API,58.0,57.2,Test,3725
+A-00080,WVA,Air Compressor,Legacy OEM,M157,0.5,Medium,Native Digital,OPC UA,80.7,18.4,Coating,12246
+A-00081,RRAD,Hydraulic Press,Generic Industrial,M346,19.0,Medium,Legacy Analog,None,79.2,17.0,Material Handling,19608
+A-00082,ANAD,Diesel Engine,Siemens-like,M793,8.0,Medium,Native Digital,REST API,84.4,12.3,Utilities,5676
+A-00083,SIAD,Diesel Engine,Mazak-like,M209,35.3,High,Legacy Analog,Serial/PLC,46.6,65.0,Welding,12996
+A-00084,WVA,Transformer,Legacy OEM,M802,20.5,Medium,Legacy Analog,Retrofit Sensors,65.5,34.9,Disassembly,20370
+A-00085,RRAD,Air Compressor,Legacy OEM,M838,21.6,Medium,Native Digital,REST API,43.6,57.8,Machining,21086
+A-00086,ANAD,Diesel Engine,Siemens-like,M434,18.7,Medium,Native Digital,Modbus TCP,63.5,38.5,Test,6255
+A-00087,SIAD,CNC Machine,Legacy OEM,M402,16.7,Medium,Vendor Digital,OEM Cloud API,44.9,65.4,Assembly,26853
+A-00088,WVA,Diesel Engine,Legacy OEM,M923,3.1,Low,Native Digital,OPC UA,70.8,24.8,Utilities,12485
+A-00089,RRAD,Diesel Engine,Caterpillar-like,M791,8.1,High,Native Digital,REST API,79.4,35.9,Welding,15949
+A-00090,ANAD,Diesel Engine,Generic Industrial,M409,0.5,Low,Vendor Digital,Controller API,68.9,26.9,Test,4323
+A-00091,SIAD,Diesel Engine,Generic Industrial,M653,19.4,Medium,Native Digital,OPC UA,63.9,27.7,Test,19745
+A-00092,WVA,Air Compressor,Caterpillar-like,M806,27.2,High,Vendor Digital,Proprietary Gateway,38.3,78.4,Assembly,7619
+A-00093,RRAD,Overhead Crane,Legacy OEM,M943,28.0,High,Vendor Digital,OEM Cloud API,55.4,52.5,Material Handling,3503
+A-00094,ANAD,Test Stand,Haas-like,M310,33.7,Medium,Vendor Digital,OEM Cloud API,59.7,42.9,Inspection,27691
+A-00095,SIAD,Air Compressor,Fanuc-like,M653,14.5,Low,Native Digital,OPC UA,78.1,19.4,Coating,26665
+A-00096,WVA,Diesel Engine,Siemens-like,M153,35.7,Medium,Native Digital,MTConnect,56.6,43.0,Machining,24804
+A-00097,RRAD,Overhead Crane,Generic Industrial,M902,15.2,Medium,Native Digital,MTConnect,72.5,28.7,Utilities,10383
+A-00098,ANAD,Overhead Crane,Mazak-like,M175,23.9,Low,Native Digital,Modbus TCP,59.4,35.2,Inspection,11054
+A-00099,SIAD,Transformer,Haas-like,M540,18.9,Medium,Vendor Digital,Proprietary Gateway,71.5,23.1,Inspection,26488
+A-00100,WVA,Test Stand,Legacy OEM,M564,11.3,Low,Vendor Digital,Proprietary Gateway,81.2,15.4,Test,14131
+A-00101,RRAD,Test Stand,Caterpillar-like,M862,10.3,High,Legacy Analog,None,81.9,29.2,Assembly,27100
+A-00102,ANAD,Diesel Engine,Legacy OEM,M533,9.9,High,Legacy Analog,None,51.9,63.5,Disassembly,9925
+A-00103,SIAD,Transformer,Legacy OEM,M385,6.7,High,Vendor Digital,OEM Cloud API,86.9,25.7,Quality,7910
+A-00104,WVA,Air Compressor,Fanuc-like,M379,6.7,Low,Legacy Analog,Retrofit Sensors,78.9,17.7,Coating,11635
+A-00105,RRAD,Hydraulic Press,Mazak-like,M449,14.9,Medium,Native Digital,MTConnect,75.9,19.3,Machining,12625
+A-00106,ANAD,CNC Machine,Generic Industrial,M183,11.5,High,Legacy Analog,None,80.8,35.0,Coating,15019
+A-00107,SIAD,Test Stand,Haas-like,M598,4.4,High,Legacy Analog,Serial/PLC,76.8,39.0,Utilities,22360
+A-00108,WVA,CNC Machine,Fanuc-like,M882,20.7,High,Legacy Analog,None,64.0,49.3,Coating,9984
+A-00109,RRAD,Hydraulic Press,Caterpillar-like,M506,26.2,High,Vendor Digital,Controller API,64.5,50.0,Disassembly,14794
+A-00110,ANAD,Diesel Engine,Caterpillar-like,M514,0.5,Low,Legacy Analog,Serial/PLC,74.6,20.4,Disassembly,11142
+A-00111,SIAD,Diesel Engine,Caterpillar-like,M505,21.4,Medium,Native Digital,Modbus TCP,61.9,33.4,Coating,24938
+A-00112,WVA,Hydraulic Press,Siemens-like,M844,16.2,High,Native Digital,MTConnect,76.3,41.9,Machining,8242
+A-00113,RRAD,Diesel Engine,Legacy OEM,M693,12.8,High,Legacy Analog,Retrofit Sensors,78.4,23.3,Material Handling,22819
+A-00114,ANAD,Material Handler,Mazak-like,M746,13.5,Medium,Vendor Digital,Controller API,73.2,28.3,Coating,26594
+A-00115,SIAD,CNC Machine,Legacy OEM,M192,21.9,High,Vendor Digital,Proprietary Gateway,70.9,48.0,Quality,19966
+A-00116,WVA,Laser Cutter,Mazak-like,M613,20.4,Medium,Vendor Digital,Proprietary Gateway,60.7,35.7,Machining,2527
+A-00117,RRAD,Overhead Crane,Haas-like,M635,18.7,Low,Native Digital,OPC UA,46.5,49.5,Quality,5701
+A-00118,ANAD,Hydraulic Press,Siemens-like,M167,0.5,Low,Vendor Digital,Controller API,93.8,8.5,Assembly,3596
+A-00119,SIAD,Laser Cutter,Siemens-like,M417,8.4,Low,Legacy Analog,None,79.4,18.2,Test,4725
+A-00120,WVA,Transformer,Legacy OEM,M856,10.8,Low,Native Digital,Modbus TCP,79.0,14.2,Utilities,3562
+A-00121,RRAD,Test Stand,Fanuc-like,M179,6.3,Medium,Native Digital,OPC UA,79.8,28.4,Coating,28170
+A-00122,ANAD,Air Compressor,Haas-like,M485,47.5,Medium,Vendor Digital,Controller API,63.7,31.4,Machining,5816
+A-00123,SIAD,CNC Machine,Mazak-like,M725,9.1,Low,Legacy Analog,Serial/PLC,57.3,41.1,Coating,25154
+A-00124,WVA,Air Compressor,Mazak-like,M572,7.7,Medium,Vendor Digital,Proprietary Gateway,54.1,54.8,Coating,25997
+A-00125,RRAD,Hydraulic Press,Haas-like,M205,0.5,Low,Legacy Analog,None,72.4,21.2,Utilities,28391
+A-00126,ANAD,Diesel Engine,Fanuc-like,M936,0.5,High,Native Digital,Modbus TCP,80.3,27.8,Material Handling,29487
+A-00127,SIAD,Hydraulic Press,Legacy OEM,M831,15.6,Medium,Native Digital,MTConnect,70.1,41.3,Assembly,26431
+A-00128,WVA,Diesel Engine,Haas-like,M105,16.3,High,Legacy Analog,None,69.8,34.6,Inspection,1122
+A-00129,RRAD,CNC Machine,Mazak-like,M754,18.1,Medium,Vendor Digital,Proprietary Gateway,55.0,44.5,Quality,15478
+A-00130,ANAD,Diesel Engine,Siemens-like,M539,15.4,Low,Vendor Digital,Controller API,52.5,43.9,Disassembly,20646
+A-00131,SIAD,Hydraulic Press,Haas-like,M667,8.3,Medium,Vendor Digital,OEM Cloud API,70.1,21.5,Disassembly,13294
+A-00132,WVA,Paint/Blast Booth,Siemens-like,M346,9.2,High,Vendor Digital,Proprietary Gateway,94.0,16.9,Inspection,25780
+A-00133,RRAD,Transformer,Fanuc-like,M930,13.2,Medium,Native Digital,OPC UA,64.3,41.3,Machining,2567
+A-00134,ANAD,Test Stand,Siemens-like,M627,11.9,Low,Native Digital,OPC UA,79.3,17.8,Test,27219
+A-00135,SIAD,Laser Cutter,Mazak-like,M509,12.7,High,Native Digital,MTConnect,91.1,17.6,Material Handling,29815
+A-00136,WVA,Material Handler,Mazak-like,M180,27.2,High,Native Digital,Modbus TCP,62.5,49.5,Test,20241
+A-00137,RRAD,Material Handler,Generic Industrial,M554,15.8,High,Native Digital,REST API,78.4,27.4,Assembly,15151
+A-00138,ANAD,Diesel Engine,Caterpillar-like,M787,7.9,Low,Native Digital,Modbus TCP,99,0,Test,12404
+A-00139,SIAD,Laser Cutter,Siemens-like,M470,13.0,High,Legacy Analog,None,63.8,54.2,Test,19087
+A-00140,WVA,Diesel Engine,Haas-like,M475,18.7,High,Vendor Digital,Proprietary Gateway,69.0,34.5,Test,10801
+A-00141,RRAD,Test Stand,Mazak-like,M319,13.0,Medium,Vendor Digital,Controller API,76.7,23.0,Quality,9857
+A-00142,ANAD,Test Stand,Caterpillar-like,M929,19.2,Low,Native Digital,OPC UA,76.3,30.7,Assembly,22383
+A-00143,SIAD,Hydraulic Press,Legacy OEM,M242,22.2,Low,Legacy Analog,Retrofit Sensors,71.8,30.6,Welding,26398
+A-00144,WVA,Laser Cutter,Siemens-like,M507,35.9,Medium,Vendor Digital,Controller API,54.4,44.3,Material Handling,17725
+A-00145,RRAD,Overhead Crane,Legacy OEM,M898,4.2,High,Native Digital,MTConnect,84.2,23.9,Utilities,21464
+A-00146,ANAD,Transformer,Siemens-like,M826,6.3,Medium,Native Digital,MTConnect,78.6,23.8,Welding,11838
+A-00147,SIAD,Material Handler,Haas-like,M756,6.5,High,Native Digital,REST API,73.3,34.7,Machining,19892
+A-00148,WVA,Material Handler,Caterpillar-like,M756,22.3,High,Vendor Digital,Controller API,67.0,41.9,Quality,9172
+A-00149,RRAD,Test Stand,Generic Industrial,M515,13.9,Medium,Vendor Digital,Controller API,58.0,33.0,Coating,15361
+A-00150,ANAD,Diesel Engine,Legacy OEM,M835,14.5,High,Vendor Digital,Proprietary Gateway,66.4,45.9,Assembly,24558
+A-00151,SIAD,Material Handler,Fanuc-like,M244,8.4,Medium,Vendor Digital,Proprietary Gateway,83.3,12.8,Inspection,2158
+A-00152,WVA,CNC Machine,Fanuc-like,M881,14.3,Medium,Vendor Digital,OEM Cloud API,87.7,9.1,Machining,16827
+A-00153,RRAD,Material Handler,Siemens-like,M149,0.5,Medium,Native Digital,Modbus TCP,82.8,20.6,Disassembly,9719
+A-00154,ANAD,Laser Cutter,Fanuc-like,M370,11.8,Low,Vendor Digital,Proprietary Gateway,77.2,22.9,Assembly,25530
+A-00155,SIAD,Hydraulic Press,Siemens-like,M945,15.5,Medium,Native Digital,REST API,70.6,20.9,Quality,22795
+A-00156,WVA,Transformer,Fanuc-like,M716,12.6,High,Native Digital,REST API,89.7,17.1,Utilities,13652
+A-00157,RRAD,Laser Cutter,Haas-like,M426,17.2,High,Vendor Digital,OEM Cloud API,70.4,41.8,Machining,13376
+A-00158,ANAD,Material Handler,Siemens-like,M586,10.3,Medium,Native Digital,REST API,53.9,44.5,Disassembly,12570
+A-00159,SIAD,Hydraulic Press,Legacy OEM,M692,19.4,High,Legacy Analog,Serial/PLC,75.2,34.0,Quality,7956
+A-00160,WVA,Test Stand,Generic Industrial,M212,24.6,Medium,Native Digital,Modbus TCP,65.2,41.3,Welding,1120
+A-00161,RRAD,Overhead Crane,Fanuc-like,M674,5.8,High,Vendor Digital,Controller API,80.9,31.7,Assembly,22199
+A-00162,ANAD,Overhead Crane,Legacy OEM,M838,14.7,Medium,Legacy Analog,Serial/PLC,52.7,45.2,Coating,20490
+A-00163,SIAD,Overhead Crane,Siemens-like,M591,19.2,High,Legacy Analog,Retrofit Sensors,64.8,47.2,Assembly,18866
+A-00164,WVA,Material Handler,Mazak-like,M938,25.1,Medium,Native Digital,MTConnect,39.6,57.5,Assembly,25831
+A-00165,RRAD,Air Compressor,Legacy OEM,M651,11.3,Medium,Native Digital,Modbus TCP,81.3,18.6,Coating,18916
+A-00166,ANAD,Test Stand,Generic Industrial,M338,7.4,High,Vendor Digital,OEM Cloud API,66.8,37.8,Disassembly,3783
+A-00167,SIAD,Overhead Crane,Mazak-like,M766,12.2,Medium,Native Digital,OPC UA,65.9,43.6,Welding,25269
+A-00168,WVA,Material Handler,Legacy OEM,M138,6.5,High,Vendor Digital,Controller API,76.6,41.5,Machining,14193
+A-00169,RRAD,Paint/Blast Booth,Caterpillar-like,M109,21.1,Low,Vendor Digital,OEM Cloud API,90.5,20.6,Coating,19110
+A-00170,ANAD,Transformer,Fanuc-like,M971,8.7,Low,Native Digital,Modbus TCP,48.3,50.1,Utilities,15836
+A-00171,SIAD,CNC Machine,Generic Industrial,M875,15.6,Medium,Vendor Digital,OEM Cloud API,59.4,38.4,Welding,6250
+A-00172,WVA,Transformer,Fanuc-like,M243,18.7,Medium,Vendor Digital,Controller API,83.0,20.9,Material Handling,11103
+A-00173,RRAD,Material Handler,Generic Industrial,M468,20.9,Medium,Native Digital,REST API,67.0,32.8,Welding,2535
+A-00174,ANAD,Test Stand,Siemens-like,M729,11.8,Medium,Native Digital,REST API,53.2,37.8,Welding,7680
+A-00175,SIAD,Material Handler,Generic Industrial,M872,4.3,Low,Native Digital,Modbus TCP,77.5,26.4,Quality,29110
+A-00176,WVA,Air Compressor,Haas-like,M307,0.9,Medium,Vendor Digital,OEM Cloud API,94.6,11.4,Quality,18085
+A-00177,RRAD,Diesel Engine,Fanuc-like,M625,8.4,High,Native Digital,Modbus TCP,86.2,22.2,Test,15468
+A-00178,ANAD,Transformer,Generic Industrial,M323,13.9,Medium,Vendor Digital,Controller API,52.8,52.8,Quality,2893
+A-00179,SIAD,Diesel Engine,Fanuc-like,M884,11.4,Low,Legacy Analog,None,75.4,23.9,Test,12770
+A-00180,WVA,Material Handler,Haas-like,M236,17.9,Medium,Legacy Analog,None,60.9,32.4,Assembly,4387
+A-00181,RRAD,Diesel Engine,Mazak-like,M644,3.5,Medium,Native Digital,MTConnect,72.7,19.6,Test,27479
+A-00182,ANAD,CNC Machine,Haas-like,M884,15.9,Medium,Native Digital,OPC UA,86.5,15.0,Disassembly,8386
+A-00183,SIAD,CNC Machine,Haas-like,M322,14.7,Medium,Vendor Digital,OEM Cloud API,71.8,33.4,Disassembly,5091
+A-00184,WVA,Laser Cutter,Fanuc-like,M409,15.4,High,Legacy Analog,Retrofit Sensors,72.7,28.2,Machining,22133
+A-00185,RRAD,Laser Cutter,Siemens-like,M758,7.5,Medium,Vendor Digital,Controller API,78.8,15.9,Test,26249
+A-00186,ANAD,Laser Cutter,Legacy OEM,M330,17.1,Medium,Vendor Digital,Proprietary Gateway,69.0,25.4,Coating,28599
+A-00187,SIAD,Test Stand,Caterpillar-like,M560,19.1,Medium,Legacy Analog,None,42.5,57.4,Assembly,3529
+A-00188,WVA,Laser Cutter,Fanuc-like,M923,20.2,Low,Native Digital,Modbus TCP,47.4,46.4,Quality,24234
+A-00189,RRAD,Test Stand,Legacy OEM,M590,14.1,Low,Native Digital,MTConnect,78.3,24.2,Welding,23294
+A-00190,ANAD,Transformer,Siemens-like,M367,12.1,High,Legacy Analog,Serial/PLC,54.4,57.1,Assembly,17303
+A-00191,SIAD,Paint/Blast Booth,Legacy OEM,M326,0.5,Medium,Legacy Analog,Serial/PLC,82.3,17.1,Machining,1031
+A-00192,WVA,CNC Machine,Haas-like,M953,15.3,Low,Vendor Digital,Proprietary Gateway,72.5,30.9,Welding,16861
+A-00193,RRAD,Laser Cutter,Fanuc-like,M837,19.8,Medium,Vendor Digital,Proprietary Gateway,63.3,36.2,Utilities,16501
+A-00194,ANAD,CNC Machine,Legacy OEM,M784,5.6,Low,Legacy Analog,None,77.4,20.9,Disassembly,25545
+A-00195,SIAD,Diesel Engine,Generic Industrial,M731,20.3,High,Native Digital,OPC UA,79.7,25.5,Material Handling,22103
+A-00196,WVA,Overhead Crane,Siemens-like,M117,20.9,High,Vendor Digital,OEM Cloud API,63.9,40.0,Utilities,27145
+A-00197,RRAD,Test Stand,Siemens-like,M373,0.5,High,Legacy Analog,None,89.7,17.5,Test,3089
+A-00198,ANAD,Hydraulic Press,Legacy OEM,M765,8.8,Medium,Vendor Digital,Proprietary Gateway,75.5,22.7,Disassembly,3563
+A-00199,SIAD,Hydraulic Press,Legacy OEM,M197,6.5,Medium,Vendor Digital,Proprietary Gateway,83.9,13.3,Utilities,1894
+A-00200,WVA,CNC Machine,Siemens-like,M656,7.3,Low,Vendor Digital,Proprietary Gateway,90.2,6.4,Quality,22064
+A-00201,RRAD,Diesel Engine,Legacy OEM,M969,19.3,Low,Vendor Digital,OEM Cloud API,62.9,39.0,Test,22685
+A-00202,ANAD,Paint/Blast Booth,Siemens-like,M154,18.1,High,Legacy Analog,Retrofit Sensors,85.6,28.4,Inspection,14822
+A-00203,SIAD,CNC Machine,Mazak-like,M333,22.7,Medium,Vendor Digital,OEM Cloud API,73.0,24.7,Assembly,18621
+A-00204,WVA,Material Handler,Caterpillar-like,M184,37.8,Medium,Vendor Digital,OEM Cloud API,54.7,48.9,Coating,5553
+A-00205,RRAD,Hydraulic Press,Caterpillar-like,M235,14.0,Medium,Native Digital,MTConnect,63.5,28.5,Inspection,6640
+A-00206,ANAD,Overhead Crane,Haas-like,M903,17.6,Medium,Vendor Digital,OEM Cloud API,65.1,36.7,Assembly,28802
+A-00207,SIAD,Hydraulic Press,Fanuc-like,M375,10.9,High,Legacy Analog,Retrofit Sensors,83.5,28.9,Coating,9295
+A-00208,WVA,Laser Cutter,Fanuc-like,M838,19.9,High,Vendor Digital,Proprietary Gateway,69.4,36.0,Material Handling,19957
+A-00209,RRAD,Transformer,Legacy OEM,M766,8.8,High,Vendor Digital,Proprietary Gateway,74.8,30.5,Quality,4960
+A-00210,ANAD,CNC Machine,Siemens-like,M852,25.7,Medium,Vendor Digital,Proprietary Gateway,94.7,2.4,Material Handling,19370
+A-00211,SIAD,Air Compressor,Caterpillar-like,M844,10.0,Medium,Native Digital,OPC UA,81.1,22.5,Material Handling,23711
+A-00212,WVA,CNC Machine,Fanuc-like,M358,25.4,Medium,Legacy Analog,Retrofit Sensors,47.1,53.0,Machining,23936
+A-00213,RRAD,Overhead Crane,Legacy OEM,M649,6.7,Medium,Vendor Digital,Controller API,83.4,17.8,Quality,21411
+A-00214,ANAD,Material Handler,Generic Industrial,M793,5.7,High,Native Digital,REST API,63.1,42.7,Test,25163
+A-00215,SIAD,Hydraulic Press,Haas-like,M807,14.1,High,Native Digital,OPC UA,64.8,38.5,Utilities,5439
+A-00216,WVA,Hydraulic Press,Siemens-like,M419,21.7,High,Native Digital,Modbus TCP,75.6,27.4,Assembly,15420
+A-00217,RRAD,Air Compressor,Caterpillar-like,M123,5.7,High,Legacy Analog,None,73.4,33.8,Assembly,21732
+A-00218,ANAD,Diesel Engine,Mazak-like,M573,26.9,Low,Legacy Analog,None,53.0,45.5,Welding,26640
+A-00219,SIAD,Hydraulic Press,Fanuc-like,M310,17.6,Medium,Native Digital,OPC UA,84.1,15.5,Coating,25152
+A-00220,WVA,Test Stand,Generic Industrial,M983,13.3,Medium,Vendor Digital,Proprietary Gateway,72.6,29.7,Material Handling,17792
+A-00221,RRAD,Material Handler,Legacy OEM,M404,9.9,Medium,Native Digital,REST API,83.5,20.0,Quality,19838
+A-00222,ANAD,Diesel Engine,Mazak-like,M528,23.6,High,Native Digital,REST API,60.4,51.6,Quality,5017
+A-00223,SIAD,Transformer,Siemens-like,M962,4.8,Medium,Legacy Analog,None,81.8,15.5,Material Handling,20796
+A-00224,WVA,Diesel Engine,Mazak-like,M518,13.3,Medium,Native Digital,OPC UA,84.6,14.1,Material Handling,14119
+A-00225,RRAD,Test Stand,Fanuc-like,M899,8.5,Medium,Legacy Analog,None,75.9,23.2,Material Handling,19035
+A-00226,ANAD,Air Compressor,Siemens-like,M655,22.8,Medium,Vendor Digital,Controller API,63.8,42.5,Disassembly,25403
+A-00227,SIAD,Test Stand,Legacy OEM,M189,0.5,High,Legacy Analog,None,67.3,38.3,Material Handling,28853
+A-00228,WVA,Material Handler,Fanuc-like,M903,15.3,Medium,Native Digital,REST API,64.7,33.0,Welding,27157
+A-00229,RRAD,CNC Machine,Legacy OEM,M626,19.9,High,Vendor Digital,Controller API,71.1,37.9,Inspection,4942
+A-00230,ANAD,Material Handler,Fanuc-like,M828,19.1,Medium,Legacy Analog,None,65.6,31.9,Assembly,27647
+A-00231,SIAD,CNC Machine,Legacy OEM,M195,17.4,High,Vendor Digital,Proprietary Gateway,58.4,59.5,Test,17395
+A-00232,WVA,Air Compressor,Legacy OEM,M850,19.5,Medium,Legacy Analog,Serial/PLC,46.2,48.8,Inspection,24451
+A-00233,RRAD,Material Handler,Siemens-like,M948,4.8,Low,Legacy Analog,Serial/PLC,61.5,41.2,Coating,11567
+A-00234,ANAD,Laser Cutter,Legacy OEM,M570,4.7,High,Legacy Analog,None,91.6,20.4,Disassembly,4571
+A-00235,SIAD,Material Handler,Siemens-like,M195,17.8,Low,Vendor Digital,Controller API,79.3,27.0,Assembly,8704
+A-00236,WVA,Diesel Engine,Fanuc-like,M539,28.6,Medium,Vendor Digital,Proprietary Gateway,55.9,51.4,Inspection,23558
+A-00237,RRAD,Diesel Engine,Legacy OEM,M532,13.7,Medium,Vendor Digital,OEM Cloud API,75.2,21.8,Machining,16153
+A-00238,ANAD,Diesel Engine,Mazak-like,M892,0.5,Medium,Legacy Analog,Serial/PLC,70.9,32.2,Machining,21523
+A-00239,SIAD,Material Handler,Mazak-like,M730,19.1,High,Vendor Digital,Proprietary Gateway,79.0,32.9,Material Handling,28679
+A-00240,WVA,CNC Machine,Siemens-like,M910,25.9,Low,Native Digital,MTConnect,40.7,67.8,Machining,8619
+A-00241,RRAD,CNC Machine,Fanuc-like,M865,21.8,Medium,Vendor Digital,Controller API,73.7,28.2,Test,10184
+A-00242,ANAD,Test Stand,Haas-like,M172,23.5,Medium,Legacy Analog,Serial/PLC,75.8,28.0,Utilities,29621
+A-00243,SIAD,Material Handler,Legacy OEM,M174,31.6,High,Legacy Analog,Retrofit Sensors,58.3,48.2,Disassembly,19746
+A-00244,WVA,Diesel Engine,Legacy OEM,M525,0.6,High,Native Digital,MTConnect,73.4,44.3,Test,23496
+A-00245,RRAD,Hydraulic Press,Siemens-like,M500,6.7,High,Native Digital,MTConnect,62.8,50.1,Quality,21284
+A-00246,ANAD,Air Compressor,Caterpillar-like,M350,12.3,Medium,Vendor Digital,Controller API,68.3,22.1,Inspection,14737
+A-00247,SIAD,Diesel Engine,Fanuc-like,M608,11.0,Medium,Vendor Digital,OEM Cloud API,69.4,28.6,Assembly,17637
+A-00248,WVA,Laser Cutter,Caterpillar-like,M889,1.0,Low,Native Digital,REST API,79.3,16.8,Disassembly,11477
+A-00249,RRAD,Air Compressor,Legacy OEM,M680,12.6,Medium,Vendor Digital,Proprietary Gateway,75.4,22.9,Machining,12548
+A-00250,ANAD,Diesel Engine,Legacy OEM,M112,12.8,Medium,Legacy Analog,Retrofit Sensors,67.4,32.6,Welding,2006
+A-00251,SIAD,Overhead Crane,Siemens-like,M377,9.6,Low,Legacy Analog,Serial/PLC,77.3,22.8,Inspection,19228
+A-00252,WVA,Hydraulic Press,Caterpillar-like,M998,30.8,Medium,Legacy Analog,Retrofit Sensors,90.6,7.9,Material Handling,28878
+A-00253,RRAD,CNC Machine,Fanuc-like,M575,17.0,Medium,Native Digital,OPC UA,59.8,42.0,Assembly,19888
+A-00254,ANAD,Material Handler,Haas-like,M454,0.5,Low,Legacy Analog,None,80.1,19.4,Disassembly,11477
+A-00255,SIAD,Diesel Engine,Fanuc-like,M828,4.4,Medium,Native Digital,OPC UA,56.1,56.9,Coating,3548
+A-00256,WVA,Diesel Engine,Haas-like,M197,7.8,High,Legacy Analog,Serial/PLC,54.5,57.7,Utilities,4874
+A-00257,RRAD,Test Stand,Legacy OEM,M502,4.6,High,Vendor Digital,OEM Cloud API,85.4,24.3,Assembly,10922
+A-00258,ANAD,Overhead Crane,Mazak-like,M421,19.9,High,Legacy Analog,None,71.1,41.4,Test,4456
+A-00259,SIAD,Laser Cutter,Generic Industrial,M813,18.3,High,Native Digital,MTConnect,66.1,45.4,Quality,1821
+A-00260,WVA,CNC Machine,Siemens-like,M939,6.6,Low,Native Digital,OPC UA,56.4,43.0,Machining,1518
+A-00261,RRAD,Material Handler,Fanuc-like,M233,19.2,Medium,Native Digital,MTConnect,55.3,54.1,Welding,27490
+A-00262,ANAD,Hydraulic Press,Caterpillar-like,M166,14.1,Medium,Legacy Analog,Retrofit Sensors,69.0,40.1,Welding,21667
+A-00263,SIAD,Overhead Crane,Legacy OEM,M841,25.0,Low,Native Digital,MTConnect,83.1,20.1,Test,16757
+A-00264,WVA,Diesel Engine,Caterpillar-like,M728,22.1,Medium,Native Digital,OPC UA,61.2,49.0,Quality,20717
+A-00265,RRAD,CNC Machine,Legacy OEM,M638,10.7,Medium,Native Digital,REST API,84.0,9.7,Welding,21168
+A-00266,ANAD,Material Handler,Siemens-like,M679,18.6,Medium,Native Digital,Modbus TCP,47.0,54.1,Utilities,11038
+A-00267,SIAD,Hydraulic Press,Fanuc-like,M263,16.0,High,Legacy Analog,Serial/PLC,78.7,22.9,Inspection,8621
+A-00268,WVA,Test Stand,Siemens-like,M959,10.5,High,Legacy Analog,Retrofit Sensors,84.5,18.2,Machining,6270
+A-00269,RRAD,CNC Machine,Legacy OEM,M929,7.6,Medium,Vendor Digital,Controller API,91.7,15.9,Material Handling,18264
+A-00270,ANAD,CNC Machine,Siemens-like,M728,28.2,Medium,Native Digital,OPC UA,76.1,24.6,Welding,26925
+A-00271,SIAD,Diesel Engine,Caterpillar-like,M966,9.3,Low,Native Digital,MTConnect,46.6,52.7,Utilities,28702
+A-00272,WVA,Hydraulic Press,Fanuc-like,M849,8.8,High,Vendor Digital,Controller API,67.7,46.1,Test,26447
+A-00273,RRAD,Test Stand,Siemens-like,M851,6.0,Medium,Vendor Digital,OEM Cloud API,75.5,21.8,Coating,4672
+A-00274,ANAD,Diesel Engine,Legacy OEM,M726,10.4,High,Vendor Digital,Controller API,76.6,37.3,Welding,21459
+A-00275,SIAD,Transformer,Generic Industrial,M786,17.1,Medium,Native Digital,REST API,66.1,35.6,Assembly,15135
+A-00276,WVA,Diesel Engine,Mazak-like,M850,10.7,High,Vendor Digital,Proprietary Gateway,71.4,37.1,Test,5950
+A-00277,RRAD,Paint/Blast Booth,Mazak-like,M175,5.2,Medium,Native Digital,Modbus TCP,75.6,24.5,Disassembly,10163
+A-00278,ANAD,Diesel Engine,Caterpillar-like,M446,7.3,High,Native Digital,REST API,76.5,35.2,Quality,20607
+A-00279,SIAD,Paint/Blast Booth,Fanuc-like,M519,10.6,Medium,Vendor Digital,OEM Cloud API,59.9,42.8,Utilities,24159
+A-00280,WVA,Material Handler,Legacy OEM,M602,16.2,Medium,Vendor Digital,OEM Cloud API,84.0,18.0,Machining,2286
+A-00281,RRAD,Hydraulic Press,Caterpillar-like,M584,7.0,Medium,Vendor Digital,OEM Cloud API,78.6,23.3,Inspection,10604
+A-00282,ANAD,Air Compressor,Mazak-like,M478,24.0,Medium,Legacy Analog,Retrofit Sensors,57.4,41.7,Machining,15107
+A-00283,SIAD,Diesel Engine,Legacy OEM,M654,7.2,Low,Vendor Digital,Controller API,77.5,28.6,Test,25287
+A-00284,WVA,Transformer,Fanuc-like,M587,19.8,Medium,Legacy Analog,Retrofit Sensors,76.2,19.5,Coating,3087
+A-00285,RRAD,Hydraulic Press,Fanuc-like,M927,14.3,Medium,Vendor Digital,OEM Cloud API,67.6,39.1,Welding,4634
+A-00286,ANAD,Diesel Engine,Generic Industrial,M926,33.4,High,Vendor Digital,Controller API,64.3,42.4,Inspection,3351
+A-00287,SIAD,Hydraulic Press,Caterpillar-like,M524,7.3,High,Vendor Digital,Controller API,80.4,22.2,Machining,5356
+A-00288,WVA,Transformer,Legacy OEM,M648,5.7,Medium,Legacy Analog,Retrofit Sensors,78.8,12.6,Assembly,29266
+A-00289,RRAD,Overhead Crane,Mazak-like,M139,6.2,Medium,Native Digital,REST API,83.9,10.5,Test,29649
+A-00290,ANAD,Paint/Blast Booth,Siemens-like,M418,4.8,Medium,Native Digital,Modbus TCP,97.3,3.9,Coating,28118
+A-00291,SIAD,Laser Cutter,Caterpillar-like,M292,11.8,Low,Native Digital,Modbus TCP,66.4,32.7,Material Handling,7426
+A-00292,WVA,Material Handler,Generic Industrial,M618,2.2,Medium,Vendor Digital,OEM Cloud API,77.9,20.3,Test,4944
+A-00293,RRAD,Air Compressor,Siemens-like,M821,2.7,High,Legacy Analog,None,74.1,37.5,Welding,9477
+A-00294,ANAD,Hydraulic Press,Mazak-like,M281,13.5,Medium,Vendor Digital,Controller API,71.3,34.5,Material Handling,19730
+A-00295,SIAD,Laser Cutter,Haas-like,M898,4.5,High,Legacy Analog,None,94.5,13.2,Welding,28585
+A-00296,WVA,CNC Machine,Generic Industrial,M109,16.1,High,Native Digital,Modbus TCP,89.8,10.4,Material Handling,4835
+A-00297,RRAD,Test Stand,Mazak-like,M972,12.2,High,Legacy Analog,Retrofit Sensors,70.4,36.3,Assembly,15540
+A-00298,ANAD,CNC Machine,Legacy OEM,M959,6.4,Medium,Vendor Digital,Controller API,99,1.9,Assembly,18897
+A-00299,SIAD,Test Stand,Generic Industrial,M767,7.8,High,Native Digital,REST API,67.3,45.2,Coating,6672
+A-00300,WVA,Diesel Engine,Generic Industrial,M609,8.2,Medium,Legacy Analog,Serial/PLC,65.4,27.4,Coating,9000
+A-00301,RRAD,Material Handler,Generic Industrial,M903,2.2,Medium,Legacy Analog,Retrofit Sensors,87.8,10.4,Material Handling,22515
+A-00302,ANAD,Hydraulic Press,Generic Industrial,M927,1.1,High,Native Digital,OPC UA,58.0,53.5,Utilities,25499
+A-00303,SIAD,Material Handler,Siemens-like,M366,29.2,Medium,Native Digital,OPC UA,53.5,37.3,Quality,10135
+A-00304,WVA,Overhead Crane,Mazak-like,M642,21.0,High,Native Digital,MTConnect,42.3,67.6,Coating,14036
+A-00305,RRAD,Diesel Engine,Caterpillar-like,M599,15.6,High,Vendor Digital,OEM Cloud API,64.2,47.8,Assembly,21177
+A-00306,ANAD,Material Handler,Legacy OEM,M262,9.2,High,Native Digital,Modbus TCP,73.5,33.5,Material Handling,26229
+A-00307,SIAD,Air Compressor,Siemens-like,M114,22.4,Medium,Vendor Digital,Proprietary Gateway,74.4,28.9,Assembly,25300
+A-00308,WVA,Paint/Blast Booth,Caterpillar-like,M492,14.3,High,Vendor Digital,OEM Cloud API,77.6,29.4,Utilities,19789
+A-00309,RRAD,CNC Machine,Mazak-like,M467,15.2,Low,Vendor Digital,Proprietary Gateway,71.1,33.5,Welding,5902
+A-00310,ANAD,Material Handler,Caterpillar-like,M703,12.8,Low,Vendor Digital,OEM Cloud API,79.2,20.5,Utilities,6037
+A-00311,SIAD,Diesel Engine,Caterpillar-like,M149,9.6,Medium,Vendor Digital,Controller API,52.1,44.1,Inspection,14156
+A-00312,WVA,Overhead Crane,Mazak-like,M777,3.1,High,Native Digital,OPC UA,75.7,33.7,Inspection,22208
+A-00313,RRAD,Laser Cutter,Haas-like,M304,4.1,Medium,Legacy Analog,None,62.8,38.5,Coating,27746
+A-00314,ANAD,Laser Cutter,Generic Industrial,M592,3.8,High,Vendor Digital,OEM Cloud API,50.7,56.0,Assembly,8184
+A-00315,SIAD,Diesel Engine,Siemens-like,M759,4.8,Low,Vendor Digital,OEM Cloud API,52.3,54.8,Welding,15466
+A-00316,WVA,Material Handler,Generic Industrial,M420,18.8,High,Vendor Digital,OEM Cloud API,74.4,31.8,Test,24700
+A-00317,RRAD,Diesel Engine,Siemens-like,M999,23.0,High,Native Digital,OPC UA,45.1,74.8,Inspection,12710
+A-00318,ANAD,Air Compressor,Mazak-like,M764,0.7,High,Vendor Digital,Proprietary Gateway,72.5,32.2,Machining,4204
+A-00319,SIAD,Diesel Engine,Legacy OEM,M467,9.7,Low,Native Digital,Modbus TCP,39.1,54.5,Quality,1444
+A-00320,WVA,Paint/Blast Booth,Caterpillar-like,M164,17.2,Low,Legacy Analog,Serial/PLC,77.9,25.4,Coating,21962
+A-00321,RRAD,CNC Machine,Haas-like,M197,9.6,Medium,Vendor Digital,Controller API,55.4,37.0,Test,22183
+A-00322,ANAD,Test Stand,Caterpillar-like,M758,11.5,Medium,Vendor Digital,OEM Cloud API,84.5,11.1,Machining,17066
+A-00323,SIAD,Paint/Blast Booth,Generic Industrial,M487,22.6,High,Vendor Digital,Proprietary Gateway,46.1,67.2,Test,27274
+A-00324,WVA,CNC Machine,Mazak-like,M863,14.8,Medium,Legacy Analog,Serial/PLC,64.2,36.6,Disassembly,3863
+A-00325,RRAD,Hydraulic Press,Siemens-like,M472,22.8,Low,Legacy Analog,Retrofit Sensors,68.8,33.2,Disassembly,27257
+A-00326,ANAD,CNC Machine,Caterpillar-like,M877,24.5,Medium,Vendor Digital,Controller API,55.9,48.2,Welding,571
+A-00327,SIAD,Hydraulic Press,Generic Industrial,M838,22.9,High,Vendor Digital,OEM Cloud API,38.2,62.5,Test,4004
+A-00328,WVA,CNC Machine,Siemens-like,M210,13.7,High,Native Digital,Modbus TCP,74.0,33.1,Test,2023
+A-00329,RRAD,Material Handler,Mazak-like,M958,18.6,Medium,Vendor Digital,Proprietary Gateway,54.1,44.3,Quality,16324
+A-00330,ANAD,Material Handler,Haas-like,M429,12.5,Medium,Legacy Analog,None,85.1,19.3,Utilities,29381
+A-00331,SIAD,Hydraulic Press,Haas-like,M816,30.7,Medium,Native Digital,REST API,57.7,43.2,Utilities,10294
+A-00332,WVA,Paint/Blast Booth,Siemens-like,M788,8.9,Medium,Native Digital,OPC UA,66.0,31.0,Machining,23778
+A-00333,RRAD,Test Stand,Generic Industrial,M827,22.1,Medium,Native Digital,MTConnect,62.1,31.4,Test,22593
+A-00334,ANAD,Air Compressor,Caterpillar-like,M786,14.3,Low,Native Digital,Modbus TCP,79.4,23.7,Disassembly,7050
+A-00335,SIAD,CNC Machine,Siemens-like,M933,18.1,Medium,Native Digital,MTConnect,34.5,67.3,Material Handling,3858
+A-00336,WVA,Transformer,Legacy OEM,M915,22.6,Medium,Vendor Digital,Controller API,57.4,41.2,Coating,23206
+A-00337,RRAD,Test Stand,Haas-like,M989,20.1,Low,Legacy Analog,None,61.7,42.1,Material Handling,27696
+A-00338,ANAD,CNC Machine,Generic Industrial,M298,13.5,Medium,Vendor Digital,Controller API,70.0,26.7,Coating,15206
+A-00339,SIAD,Diesel Engine,Fanuc-like,M698,10.9,High,Vendor Digital,OEM Cloud API,65.0,44.3,Coating,684
+A-00340,WVA,Hydraulic Press,Haas-like,M963,19.2,Medium,Native Digital,OPC UA,93.9,9.7,Coating,16574
+A-00341,RRAD,Air Compressor,Haas-like,M649,10.0,Medium,Vendor Digital,Controller API,71.0,29.6,Test,3512
+A-00342,ANAD,Hydraulic Press,Haas-like,M586,8.4,Low,Vendor Digital,Proprietary Gateway,77.3,30.9,Utilities,27490
+A-00343,SIAD,Air Compressor,Legacy OEM,M216,10.7,High,Native Digital,OPC UA,67.4,46.3,Test,8907
+A-00344,WVA,Laser Cutter,Generic Industrial,M297,7.8,High,Legacy Analog,Retrofit Sensors,70.3,40.2,Assembly,17339
+A-00345,RRAD,Diesel Engine,Generic Industrial,M534,30.6,Medium,Vendor Digital,OEM Cloud API,79.3,18.3,Inspection,7236
+A-00346,ANAD,Laser Cutter,Mazak-like,M834,9.0,Medium,Legacy Analog,None,72.9,24.2,Assembly,1741
+A-00347,SIAD,Diesel Engine,Mazak-like,M423,26.4,Medium,Vendor Digital,Proprietary Gateway,70.6,24.0,Disassembly,13263
+A-00348,WVA,Test Stand,Siemens-like,M614,20.3,Medium,Vendor Digital,Controller API,89.2,13.5,Inspection,9997
+A-00349,RRAD,Air Compressor,Fanuc-like,M864,11.9,Medium,Vendor Digital,Controller API,76.3,17.6,Test,26608
+A-00350,ANAD,Air Compressor,Legacy OEM,M846,14.6,Medium,Legacy Analog,Retrofit Sensors,93.6,0,Assembly,865
+A-00351,SIAD,Laser Cutter,Siemens-like,M316,9.1,High,Vendor Digital,Proprietary Gateway,70.9,39.0,Test,21665
+A-00352,WVA,Paint/Blast Booth,Legacy OEM,M155,0.5,High,Native Digital,REST API,86.7,31.4,Utilities,15614
+A-00353,RRAD,Test Stand,Caterpillar-like,M391,23.7,High,Native Digital,Modbus TCP,72.9,42.1,Quality,2787
+A-00354,ANAD,Material Handler,Legacy OEM,M423,21.4,High,Vendor Digital,Controller API,75.2,40.1,Test,6025
+A-00355,SIAD,Diesel Engine,Mazak-like,M556,13.1,Medium,Vendor Digital,OEM Cloud API,79.3,19.6,Assembly,25887
+A-00356,WVA,CNC Machine,Generic Industrial,M741,0.5,Medium,Native Digital,MTConnect,83.9,14.0,Inspection,24336
+A-00357,RRAD,Diesel Engine,Haas-like,M652,22.5,High,Vendor Digital,Controller API,67.3,47.9,Material Handling,21927
+A-00358,ANAD,Air Compressor,Siemens-like,M614,7.4,Medium,Native Digital,REST API,68.7,31.3,Disassembly,22214
+A-00359,SIAD,CNC Machine,Generic Industrial,M993,35.1,Medium,Legacy Analog,None,51.1,54.2,Machining,24614
+A-00360,WVA,Air Compressor,Generic Industrial,M311,30.6,Low,Native Digital,Modbus TCP,60.4,43.3,Utilities,26434
+A-00361,RRAD,Hydraulic Press,Siemens-like,M954,4.3,High,Legacy Analog,Retrofit Sensors,78.1,38.8,Coating,19460
+A-00362,ANAD,Laser Cutter,Siemens-like,M485,10.8,High,Vendor Digital,Controller API,76.0,32.8,Welding,17420
+A-00363,SIAD,Hydraulic Press,Haas-like,M758,16.0,Medium,Legacy Analog,None,59.1,37.5,Coating,7430
+A-00364,WVA,Diesel Engine,Caterpillar-like,M593,15.1,High,Vendor Digital,Controller API,60.4,51.8,Material Handling,16196
+A-00365,RRAD,CNC Machine,Fanuc-like,M157,21.0,High,Native Digital,OPC UA,85.7,13.8,Machining,8962
+A-00366,ANAD,Material Handler,Caterpillar-like,M321,11.7,Medium,Vendor Digital,Controller API,66.4,30.1,Material Handling,20374
+A-00367,SIAD,Material Handler,Generic Industrial,M450,16.3,Low,Vendor Digital,Controller API,63.6,33.4,Material Handling,20047
+A-00368,WVA,Transformer,Generic Industrial,M529,12.7,High,Vendor Digital,OEM Cloud API,45.0,63.4,Machining,20341
+A-00369,RRAD,Diesel Engine,Haas-like,M947,2.1,High,Legacy Analog,Serial/PLC,79.4,24.8,Disassembly,29891
+A-00370,ANAD,Material Handler,Legacy OEM,M593,0.5,Medium,Vendor Digital,Proprietary Gateway,73.6,21.4,Test,11985
+A-00371,SIAD,Transformer,Caterpillar-like,M390,12.3,Medium,Native Digital,OPC UA,51.0,50.1,Quality,29229
+A-00372,WVA,Laser Cutter,Generic Industrial,M310,0.5,High,Native Digital,MTConnect,78.8,31.6,Assembly,13897
+A-00373,RRAD,Hydraulic Press,Mazak-like,M873,19.5,High,Legacy Analog,Serial/PLC,81.6,16.5,Welding,14040
+A-00374,ANAD,Laser Cutter,Mazak-like,M853,0.5,Medium,Native Digital,Modbus TCP,59.4,36.5,Machining,28516
+A-00375,SIAD,Paint/Blast Booth,Haas-like,M728,17.2,Medium,Legacy Analog,Retrofit Sensors,74.4,21.9,Disassembly,5767
+A-00376,WVA,Hydraulic Press,Fanuc-like,M479,17.3,Medium,Legacy Analog,Retrofit Sensors,64.5,36.2,Inspection,20456
+A-00377,RRAD,Diesel Engine,Legacy OEM,M772,0.5,Medium,Vendor Digital,OEM Cloud API,99,0.3,Utilities,9871
+A-00378,ANAD,CNC Machine,Generic Industrial,M100,13.0,Medium,Vendor Digital,Controller API,65.6,30.2,Machining,3345
+A-00379,SIAD,Material Handler,Siemens-like,M843,14.4,Medium,Vendor Digital,Controller API,59.1,42.9,Utilities,19601
+A-00380,WVA,Hydraulic Press,Mazak-like,M618,14.5,Low,Native Digital,OPC UA,61.7,36.5,Inspection,18805
+A-00381,RRAD,Diesel Engine,Legacy OEM,M349,7.7,Low,Legacy Analog,Serial/PLC,99,7.3,Assembly,25914
+A-00382,ANAD,Overhead Crane,Legacy OEM,M325,10.8,Medium,Vendor Digital,Proprietary Gateway,71.5,33.4,Welding,26719
+A-00383,SIAD,CNC Machine,Siemens-like,M177,22.3,High,Legacy Analog,None,61.8,41.6,Utilities,6348
+A-00384,WVA,Overhead Crane,Mazak-like,M854,20.9,Medium,Legacy Analog,Retrofit Sensors,55.8,34.2,Welding,8195
+A-00385,RRAD,Air Compressor,Generic Industrial,M604,16.8,High,Native Digital,REST API,62.9,48.6,Quality,717
+A-00386,ANAD,Air Compressor,Haas-like,M989,15.2,Medium,Native Digital,Modbus TCP,59.4,50.4,Coating,16582
+A-00387,SIAD,CNC Machine,Haas-like,M133,13.9,Medium,Legacy Analog,Retrofit Sensors,56.1,45.7,Utilities,11879
+A-00388,WVA,Hydraulic Press,Caterpillar-like,M790,4.3,Medium,Native Digital,MTConnect,57.9,44.0,Welding,12933
+A-00389,RRAD,Transformer,Fanuc-like,M610,8.0,High,Vendor Digital,Proprietary Gateway,88.3,26.1,Test,7398
+A-00390,ANAD,Overhead Crane,Haas-like,M802,11.1,Medium,Native Digital,Modbus TCP,74.6,27.8,Welding,27179
+A-00391,SIAD,Diesel Engine,Mazak-like,M611,12.3,Medium,Vendor Digital,Controller API,80.0,19.3,Machining,29770
+A-00392,WVA,Paint/Blast Booth,Mazak-like,M201,13.2,Medium,Legacy Analog,Serial/PLC,56.4,41.2,Machining,2467
+A-00393,RRAD,CNC Machine,Siemens-like,M452,12.6,High,Legacy Analog,Serial/PLC,94.0,5.2,Disassembly,13992
+A-00394,ANAD,Diesel Engine,Legacy OEM,M391,6.1,Low,Legacy Analog,Retrofit Sensors,65.8,29.1,Assembly,11152
+A-00395,SIAD,Test Stand,Generic Industrial,M927,0.5,Low,Vendor Digital,Proprietary Gateway,79.3,30.4,Assembly,14322
+A-00396,WVA,Test Stand,Generic Industrial,M398,8.7,Medium,Legacy Analog,None,67.5,36.1,Coating,20337
+A-00397,RRAD,Test Stand,Generic Industrial,M340,11.8,Low,Native Digital,Modbus TCP,84.4,16.0,Coating,24875
+A-00398,ANAD,Test Stand,Caterpillar-like,M126,14.6,High,Native Digital,MTConnect,82.5,25.3,Test,17669
+A-00399,SIAD,Air Compressor,Generic Industrial,M229,18.4,High,Vendor Digital,Proprietary Gateway,72.6,37.5,Machining,17760
+A-00400,WVA,Paint/Blast Booth,Siemens-like,M661,19.5,High,Vendor Digital,Proprietary Gateway,82.0,27.0,Material Handling,4927
+A-00401,RRAD,Material Handler,Siemens-like,M593,11.4,Medium,Vendor Digital,Controller API,64.6,32.6,Utilities,7942
+A-00402,ANAD,Air Compressor,Legacy OEM,M968,7.7,Medium,Native Digital,REST API,88.3,12.1,Machining,11768
+A-00403,SIAD,CNC Machine,Legacy OEM,M107,1.1,Medium,Legacy Analog,Serial/PLC,73.4,28.6,Utilities,12743
+A-00404,WVA,CNC Machine,Mazak-like,M325,2.7,Low,Vendor Digital,OEM Cloud API,75.6,19.5,Coating,3095
+A-00405,RRAD,Overhead Crane,Mazak-like,M292,13.9,Low,Legacy Analog,Retrofit Sensors,90.7,8.9,Inspection,6477
+A-00406,ANAD,Diesel Engine,Caterpillar-like,M255,0.5,High,Vendor Digital,Proprietary Gateway,72.2,35.6,Disassembly,18029
+A-00407,SIAD,Diesel Engine,Siemens-like,M530,19.4,High,Vendor Digital,OEM Cloud API,65.6,47.8,Coating,26246
+A-00408,WVA,Air Compressor,Caterpillar-like,M372,20.6,Low,Vendor Digital,Proprietary Gateway,83.1,6.7,Test,2839
+A-00409,RRAD,Laser Cutter,Mazak-like,M353,20.1,High,Vendor Digital,OEM Cloud API,90.1,19.9,Disassembly,7026
+A-00410,ANAD,Overhead Crane,Siemens-like,M262,26.7,Medium,Vendor Digital,Proprietary Gateway,59.0,37.1,Disassembly,24903
+A-00411,SIAD,Material Handler,Mazak-like,M432,6.9,Medium,Native Digital,MTConnect,73.0,30.6,Disassembly,5984
+A-00412,WVA,Air Compressor,Generic Industrial,M710,12.0,Medium,Vendor Digital,OEM Cloud API,55.3,40.9,Machining,12669
+A-00413,RRAD,Air Compressor,Legacy OEM,M209,13.1,Medium,Native Digital,MTConnect,84.9,10.3,Machining,16485
+A-00414,ANAD,CNC Machine,Siemens-like,M841,3.2,Low,Legacy Analog,Retrofit Sensors,82.7,24.5,Machining,8714
+A-00415,SIAD,Paint/Blast Booth,Mazak-like,M381,4.5,High,Vendor Digital,Controller API,76.7,29.0,Quality,28698
+A-00416,WVA,Laser Cutter,Generic Industrial,M618,11.1,High,Native Digital,REST API,71.6,38.5,Test,24540
+A-00417,RRAD,CNC Machine,Generic Industrial,M609,28.7,Medium,Native Digital,MTConnect,65.0,36.4,Utilities,5550
+A-00418,ANAD,Transformer,Fanuc-like,M282,8.3,High,Vendor Digital,OEM Cloud API,71.5,37.2,Disassembly,7121
+A-00419,SIAD,Diesel Engine,Siemens-like,M326,13.7,Medium,Vendor Digital,Controller API,73.3,25.5,Quality,24022
+A-00420,WVA,Diesel Engine,Haas-like,M861,7.1,Low,Native Digital,Modbus TCP,75.4,22.9,Test,27436
+A-00421,RRAD,Hydraulic Press,Caterpillar-like,M203,9.2,High,Native Digital,MTConnect,51.4,70.6,Welding,17921
+A-00422,ANAD,Hydraulic Press,Legacy OEM,M753,6.1,High,Vendor Digital,Controller API,56.1,50.9,Quality,12229
+A-00423,SIAD,Test Stand,Haas-like,M553,10.5,High,Legacy Analog,Serial/PLC,60.1,46.5,Assembly,10826
+A-00424,WVA,Laser Cutter,Fanuc-like,M676,4.7,Low,Legacy Analog,Serial/PLC,80.3,15.8,Utilities,7509
+A-00425,RRAD,Hydraulic Press,Caterpillar-like,M630,0.5,Medium,Vendor Digital,OEM Cloud API,71.6,32.4,Machining,29674
+A-00426,ANAD,CNC Machine,Haas-like,M669,14.4,High,Native Digital,REST API,81.9,18.0,Quality,19230
+A-00427,SIAD,Diesel Engine,Mazak-like,M682,20.3,High,Native Digital,OPC UA,69.5,41.3,Welding,24560
+A-00428,WVA,Diesel Engine,Haas-like,M757,9.7,High,Vendor Digital,Controller API,49.4,55.6,Coating,1724
+A-00429,RRAD,Air Compressor,Legacy OEM,M332,10.1,High,Legacy Analog,Serial/PLC,70.2,42.1,Quality,874
+A-00430,ANAD,Test Stand,Generic Industrial,M326,11.3,Medium,Native Digital,MTConnect,62.0,36.2,Machining,2155
+A-00431,SIAD,Test Stand,Fanuc-like,M444,34.3,Medium,Vendor Digital,OEM Cloud API,58.6,40.1,Inspection,16092
+A-00432,WVA,Transformer,Legacy OEM,M238,20.8,High,Vendor Digital,Proprietary Gateway,49.6,63.5,Material Handling,18827
+A-00433,RRAD,CNC Machine,Generic Industrial,M689,4.8,Medium,Legacy Analog,None,84.9,14.5,Inspection,4187
+A-00434,ANAD,Test Stand,Fanuc-like,M458,21.4,Medium,Native Digital,REST API,54.7,38.2,Quality,27421
+A-00435,SIAD,Material Handler,Caterpillar-like,M215,8.8,High,Legacy Analog,Serial/PLC,75.6,38.9,Disassembly,8464
+A-00436,WVA,Material Handler,Mazak-like,M582,23.7,Low,Legacy Analog,Serial/PLC,62.9,34.8,Disassembly,11374
+A-00437,RRAD,CNC Machine,Generic Industrial,M118,7.8,Medium,Native Digital,Modbus TCP,71.8,35.9,Test,19603
+A-00438,ANAD,Material Handler,Caterpillar-like,M576,12.4,Medium,Native Digital,MTConnect,75.2,18.0,Disassembly,2682
+A-00439,SIAD,Hydraulic Press,Haas-like,M826,10.9,Medium,Legacy Analog,Retrofit Sensors,95.2,0,Inspection,10836
+A-00440,WVA,Overhead Crane,Caterpillar-like,M353,27.6,Medium,Native Digital,OPC UA,45.2,51.8,Utilities,10491
+A-00441,RRAD,Hydraulic Press,Siemens-like,M999,9.3,High,Native Digital,REST API,77.2,32.5,Test,29676
+A-00442,ANAD,Material Handler,Fanuc-like,M189,15.8,Low,Legacy Analog,None,62.8,41.4,Test,17562
+A-00443,SIAD,Material Handler,Haas-like,M234,4.5,High,Native Digital,OPC UA,64.6,49.1,Welding,21880
+A-00444,WVA,Diesel Engine,Fanuc-like,M540,9.2,Medium,Legacy Analog,Retrofit Sensors,68.9,25.3,Machining,22003
+A-00445,RRAD,Material Handler,Caterpillar-like,M883,19.1,Medium,Legacy Analog,Serial/PLC,62.3,39.2,Assembly,29340
+A-00446,ANAD,Material Handler,Legacy OEM,M726,9.2,Low,Native Digital,REST API,78.9,23.0,Quality,9244
+A-00447,SIAD,Transformer,Mazak-like,M829,4.8,High,Native Digital,MTConnect,64.9,51.6,Assembly,6528
+A-00448,WVA,Paint/Blast Booth,Siemens-like,M522,24.6,Medium,Native Digital,OPC UA,38.0,69.2,Welding,24825
+A-00449,RRAD,Test Stand,Fanuc-like,M537,14.6,High,Legacy Analog,Serial/PLC,77.7,28.4,Test,25935
+A-00450,ANAD,Diesel Engine,Haas-like,M637,0.5,Medium,Vendor Digital,Proprietary Gateway,92.2,5.3,Disassembly,17560
+A-00451,SIAD,Diesel Engine,Generic Industrial,M150,0.5,Low,Native Digital,Modbus TCP,84.3,10.1,Welding,10041
+A-00452,WVA,Overhead Crane,Caterpillar-like,M806,9.6,Low,Legacy Analog,None,58.1,45.1,Utilities,5160
+A-00453,RRAD,Overhead Crane,Mazak-like,M704,10.9,Medium,Native Digital,OPC UA,67.9,31.6,Welding,29419
+A-00454,ANAD,Overhead Crane,Mazak-like,M749,14.6,High,Vendor Digital,Controller API,74.2,37.5,Assembly,3295
+A-00455,SIAD,Laser Cutter,Siemens-like,M679,2.4,Medium,Legacy Analog,Serial/PLC,90.8,12.2,Machining,5812
+A-00456,WVA,Paint/Blast Booth,Siemens-like,M741,14.3,High,Vendor Digital,Proprietary Gateway,66.3,31.0,Machining,4352
+A-00457,RRAD,Paint/Blast Booth,Mazak-like,M343,13.7,Medium,Native Digital,Modbus TCP,70.2,32.2,Welding,19795
+A-00458,ANAD,Test Stand,Legacy OEM,M945,2.8,Medium,Vendor Digital,OEM Cloud API,73.5,33.4,Welding,2102
+A-00459,SIAD,CNC Machine,Fanuc-like,M265,20.0,High,Native Digital,REST API,70.8,44.2,Coating,20524
+A-00460,WVA,Test Stand,Caterpillar-like,M886,15.5,Medium,Vendor Digital,Proprietary Gateway,45.0,49.5,Coating,11078
+A-00461,RRAD,Hydraulic Press,Siemens-like,M639,10.8,Medium,Vendor Digital,Proprietary Gateway,75.1,32.0,Test,17691
+A-00462,ANAD,CNC Machine,Generic Industrial,M394,24.0,High,Native Digital,MTConnect,54.3,44.9,Test,20450
+A-00463,SIAD,Paint/Blast Booth,Fanuc-like,M724,12.4,Medium,Legacy Analog,Retrofit Sensors,86.9,9.2,Welding,23718
+A-00464,WVA,CNC Machine,Haas-like,M524,6.1,High,Native Digital,Modbus TCP,74.0,32.6,Test,1990
+A-00465,RRAD,Hydraulic Press,Siemens-like,M885,2.4,High,Native Digital,REST API,70.3,37.6,Disassembly,4230
+A-00466,ANAD,Test Stand,Generic Industrial,M590,21.9,High,Legacy Analog,None,60.7,53.3,Material Handling,26624
+A-00467,SIAD,Diesel Engine,Haas-like,M406,16.1,Medium,Legacy Analog,Serial/PLC,74.4,27.1,Quality,24255
+A-00468,WVA,Test Stand,Caterpillar-like,M447,11.8,Medium,Native Digital,REST API,81.1,18.2,Test,21029
+A-00469,RRAD,Laser Cutter,Caterpillar-like,M608,18.5,High,Native Digital,REST API,82.0,27.0,Welding,12676
+A-00470,ANAD,Overhead Crane,Fanuc-like,M194,6.8,Low,Native Digital,REST API,71.9,29.1,Material Handling,17080
+A-00471,SIAD,Diesel Engine,Haas-like,M792,3.6,High,Legacy Analog,None,77.5,32.7,Machining,7223
+A-00472,WVA,Test Stand,Haas-like,M992,9.4,Medium,Vendor Digital,OEM Cloud API,89.5,7.4,Inspection,11421
+A-00473,RRAD,Overhead Crane,Siemens-like,M645,22.3,Medium,Native Digital,REST API,69.9,28.7,Assembly,25822
+A-00474,ANAD,Overhead Crane,Caterpillar-like,M311,17.7,High,Native Digital,REST API,83.1,25.2,Utilities,11979
+A-00475,SIAD,Laser Cutter,Mazak-like,M151,10.5,Low,Vendor Digital,OEM Cloud API,99,0,Machining,1450
+A-00476,WVA,Overhead Crane,Haas-like,M744,8.2,Medium,Native Digital,MTConnect,58.9,46.0,Material Handling,20695
+A-00477,RRAD,Hydraulic Press,Generic Industrial,M579,10.4,Medium,Legacy Analog,Retrofit Sensors,79.2,27.0,Inspection,15428
+A-00478,ANAD,CNC Machine,Siemens-like,M472,23.8,Medium,Legacy Analog,None,80.7,27.6,Test,6508
+A-00479,SIAD,Test Stand,Legacy OEM,M274,5.8,Low,Vendor Digital,OEM Cloud API,56.6,47.8,Coating,25663
+A-00480,WVA,Hydraulic Press,Legacy OEM,M409,18.9,Medium,Vendor Digital,Controller API,59.6,46.8,Utilities,15605
+A-00481,RRAD,Hydraulic Press,Mazak-like,M903,3.5,Medium,Legacy Analog,Serial/PLC,84.7,17.3,Test,19086
+A-00482,ANAD,Air Compressor,Haas-like,M710,24.9,Medium,Native Digital,MTConnect,51.9,45.5,Material Handling,11161
+A-00483,SIAD,Laser Cutter,Mazak-like,M760,15.2,Low,Native Digital,MTConnect,62.9,37.7,Disassembly,3466
+A-00484,WVA,CNC Machine,Mazak-like,M730,5.3,High,Vendor Digital,OEM Cloud API,83.8,31.1,Quality,15152
+A-00485,RRAD,CNC Machine,Caterpillar-like,M696,10.1,Medium,Legacy Analog,Retrofit Sensors,62.9,41.6,Disassembly,20537
+A-00486,ANAD,Material Handler,Caterpillar-like,M820,12.2,Medium,Native Digital,REST API,96.9,0,Utilities,27394
+A-00487,SIAD,Material Handler,Mazak-like,M658,18.0,High,Vendor Digital,Controller API,74.3,34.5,Welding,22208
+A-00488,WVA,Diesel Engine,Fanuc-like,M237,5.1,High,Vendor Digital,Proprietary Gateway,69.4,50.5,Disassembly,2850
+A-00489,RRAD,Test Stand,Mazak-like,M907,23.3,Medium,Legacy Analog,None,84.8,11.9,Quality,14449
+A-00490,ANAD,Transformer,Caterpillar-like,M691,6.5,Medium,Vendor Digital,Proprietary Gateway,76.3,28.9,Material Handling,28248
+A-00491,SIAD,Air Compressor,Haas-like,M593,11.5,Low,Vendor Digital,OEM Cloud API,62.4,32.8,Inspection,5155
+A-00492,WVA,Air Compressor,Caterpillar-like,M351,13.8,Medium,Legacy Analog,Retrofit Sensors,92.6,12.3,Material Handling,21165
+A-00493,RRAD,Air Compressor,Caterpillar-like,M580,16.1,Medium,Legacy Analog,None,67.9,37.1,Material Handling,17298
+A-00494,ANAD,Material Handler,Haas-like,M867,7.4,Medium,Native Digital,REST API,83.1,23.6,Coating,24321
+A-00495,SIAD,Air Compressor,Fanuc-like,M617,12.3,Medium,Vendor Digital,Controller API,88.1,17.5,Inspection,28400
+A-00496,WVA,Air Compressor,Haas-like,M856,14.6,High,Vendor Digital,Proprietary Gateway,69.1,34.1,Machining,22099
+A-00497,RRAD,Overhead Crane,Legacy OEM,M257,15.2,Medium,Vendor Digital,Proprietary Gateway,60.9,45.7,Material Handling,25166
+A-00498,ANAD,Material Handler,Legacy OEM,M453,10.8,Medium,Native Digital,Modbus TCP,79.9,25.8,Disassembly,21545
+A-00499,SIAD,CNC Machine,Mazak-like,M585,14.1,Medium,Vendor Digital,Controller API,66.7,34.1,Coating,5256
+A-00500,WVA,Laser Cutter,Caterpillar-like,M199,25.1,Medium,Native Digital,Modbus TCP,58.3,47.3,Utilities,21387
+A-00501,RRAD,Hydraulic Press,Mazak-like,M891,19.1,Medium,Native Digital,REST API,53.8,46.0,Welding,24561
+A-00502,ANAD,Test Stand,Caterpillar-like,M112,23.6,Medium,Vendor Digital,Proprietary Gateway,66.6,33.5,Test,3701
+A-00503,SIAD,Laser Cutter,Generic Industrial,M955,10.1,Medium,Native Digital,MTConnect,62.2,47.7,Welding,20140
+A-00504,WVA,Test Stand,Legacy OEM,M289,23.3,Medium,Native Digital,OPC UA,66.7,26.1,Inspection,23295
+A-00505,RRAD,CNC Machine,Siemens-like,M363,9.8,High,Vendor Digital,Proprietary Gateway,89.6,27.5,Machining,26083
+A-00506,ANAD,Diesel Engine,Mazak-like,M171,5.2,Medium,Vendor Digital,OEM Cloud API,84.2,14.7,Material Handling,7075
+A-00507,SIAD,Transformer,Siemens-like,M205,17.0,High,Legacy Analog,Retrofit Sensors,81.2,33.0,Disassembly,2889
+A-00508,WVA,Diesel Engine,Caterpillar-like,M780,18.3,Medium,Legacy Analog,None,67.6,32.2,Test,9230
+A-00509,RRAD,Diesel Engine,Legacy OEM,M904,9.2,High,Vendor Digital,Proprietary Gateway,83.4,19.9,Inspection,18198
+A-00510,ANAD,CNC Machine,Siemens-like,M798,20.3,Medium,Vendor Digital,OEM Cloud API,30.6,66.0,Coating,13627
+A-00511,SIAD,Diesel Engine,Fanuc-like,M280,24.5,Medium,Legacy Analog,Serial/PLC,64.2,36.1,Utilities,1788
+A-00512,WVA,Material Handler,Generic Industrial,M548,6.4,Medium,Native Digital,Modbus TCP,69.3,25.4,Welding,5085
+A-00513,RRAD,Diesel Engine,Caterpillar-like,M137,39.5,High,Vendor Digital,Proprietary Gateway,62.7,56.2,Assembly,2336
+A-00514,ANAD,Hydraulic Press,Legacy OEM,M995,9.8,Medium,Vendor Digital,Controller API,44.4,53.8,Utilities,5380
+A-00515,SIAD,Air Compressor,Fanuc-like,M114,13.3,Medium,Vendor Digital,Proprietary Gateway,75.3,32.2,Machining,21231
+A-00516,WVA,Diesel Engine,Legacy OEM,M208,16.5,High,Legacy Analog,None,71.1,37.3,Inspection,16790
+A-00517,RRAD,Transformer,Fanuc-like,M429,10.8,High,Native Digital,Modbus TCP,69.2,47.3,Welding,25542
+A-00518,ANAD,Diesel Engine,Fanuc-like,M549,11.4,High,Native Digital,REST API,77.4,36.8,Welding,19570
+A-00519,SIAD,Diesel Engine,Caterpillar-like,M823,25.6,Medium,Legacy Analog,None,77.6,25.5,Quality,29562
+A-00520,WVA,CNC Machine,Haas-like,M561,13.2,Medium,Legacy Analog,None,75.4,31.5,Test,8339
+A-00521,RRAD,Material Handler,Fanuc-like,M296,11.3,High,Vendor Digital,Controller API,69.7,40.1,Inspection,17873
+A-00522,ANAD,Material Handler,Fanuc-like,M215,13.6,Medium,Legacy Analog,Retrofit Sensors,65.3,31.3,Machining,22954
+A-00523,SIAD,Paint/Blast Booth,Siemens-like,M731,21.0,High,Legacy Analog,Serial/PLC,59.0,49.8,Material Handling,1919
+A-00524,WVA,Diesel Engine,Fanuc-like,M838,21.3,High,Vendor Digital,OEM Cloud API,61.7,48.1,Material Handling,19921
+A-00525,RRAD,Transformer,Legacy OEM,M304,1.4,Low,Native Digital,MTConnect,86.9,19.8,Test,29708
+A-00526,ANAD,CNC Machine,Mazak-like,M482,20.6,Medium,Vendor Digital,OEM Cloud API,78.6,19.0,Machining,15499
+A-00527,SIAD,Test Stand,Mazak-like,M275,0.5,High,Native Digital,MTConnect,53.6,60.7,Assembly,7704
+A-00528,WVA,Paint/Blast Booth,Legacy OEM,M634,18.8,Medium,Legacy Analog,Retrofit Sensors,70.8,27.5,Material Handling,28752
+A-00529,RRAD,Material Handler,Haas-like,M252,0.5,High,Legacy Analog,Serial/PLC,65.3,41.5,Quality,29933
+A-00530,ANAD,Diesel Engine,Mazak-like,M929,15.3,Low,Native Digital,Modbus TCP,84.0,17.3,Inspection,15325
+A-00531,SIAD,Laser Cutter,Caterpillar-like,M116,24.6,Medium,Vendor Digital,OEM Cloud API,74.5,23.5,Material Handling,22422
+A-00532,WVA,CNC Machine,Mazak-like,M289,24.1,Medium,Legacy Analog,Serial/PLC,68.1,21.8,Assembly,21039
+A-00533,RRAD,Overhead Crane,Generic Industrial,M727,2.4,High,Legacy Analog,None,59.0,48.6,Utilities,19349
+A-00534,ANAD,Air Compressor,Siemens-like,M152,25.8,Medium,Native Digital,REST API,37.6,61.4,Inspection,13048
+A-00535,SIAD,Hydraulic Press,Siemens-like,M344,7.4,High,Vendor Digital,Controller API,66.1,44.3,Utilities,4221
+A-00536,WVA,Test Stand,Haas-like,M796,8.7,Medium,Legacy Analog,None,62.2,47.4,Test,9581
+A-00537,RRAD,Diesel Engine,Siemens-like,M562,6.9,Medium,Legacy Analog,Retrofit Sensors,83.7,13.7,Quality,12563
+A-00538,ANAD,Air Compressor,Fanuc-like,M395,4.1,Low,Legacy Analog,Serial/PLC,85.9,16.7,Inspection,4083
+A-00539,SIAD,Diesel Engine,Fanuc-like,M585,16.5,High,Native Digital,MTConnect,73.3,42.8,Assembly,14266
+A-00540,WVA,Overhead Crane,Siemens-like,M521,11.1,Medium,Native Digital,MTConnect,79.3,15.5,Quality,11732
+A-00541,RRAD,Test Stand,Siemens-like,M275,15.1,Medium,Vendor Digital,Proprietary Gateway,56.2,34.0,Coating,7931
+A-00542,ANAD,Overhead Crane,Haas-like,M264,6.0,Low,Legacy Analog,Serial/PLC,68.3,43.9,Utilities,9846
+A-00543,SIAD,CNC Machine,Fanuc-like,M551,18.7,Low,Legacy Analog,None,84.5,19.7,Coating,12613
+A-00544,WVA,CNC Machine,Fanuc-like,M646,14.8,Medium,Native Digital,REST API,59.4,45.0,Coating,4480
+A-00545,RRAD,Material Handler,Haas-like,M439,5.2,High,Vendor Digital,OEM Cloud API,83.1,33.1,Coating,16029
+A-00546,ANAD,Paint/Blast Booth,Generic Industrial,M215,11.1,Low,Legacy Analog,Retrofit Sensors,82.7,14.3,Material Handling,29996
+A-00547,SIAD,Diesel Engine,Generic Industrial,M299,11.3,High,Vendor Digital,Proprietary Gateway,66.4,45.0,Quality,17750
+A-00548,WVA,CNC Machine,Caterpillar-like,M624,14.5,Low,Native Digital,MTConnect,80.6,13.3,Test,6871
+A-00549,RRAD,Laser Cutter,Siemens-like,M112,5.4,High,Vendor Digital,OEM Cloud API,66.4,46.5,Coating,11802
+A-00550,ANAD,Hydraulic Press,Mazak-like,M922,6.9,Low,Legacy Analog,Retrofit Sensors,89.2,5.4,Material Handling,9957
+A-00551,SIAD,Diesel Engine,Haas-like,M443,10.6,Medium,Vendor Digital,OEM Cloud API,46.8,48.3,Inspection,19855
+A-00552,WVA,Air Compressor,Legacy OEM,M240,35.6,High,Vendor Digital,Proprietary Gateway,40.7,66.6,Welding,6595
+A-00553,RRAD,Paint/Blast Booth,Legacy OEM,M102,10.7,Low,Native Digital,REST API,85.6,14.2,Machining,9107
+A-00554,ANAD,CNC Machine,Mazak-like,M804,7.3,Medium,Vendor Digital,Controller API,83.7,13.0,Welding,1432
+A-00555,SIAD,Diesel Engine,Mazak-like,M810,8.6,High,Legacy Analog,Serial/PLC,99,15.8,Inspection,12729
+A-00556,WVA,Laser Cutter,Generic Industrial,M238,4.7,Medium,Legacy Analog,None,83.5,20.9,Assembly,5851
+A-00557,RRAD,Diesel Engine,Legacy OEM,M743,5.7,Low,Native Digital,REST API,87.9,17.6,Machining,25557
+A-00558,ANAD,Diesel Engine,Siemens-like,M198,9.3,Medium,Vendor Digital,Controller API,70.4,37.3,Utilities,19506
+A-00559,SIAD,Hydraulic Press,Fanuc-like,M951,15.7,High,Legacy Analog,None,74.5,37.8,Welding,26554
+A-00560,WVA,Paint/Blast Booth,Fanuc-like,M117,15.8,Medium,Legacy Analog,Serial/PLC,74.5,24.3,Material Handling,11910
+A-00561,RRAD,CNC Machine,Caterpillar-like,M327,3.4,Low,Vendor Digital,OEM Cloud API,92.9,4.3,Machining,28576
+A-00562,ANAD,Test Stand,Caterpillar-like,M179,25.4,Medium,Native Digital,OPC UA,45.9,58.0,Disassembly,25885
+A-00563,SIAD,Overhead Crane,Siemens-like,M783,8.2,High,Vendor Digital,Proprietary Gateway,76.8,34.4,Disassembly,25225
+A-00564,WVA,Diesel Engine,Legacy OEM,M864,11.7,High,Vendor Digital,OEM Cloud API,68.4,43.3,Coating,19497
+A-00565,RRAD,Hydraulic Press,Generic Industrial,M296,18.0,Medium,Native Digital,MTConnect,80.1,20.5,Coating,6128
+A-00566,ANAD,Material Handler,Generic Industrial,M703,3.2,Medium,Legacy Analog,Retrofit Sensors,84.3,11.1,Machining,14906
+A-00567,SIAD,Test Stand,Mazak-like,M212,24.9,Low,Vendor Digital,Proprietary Gateway,78.5,21.8,Utilities,4953
+A-00568,WVA,Laser Cutter,Mazak-like,M714,6.1,Medium,Native Digital,MTConnect,62.8,37.4,Coating,23013
+A-00569,RRAD,Material Handler,Caterpillar-like,M790,3.5,High,Legacy Analog,Serial/PLC,81.4,33.1,Material Handling,22523
+A-00570,ANAD,Diesel Engine,Caterpillar-like,M859,10.1,Medium,Vendor Digital,OEM Cloud API,57.8,46.9,Machining,2620
+A-00571,SIAD,Hydraulic Press,Legacy OEM,M695,14.7,Low,Vendor Digital,Proprietary Gateway,77.5,14.0,Quality,9444
+A-00572,WVA,Air Compressor,Mazak-like,M623,13.1,Low,Legacy Analog,Retrofit Sensors,61.1,35.9,Coating,5329
+A-00573,RRAD,Air Compressor,Mazak-like,M794,17.7,Medium,Vendor Digital,OEM Cloud API,74.0,25.3,Disassembly,6368
+A-00574,ANAD,Hydraulic Press,Legacy OEM,M577,0.5,Medium,Native Digital,MTConnect,77.9,13.5,Welding,10119
+A-00575,SIAD,Test Stand,Mazak-like,M422,6.8,High,Legacy Analog,Serial/PLC,74.8,37.0,Test,15001
+A-00576,WVA,Overhead Crane,Generic Industrial,M498,10.2,High,Vendor Digital,Controller API,65.9,44.2,Material Handling,25535
+A-00577,RRAD,Diesel Engine,Mazak-like,M705,7.7,Medium,Vendor Digital,Controller API,58.1,36.9,Test,20715
+A-00578,ANAD,Test Stand,Siemens-like,M928,12.7,Medium,Native Digital,MTConnect,93.0,9.7,Quality,1381
+A-00579,SIAD,Air Compressor,Generic Industrial,M419,7.5,Medium,Legacy Analog,None,65.6,32.4,Quality,3283
+A-00580,WVA,Material Handler,Generic Industrial,M984,7.9,High,Native Digital,REST API,70.4,39.2,Test,19113
+A-00581,RRAD,Laser Cutter,Legacy OEM,M600,11.6,Medium,Native Digital,REST API,72.8,22.2,Inspection,23138
+A-00582,ANAD,Test Stand,Fanuc-like,M608,19.6,High,Vendor Digital,OEM Cloud API,57.5,65.1,Inspection,28037
+A-00583,SIAD,Paint/Blast Booth,Haas-like,M197,14.4,High,Vendor Digital,Controller API,79.3,38.4,Quality,11537
+A-00584,WVA,CNC Machine,Siemens-like,M616,9.7,Medium,Vendor Digital,OEM Cloud API,77.6,15.4,Coating,14685
+A-00585,RRAD,Test Stand,Haas-like,M611,9.8,High,Vendor Digital,OEM Cloud API,84.1,23.1,Welding,22153
+A-00586,ANAD,Material Handler,Siemens-like,M573,0.5,Medium,Vendor Digital,Controller API,67.5,28.1,Machining,8376
+A-00587,SIAD,Diesel Engine,Siemens-like,M761,10.3,Medium,Native Digital,MTConnect,63.0,39.2,Machining,8903
+A-00588,WVA,Test Stand,Mazak-like,M597,7.8,High,Native Digital,OPC UA,74.3,45.0,Utilities,14791
+A-00589,RRAD,Overhead Crane,Generic Industrial,M597,17.5,High,Native Digital,REST API,63.9,50.5,Disassembly,2312
+A-00590,ANAD,Paint/Blast Booth,Mazak-like,M959,27.0,High,Vendor Digital,Proprietary Gateway,51.3,49.5,Machining,8234
+A-00591,SIAD,Diesel Engine,Legacy OEM,M420,11.2,Medium,Legacy Analog,None,44.1,56.1,Assembly,27773
+A-00592,WVA,Transformer,Siemens-like,M550,17.1,Medium,Legacy Analog,None,73.2,29.2,Test,8833
+A-00593,RRAD,Paint/Blast Booth,Legacy OEM,M248,22.3,Medium,Native Digital,Modbus TCP,70.8,29.2,Assembly,16072
+A-00594,ANAD,Test Stand,Legacy OEM,M787,19.5,Low,Native Digital,MTConnect,68.5,29.9,Welding,8789
+A-00595,SIAD,Laser Cutter,Mazak-like,M361,5.7,Medium,Legacy Analog,None,99,4.1,Coating,3457
+A-00596,WVA,Material Handler,Generic Industrial,M516,6.8,Medium,Native Digital,OPC UA,65.3,43.1,Disassembly,9479
+A-00597,RRAD,Paint/Blast Booth,Legacy OEM,M264,21.4,Medium,Vendor Digital,Controller API,40.7,66.0,Coating,17091
+A-00598,ANAD,Diesel Engine,Generic Industrial,M288,2.6,Medium,Legacy Analog,Retrofit Sensors,80.4,19.9,Material Handling,26420
+A-00599,SIAD,Test Stand,Legacy OEM,M764,18.3,High,Vendor Digital,OEM Cloud API,68.1,28.8,Machining,28253
+A-00600,WVA,Transformer,Haas-like,M946,10.8,Medium,Legacy Analog,Retrofit Sensors,77.0,25.3,Assembly,26698
+A-00601,RRAD,CNC Machine,Generic Industrial,M334,19.6,Medium,Native Digital,OPC UA,73.0,33.4,Inspection,15652
+A-00602,ANAD,CNC Machine,Siemens-like,M274,7.6,Medium,Native Digital,Modbus TCP,68.3,30.0,Quality,4345
+A-00603,SIAD,Diesel Engine,Legacy OEM,M932,0.5,Low,Legacy Analog,None,74.4,24.9,Coating,9935
+A-00604,WVA,Air Compressor,Generic Industrial,M293,7.9,Medium,Vendor Digital,Controller API,83.4,16.5,Test,6410
+A-00605,RRAD,Hydraulic Press,Caterpillar-like,M580,17.0,High,Vendor Digital,Proprietary Gateway,76.5,31.3,Machining,29055
+A-00606,ANAD,Hydraulic Press,Caterpillar-like,M670,4.9,Medium,Vendor Digital,Controller API,74.5,21.7,Disassembly,2207
+A-00607,SIAD,Hydraulic Press,Mazak-like,M787,14.7,Low,Legacy Analog,Serial/PLC,96.0,0,Assembly,4833
+A-00608,WVA,Material Handler,Mazak-like,M235,12.8,Medium,Vendor Digital,OEM Cloud API,60.1,40.1,Inspection,10897
+A-00609,RRAD,Test Stand,Siemens-like,M727,7.3,High,Legacy Analog,Retrofit Sensors,77.8,28.8,Coating,17440
+A-00610,ANAD,CNC Machine,Legacy OEM,M550,19.5,Low,Native Digital,Modbus TCP,77.9,16.3,Disassembly,6690
+A-00611,SIAD,Diesel Engine,Generic Industrial,M674,13.3,High,Vendor Digital,OEM Cloud API,73.9,40.6,Material Handling,15499
+A-00612,WVA,Laser Cutter,Legacy OEM,M272,14.9,Low,Legacy Analog,None,72.6,31.3,Utilities,27454
+A-00613,RRAD,CNC Machine,Caterpillar-like,M436,21.2,Medium,Legacy Analog,None,56.2,43.9,Disassembly,9815
+A-00614,ANAD,Test Stand,Generic Industrial,M775,22.4,Medium,Vendor Digital,Proprietary Gateway,78.8,22.2,Material Handling,15378
+A-00615,SIAD,Transformer,Legacy OEM,M682,11.6,High,Native Digital,Modbus TCP,89.1,31.8,Machining,7426
+A-00616,WVA,Paint/Blast Booth,Caterpillar-like,M508,13.0,Low,Native Digital,MTConnect,55.3,42.7,Coating,6333
+A-00617,RRAD,CNC Machine,Fanuc-like,M223,14.1,High,Native Digital,Modbus TCP,58.3,44.3,Coating,16584
+A-00618,ANAD,Air Compressor,Fanuc-like,M601,0.5,Medium,Legacy Analog,Retrofit Sensors,87.2,15.5,Material Handling,29513
+A-00619,SIAD,Hydraulic Press,Caterpillar-like,M625,11.7,High,Vendor Digital,Controller API,87.7,17.5,Assembly,15688
+A-00620,WVA,Test Stand,Mazak-like,M547,16.4,Medium,Vendor Digital,Controller API,66.0,32.4,Inspection,26765
+A-00621,RRAD,Overhead Crane,Caterpillar-like,M625,15.5,Low,Legacy Analog,Retrofit Sensors,74.5,27.4,Inspection,17233
+A-00622,ANAD,Overhead Crane,Caterpillar-like,M216,13.9,High,Vendor Digital,Proprietary Gateway,52.7,52.9,Material Handling,6383
+A-00623,SIAD,Air Compressor,Haas-like,M927,14.3,Medium,Vendor Digital,Controller API,67.1,25.8,Coating,11684
+A-00624,WVA,Material Handler,Generic Industrial,M208,16.3,Low,Native Digital,OPC UA,78.3,21.3,Test,18010
+A-00625,RRAD,Diesel Engine,Haas-like,M932,12.0,Medium,Vendor Digital,Controller API,72.6,22.7,Quality,12320
+A-00626,ANAD,Test Stand,Legacy OEM,M116,7.5,Low,Vendor Digital,OEM Cloud API,79.0,23.4,Welding,28648
+A-00627,SIAD,Diesel Engine,Mazak-like,M122,8.6,High,Legacy Analog,Serial/PLC,74.1,36.3,Inspection,5942
+A-00628,WVA,Material Handler,Fanuc-like,M401,8.5,Medium,Vendor Digital,Proprietary Gateway,83.5,11.4,Quality,27679
+A-00629,RRAD,Paint/Blast Booth,Siemens-like,M137,14.0,Medium,Vendor Digital,Proprietary Gateway,70.8,22.1,Material Handling,13596
+A-00630,ANAD,Overhead Crane,Haas-like,M423,6.8,Medium,Vendor Digital,OEM Cloud API,76.4,23.9,Utilities,2581
+A-00631,SIAD,CNC Machine,Generic Industrial,M296,3.0,High,Vendor Digital,Proprietary Gateway,56.2,51.1,Material Handling,11767
+A-00632,WVA,Overhead Crane,Siemens-like,M840,14.9,Medium,Vendor Digital,Controller API,66.3,31.5,Test,14159
+A-00633,RRAD,Paint/Blast Booth,Generic Industrial,M594,6.9,Medium,Legacy Analog,None,56.9,41.4,Machining,6178
+A-00634,ANAD,CNC Machine,Caterpillar-like,M467,26.0,Medium,Native Digital,Modbus TCP,65.2,41.2,Coating,12199
+A-00635,SIAD,Test Stand,Fanuc-like,M598,20.2,Medium,Legacy Analog,None,88.0,10.1,Coating,11651
+A-00636,WVA,Air Compressor,Caterpillar-like,M823,10.3,Medium,Legacy Analog,Retrofit Sensors,83.8,11.3,Disassembly,14846
+A-00637,RRAD,Air Compressor,Caterpillar-like,M991,26.1,Low,Legacy Analog,None,59.0,38.0,Welding,12350
+A-00638,ANAD,Diesel Engine,Legacy OEM,M241,12.8,High,Vendor Digital,Controller API,77.4,36.5,Inspection,28306
+A-00639,SIAD,CNC Machine,Siemens-like,M832,26.5,High,Legacy Analog,Serial/PLC,59.6,48.3,Test,12317
+A-00640,WVA,Transformer,Mazak-like,M569,12.9,High,Legacy Analog,None,74.9,30.2,Utilities,26537
+A-00641,RRAD,Test Stand,Fanuc-like,M544,21.1,Medium,Vendor Digital,OEM Cloud API,61.9,32.5,Disassembly,13386
+A-00642,ANAD,Air Compressor,Siemens-like,M529,33.8,Medium,Vendor Digital,Controller API,66.8,23.4,Test,29525
+A-00643,SIAD,Test Stand,Mazak-like,M556,6.6,Medium,Legacy Analog,Retrofit Sensors,71.0,26.8,Welding,29584
+A-00644,WVA,Laser Cutter,Caterpillar-like,M137,10.1,Medium,Vendor Digital,Controller API,76.4,13.4,Utilities,11460
+A-00645,RRAD,Hydraulic Press,Legacy OEM,M750,9.8,Medium,Vendor Digital,OEM Cloud API,48.4,45.9,Machining,1267
+A-00646,ANAD,Diesel Engine,Generic Industrial,M161,9.9,Medium,Vendor Digital,Proprietary Gateway,60.0,42.8,Assembly,9011
+A-00647,SIAD,Transformer,Fanuc-like,M924,11.5,Medium,Native Digital,REST API,74.7,29.9,Quality,19033
+A-00648,WVA,Test Stand,Generic Industrial,M686,13.2,Low,Vendor Digital,Proprietary Gateway,66.2,42.4,Machining,23907
+A-00649,RRAD,Hydraulic Press,Mazak-like,M183,12.7,Medium,Native Digital,REST API,65.4,37.8,Inspection,2537
+A-00650,ANAD,Overhead Crane,Haas-like,M897,19.7,High,Native Digital,MTConnect,51.4,57.5,Test,29074
+A-00651,SIAD,CNC Machine,Fanuc-like,M596,4.6,Medium,Legacy Analog,Serial/PLC,75.6,25.7,Material Handling,4739
+A-00652,WVA,Material Handler,Haas-like,M478,9.0,Medium,Vendor Digital,Proprietary Gateway,79.9,20.7,Inspection,20213
+A-00653,RRAD,Paint/Blast Booth,Mazak-like,M128,18.9,High,Vendor Digital,Proprietary Gateway,75.0,39.3,Machining,5157
+A-00654,ANAD,Air Compressor,Caterpillar-like,M225,12.6,Medium,Legacy Analog,None,79.1,28.4,Utilities,11924
+A-00655,SIAD,Diesel Engine,Fanuc-like,M880,21.8,High,Vendor Digital,Proprietary Gateway,69.8,45.0,Machining,17040
+A-00656,WVA,Test Stand,Haas-like,M519,0.5,Medium,Vendor Digital,Controller API,91.9,11.8,Test,8129
+A-00657,RRAD,Material Handler,Haas-like,M745,11.7,Medium,Vendor Digital,Controller API,74.7,30.5,Coating,18884
+A-00658,ANAD,Test Stand,Caterpillar-like,M223,3.6,Medium,Native Digital,MTConnect,81.1,24.2,Utilities,6389
+A-00659,SIAD,Material Handler,Caterpillar-like,M603,12.2,Low,Legacy Analog,Retrofit Sensors,79.4,16.7,Disassembly,11639
+A-00660,WVA,Overhead Crane,Haas-like,M272,8.0,Medium,Legacy Analog,Serial/PLC,99,8.6,Coating,5219
+A-00661,RRAD,CNC Machine,Siemens-like,M499,13.5,Low,Vendor Digital,Controller API,63.7,39.6,Inspection,10987
+A-00662,ANAD,Diesel Engine,Fanuc-like,M604,24.5,Low,Native Digital,MTConnect,65.6,41.1,Utilities,25154
+A-00663,SIAD,Laser Cutter,Caterpillar-like,M375,19.0,High,Vendor Digital,Proprietary Gateway,64.6,42.4,Utilities,19707
+A-00664,WVA,Test Stand,Generic Industrial,M612,16.2,High,Vendor Digital,Proprietary Gateway,64.9,46.3,Welding,26153
+A-00665,RRAD,Material Handler,Legacy OEM,M735,0.5,Medium,Vendor Digital,Controller API,99,9.8,Coating,21899
+A-00666,ANAD,Material Handler,Siemens-like,M962,16.8,High,Legacy Analog,Retrofit Sensors,68.7,48.9,Welding,19674
+A-00667,SIAD,Paint/Blast Booth,Haas-like,M386,12.1,Medium,Native Digital,MTConnect,78.3,23.6,Test,7409
+A-00668,WVA,Transformer,Siemens-like,M351,16.1,Low,Native Digital,REST API,87.8,11.2,Assembly,11694
+A-00669,RRAD,CNC Machine,Fanuc-like,M523,19.9,Low,Native Digital,MTConnect,64.3,36.4,Utilities,29836
+A-00670,ANAD,Test Stand,Legacy OEM,M935,13.0,Medium,Vendor Digital,Controller API,73.5,27.1,Material Handling,22528
+A-00671,SIAD,Diesel Engine,Caterpillar-like,M326,20.7,Medium,Vendor Digital,OEM Cloud API,64.6,33.1,Disassembly,25351
+A-00672,WVA,CNC Machine,Fanuc-like,M605,16.8,Low,Native Digital,MTConnect,62.5,45.0,Assembly,1705
+A-00673,RRAD,CNC Machine,Haas-like,M298,23.3,High,Native Digital,Modbus TCP,54.5,50.2,Quality,22525
+A-00674,ANAD,Test Stand,Legacy OEM,M333,9.1,Medium,Native Digital,OPC UA,92.5,15.9,Utilities,24384
+A-00675,SIAD,Air Compressor,Mazak-like,M756,17.3,Low,Vendor Digital,Controller API,85.4,14.9,Disassembly,28479
+A-00676,WVA,Material Handler,Haas-like,M877,12.7,Medium,Legacy Analog,Retrofit Sensors,57.1,42.2,Disassembly,29460
+A-00677,RRAD,Test Stand,Caterpillar-like,M855,30.1,Medium,Native Digital,Modbus TCP,69.2,36.4,Welding,23095
+A-00678,ANAD,Overhead Crane,Caterpillar-like,M591,18.1,High,Native Digital,OPC UA,83.6,29.1,Test,26978
+A-00679,SIAD,Diesel Engine,Haas-like,M913,18.5,Low,Native Digital,Modbus TCP,41.0,63.6,Welding,2889
+A-00680,WVA,Air Compressor,Caterpillar-like,M486,0.5,Medium,Legacy Analog,None,81.4,19.5,Assembly,29666
+A-00681,RRAD,Paint/Blast Booth,Caterpillar-like,M672,16.8,Low,Vendor Digital,Controller API,71.2,26.7,Disassembly,10163
+A-00682,ANAD,Paint/Blast Booth,Mazak-like,M493,14.5,Medium,Vendor Digital,OEM Cloud API,73.9,19.3,Material Handling,26555
+A-00683,SIAD,Overhead Crane,Caterpillar-like,M112,10.3,Medium,Vendor Digital,Proprietary Gateway,68.5,29.9,Quality,23873
+A-00684,WVA,Diesel Engine,Generic Industrial,M735,17.6,Medium,Native Digital,OPC UA,67.8,37.4,Material Handling,6592
+A-00685,RRAD,CNC Machine,Fanuc-like,M580,13.8,High,Vendor Digital,Proprietary Gateway,66.3,50.1,Coating,20269
+A-00686,ANAD,Hydraulic Press,Legacy OEM,M155,3.9,Medium,Native Digital,OPC UA,53.1,46.5,Test,11766
+A-00687,SIAD,CNC Machine,Siemens-like,M972,18.4,Medium,Native Digital,Modbus TCP,92.9,13.8,Quality,19049
+A-00688,WVA,Material Handler,Mazak-like,M324,11.8,Medium,Vendor Digital,OEM Cloud API,90.3,2.0,Disassembly,21431
+A-00689,RRAD,CNC Machine,Caterpillar-like,M471,14.4,High,Legacy Analog,Serial/PLC,86.7,24.1,Disassembly,2916
+A-00690,ANAD,Hydraulic Press,Caterpillar-like,M130,17.9,Medium,Native Digital,Modbus TCP,50.6,45.0,Welding,6982
+A-00691,SIAD,CNC Machine,Caterpillar-like,M121,14.2,High,Legacy Analog,None,79.4,40.2,Machining,12916
+A-00692,WVA,Test Stand,Generic Industrial,M275,15.1,Low,Native Digital,OPC UA,71.1,38.0,Utilities,26682
+A-00693,RRAD,Material Handler,Siemens-like,M713,25.1,High,Native Digital,OPC UA,47.5,54.9,Test,21345
+A-00694,ANAD,CNC Machine,Caterpillar-like,M744,10.5,High,Vendor Digital,Controller API,74.9,30.8,Coating,29101
+A-00695,SIAD,Diesel Engine,Legacy OEM,M760,2.4,Medium,Legacy Analog,Retrofit Sensors,75.8,29.6,Utilities,12763
+A-00696,WVA,Laser Cutter,Mazak-like,M374,16.8,Medium,Native Digital,REST API,39.0,62.3,Quality,13638
+A-00697,RRAD,Test Stand,Mazak-like,M685,15.9,High,Legacy Analog,Serial/PLC,52.4,58.6,Machining,28104
+A-00698,ANAD,Hydraulic Press,Caterpillar-like,M576,21.3,Medium,Native Digital,MTConnect,57.7,41.9,Utilities,20853
+A-00699,SIAD,Hydraulic Press,Generic Industrial,M177,4.9,Medium,Vendor Digital,Proprietary Gateway,79.2,22.4,Assembly,3200
+A-00700,WVA,CNC Machine,Caterpillar-like,M659,18.3,Medium,Vendor Digital,Proprietary Gateway,71.7,29.4,Welding,11436
+A-00701,RRAD,CNC Machine,Legacy OEM,M870,9.8,Low,Vendor Digital,OEM Cloud API,81.6,16.3,Utilities,9056
+A-00702,ANAD,Diesel Engine,Generic Industrial,M624,10.4,High,Legacy Analog,Retrofit Sensors,72.4,36.8,Machining,28859
+A-00703,SIAD,Hydraulic Press,Legacy OEM,M292,14.9,Medium,Vendor Digital,Controller API,89.5,9.3,Test,25735
+A-00704,WVA,Material Handler,Generic Industrial,M109,15.9,Medium,Vendor Digital,Proprietary Gateway,63.7,35.1,Material Handling,27055
+A-00705,RRAD,Test Stand,Fanuc-like,M257,9.5,Medium,Legacy Analog,Retrofit Sensors,79.6,29.1,Assembly,19118
+A-00706,ANAD,Transformer,Mazak-like,M292,15.0,Medium,Vendor Digital,Proprietary Gateway,73.9,25.6,Material Handling,4059
+A-00707,SIAD,Hydraulic Press,Fanuc-like,M171,24.1,High,Native Digital,OPC UA,60.7,48.4,Test,9800
+A-00708,WVA,CNC Machine,Legacy OEM,M520,11.9,High,Vendor Digital,OEM Cloud API,64.2,45.5,Test,5645
+A-00709,RRAD,Material Handler,Generic Industrial,M586,18.7,Medium,Vendor Digital,OEM Cloud API,76.8,19.9,Machining,20282
+A-00710,ANAD,Transformer,Caterpillar-like,M944,26.7,High,Native Digital,Modbus TCP,69.9,40.2,Test,20319
+A-00711,SIAD,Air Compressor,Mazak-like,M455,0.5,Low,Vendor Digital,Controller API,73.5,24.1,Coating,13315
+A-00712,WVA,Transformer,Generic Industrial,M287,29.0,Low,Native Digital,OPC UA,60.6,33.9,Quality,3630
+A-00713,RRAD,Hydraulic Press,Fanuc-like,M605,18.6,Low,Native Digital,REST API,64.8,32.6,Test,25464
+A-00714,ANAD,Laser Cutter,Fanuc-like,M618,0.9,Low,Native Digital,MTConnect,71.4,30.2,Disassembly,15644
+A-00715,SIAD,Diesel Engine,Generic Industrial,M239,5.3,Medium,Native Digital,Modbus TCP,61.3,42.4,Assembly,22464
+A-00716,WVA,Air Compressor,Legacy OEM,M265,14.4,Medium,Native Digital,OPC UA,84.2,22.9,Machining,27975
+A-00717,RRAD,Diesel Engine,Siemens-like,M282,18.4,Medium,Vendor Digital,Controller API,73.8,24.9,Welding,23909
+A-00718,ANAD,Diesel Engine,Caterpillar-like,M499,8.9,Medium,Native Digital,MTConnect,61.1,32.8,Coating,15048
+A-00719,SIAD,Diesel Engine,Caterpillar-like,M445,26.8,Medium,Legacy Analog,None,63.9,40.5,Welding,22780
+A-00720,WVA,Test Stand,Legacy OEM,M434,17.5,High,Legacy Analog,None,82.2,29.4,Assembly,18917
+A-00721,RRAD,Transformer,Mazak-like,M769,0.5,Medium,Vendor Digital,OEM Cloud API,58.0,40.1,Assembly,892
+A-00722,ANAD,Hydraulic Press,Fanuc-like,M520,16.9,Medium,Native Digital,REST API,65.7,35.7,Coating,25650
+A-00723,SIAD,Transformer,Generic Industrial,M497,16.7,Medium,Legacy Analog,None,68.2,20.3,Machining,11380
+A-00724,WVA,Diesel Engine,Mazak-like,M491,0.5,Medium,Vendor Digital,OEM Cloud API,99,2.2,Utilities,21490
+A-00725,RRAD,Air Compressor,Haas-like,M181,0.5,High,Native Digital,MTConnect,77.3,32.0,Disassembly,5007
+A-00726,ANAD,Hydraulic Press,Mazak-like,M856,0.5,High,Native Digital,OPC UA,79.2,38.8,Assembly,4899
+A-00727,SIAD,CNC Machine,Fanuc-like,M310,4.6,Medium,Legacy Analog,None,59.5,43.0,Utilities,2271
+A-00728,WVA,Material Handler,Generic Industrial,M106,7.1,Medium,Native Digital,OPC UA,66.5,33.1,Inspection,29003
+A-00729,RRAD,Laser Cutter,Fanuc-like,M341,15.5,Low,Legacy Analog,None,68.3,23.8,Utilities,3061
+A-00730,ANAD,Overhead Crane,Siemens-like,M690,4.7,Medium,Native Digital,OPC UA,79.5,23.9,Material Handling,21327
+A-00731,SIAD,CNC Machine,Generic Industrial,M543,18.9,Low,Native Digital,Modbus TCP,57.1,37.3,Machining,27356
+A-00732,WVA,Material Handler,Generic Industrial,M279,16.4,Medium,Legacy Analog,Serial/PLC,63.3,35.1,Coating,12966
+A-00733,RRAD,Overhead Crane,Caterpillar-like,M113,5.6,Medium,Native Digital,OPC UA,78.3,25.4,Utilities,24432
+A-00734,ANAD,Test Stand,Haas-like,M172,29.8,Medium,Legacy Analog,Serial/PLC,53.9,48.9,Test,29499
+A-00735,SIAD,Diesel Engine,Generic Industrial,M805,19.9,Medium,Native Digital,Modbus TCP,61.4,34.0,Assembly,23321
+A-00736,WVA,Diesel Engine,Generic Industrial,M823,23.2,Medium,Vendor Digital,OEM Cloud API,86.7,15.3,Disassembly,23354
+A-00737,RRAD,Test Stand,Caterpillar-like,M219,19.5,Low,Native Digital,OPC UA,80.4,28.8,Inspection,21615
+A-00738,ANAD,Test Stand,Mazak-like,M358,8.4,Medium,Vendor Digital,Controller API,78.5,19.4,Coating,16905
+A-00739,SIAD,Material Handler,Legacy OEM,M246,8.7,High,Vendor Digital,OEM Cloud API,63.3,38.7,Coating,25034
+A-00740,WVA,CNC Machine,Generic Industrial,M527,6.7,Medium,Vendor Digital,OEM Cloud API,78.9,21.1,Utilities,14159
+A-00741,RRAD,Test Stand,Haas-like,M933,12.5,Medium,Vendor Digital,Proprietary Gateway,63.8,33.7,Welding,6582
+A-00742,ANAD,CNC Machine,Caterpillar-like,M989,12.9,Medium,Legacy Analog,Serial/PLC,46.2,57.8,Machining,3115
+A-00743,SIAD,CNC Machine,Siemens-like,M869,8.4,High,Vendor Digital,Proprietary Gateway,80.1,29.9,Disassembly,22301
+A-00744,WVA,Transformer,Siemens-like,M597,11.9,Low,Native Digital,MTConnect,41.0,57.4,Material Handling,25302
+A-00745,RRAD,Hydraulic Press,Siemens-like,M994,6.0,Low,Legacy Analog,Retrofit Sensors,79.6,14.9,Assembly,26919
+A-00746,ANAD,Diesel Engine,Generic Industrial,M869,19.5,Medium,Vendor Digital,OEM Cloud API,77.8,26.5,Welding,12572
+A-00747,SIAD,Overhead Crane,Caterpillar-like,M926,6.7,Medium,Vendor Digital,Controller API,52.0,52.7,Assembly,22714
+A-00748,WVA,Overhead Crane,Mazak-like,M774,13.8,Medium,Vendor Digital,Proprietary Gateway,96.9,0,Inspection,24560
+A-00749,RRAD,Hydraulic Press,Generic Industrial,M661,3.1,Low,Legacy Analog,Serial/PLC,64.5,36.8,Material Handling,6006
+A-00750,ANAD,Paint/Blast Booth,Generic Industrial,M191,6.5,Low,Vendor Digital,OEM Cloud API,88.2,22.3,Inspection,14750
+A-00751,SIAD,Material Handler,Generic Industrial,M226,31.1,High,Vendor Digital,OEM Cloud API,65.9,43.8,Machining,18015
+A-00752,WVA,Test Stand,Generic Industrial,M451,22.1,Medium,Legacy Analog,Retrofit Sensors,67.5,25.7,Test,24009
+A-00753,RRAD,Air Compressor,Caterpillar-like,M191,11.2,Medium,Legacy Analog,None,54.6,45.2,Assembly,24767
+A-00754,ANAD,Transformer,Caterpillar-like,M418,19.6,High,Legacy Analog,Serial/PLC,82.3,25.8,Disassembly,19835
+A-00755,SIAD,Laser Cutter,Mazak-like,M109,25.8,High,Native Digital,OPC UA,36.3,70.8,Utilities,28430
+A-00756,WVA,Overhead Crane,Fanuc-like,M864,9.6,High,Legacy Analog,Retrofit Sensors,57.1,54.8,Disassembly,20124
+A-00757,RRAD,Hydraulic Press,Mazak-like,M160,0.8,High,Legacy Analog,None,77.3,24.9,Assembly,5503
+A-00758,ANAD,Air Compressor,Fanuc-like,M977,13.4,High,Legacy Analog,Retrofit Sensors,93.4,19.9,Material Handling,24335
+A-00759,SIAD,Hydraulic Press,Legacy OEM,M500,24.7,Low,Legacy Analog,Serial/PLC,62.7,30.6,Test,2853
+A-00760,WVA,Laser Cutter,Legacy OEM,M910,0.5,High,Vendor Digital,Controller API,72.7,38.9,Quality,28872
+A-00761,RRAD,Air Compressor,Fanuc-like,M323,20.4,Medium,Native Digital,OPC UA,51.5,37.9,Welding,24594
+A-00762,ANAD,Test Stand,Generic Industrial,M961,14.9,Medium,Legacy Analog,None,45.4,64.6,Machining,2345
+A-00763,SIAD,Diesel Engine,Mazak-like,M350,18.0,High,Legacy Analog,Serial/PLC,66.9,50.0,Disassembly,4392
+A-00764,WVA,CNC Machine,Legacy OEM,M786,10.9,Medium,Vendor Digital,Controller API,59.0,46.4,Inspection,25984
+A-00765,RRAD,Overhead Crane,Generic Industrial,M621,16.3,Medium,Vendor Digital,OEM Cloud API,58.3,46.7,Welding,1254
+A-00766,ANAD,Transformer,Generic Industrial,M544,17.6,Low,Vendor Digital,Controller API,28.3,86.6,Coating,19224
+A-00767,SIAD,Diesel Engine,Legacy OEM,M931,7.2,Low,Vendor Digital,Controller API,90.9,1.8,Utilities,16509
+A-00768,WVA,Diesel Engine,Haas-like,M811,22.1,Low,Vendor Digital,OEM Cloud API,71.9,26.2,Machining,674
+A-00769,RRAD,Laser Cutter,Caterpillar-like,M227,14.3,High,Native Digital,OPC UA,64.3,45.3,Utilities,10283
+A-00770,ANAD,Hydraulic Press,Legacy OEM,M400,26.4,Medium,Vendor Digital,OEM Cloud API,91.3,12.2,Utilities,15079
+A-00771,SIAD,Diesel Engine,Caterpillar-like,M292,6.1,Low,Legacy Analog,None,75.3,23.9,Machining,10320
+A-00772,WVA,Paint/Blast Booth,Mazak-like,M176,10.9,High,Native Digital,OPC UA,68.7,49.3,Utilities,8854
+A-00773,RRAD,CNC Machine,Generic Industrial,M375,10.2,Medium,Legacy Analog,None,66.6,31.5,Welding,23910
+A-00774,ANAD,Hydraulic Press,Mazak-like,M126,12.3,Medium,Legacy Analog,None,62.7,45.4,Quality,8610
+A-00775,SIAD,Diesel Engine,Legacy OEM,M331,15.7,Medium,Native Digital,MTConnect,73.4,27.1,Coating,823
+A-00776,WVA,Diesel Engine,Haas-like,M941,8.6,Low,Native Digital,MTConnect,49.1,49.2,Material Handling,3630
+A-00777,RRAD,Laser Cutter,Siemens-like,M925,8.1,Medium,Vendor Digital,OEM Cloud API,50.7,54.0,Utilities,18577
+A-00778,ANAD,Transformer,Generic Industrial,M229,10.4,Low,Vendor Digital,Proprietary Gateway,64.9,27.8,Machining,12912
+A-00779,SIAD,Transformer,Mazak-like,M462,11.0,Medium,Native Digital,OPC UA,98.6,0,Material Handling,16957
+A-00780,WVA,CNC Machine,Mazak-like,M889,17.3,Low,Vendor Digital,Proprietary Gateway,86.7,3.8,Assembly,28197
+A-00781,RRAD,Diesel Engine,Legacy OEM,M995,24.4,Low,Native Digital,MTConnect,73.9,23.5,Disassembly,14393
+A-00782,ANAD,Test Stand,Generic Industrial,M227,31.0,Low,Native Digital,Modbus TCP,86.1,13.8,Test,955
+A-00783,SIAD,Transformer,Haas-like,M800,24.2,Medium,Vendor Digital,OEM Cloud API,54.1,39.9,Quality,1887
+A-00784,WVA,Transformer,Siemens-like,M152,0.5,Low,Vendor Digital,OEM Cloud API,73.4,28.6,Test,16736
+A-00785,RRAD,Hydraulic Press,Caterpillar-like,M855,10.3,Low,Native Digital,MTConnect,76.6,19.5,Quality,13398
+A-00786,ANAD,CNC Machine,Caterpillar-like,M730,13.7,High,Legacy Analog,Retrofit Sensors,72.9,35.7,Material Handling,11265
+A-00787,SIAD,CNC Machine,Haas-like,M257,18.8,Medium,Vendor Digital,OEM Cloud API,74.6,23.3,Test,4558
+A-00788,WVA,Material Handler,Mazak-like,M286,13.2,High,Legacy Analog,Serial/PLC,62.7,49.8,Utilities,27092
+A-00789,RRAD,CNC Machine,Caterpillar-like,M294,24.7,Medium,Native Digital,Modbus TCP,63.3,42.6,Coating,1819
+A-00790,ANAD,Diesel Engine,Generic Industrial,M372,4.6,Medium,Native Digital,MTConnect,79.8,25.6,Inspection,14298
+A-00791,SIAD,Overhead Crane,Mazak-like,M234,0.9,High,Legacy Analog,Retrofit Sensors,78.0,40.5,Inspection,4034
+A-00792,WVA,Air Compressor,Mazak-like,M711,5.9,High,Native Digital,MTConnect,96.2,16.9,Disassembly,14732
+A-00793,RRAD,Overhead Crane,Generic Industrial,M353,12.3,Medium,Vendor Digital,OEM Cloud API,76.1,24.9,Test,7001
+A-00794,ANAD,Overhead Crane,Caterpillar-like,M235,0.5,Medium,Native Digital,OPC UA,73.0,24.9,Test,1757
+A-00795,SIAD,CNC Machine,Fanuc-like,M327,14.6,High,Native Digital,MTConnect,76.3,26.1,Assembly,14461
+A-00796,WVA,Overhead Crane,Generic Industrial,M528,11.1,Medium,Vendor Digital,OEM Cloud API,53.1,55.9,Welding,10980
+A-00797,RRAD,Paint/Blast Booth,Fanuc-like,M358,13.1,Medium,Native Digital,REST API,71.1,30.8,Material Handling,12413
+A-00798,ANAD,Hydraulic Press,Legacy OEM,M703,11.0,High,Vendor Digital,Proprietary Gateway,71.3,33.9,Utilities,20315
+A-00799,SIAD,Hydraulic Press,Generic Industrial,M937,9.8,Medium,Legacy Analog,Retrofit Sensors,65.9,32.9,Welding,6821
+A-00800,WVA,Test Stand,Haas-like,M838,11.6,Low,Native Digital,REST API,51.6,49.8,Machining,1935
+A-00801,RRAD,Diesel Engine,Mazak-like,M169,2.0,Low,Legacy Analog,Serial/PLC,86.2,12.1,Material Handling,14229
+A-00802,ANAD,Laser Cutter,Caterpillar-like,M679,10.1,Low,Legacy Analog,Serial/PLC,70.4,27.1,Disassembly,26530
+A-00803,SIAD,Material Handler,Legacy OEM,M499,18.4,Medium,Vendor Digital,OEM Cloud API,88.4,11.6,Test,20397
+A-00804,WVA,CNC Machine,Haas-like,M566,5.1,High,Native Digital,OPC UA,99,11.6,Utilities,23691
+A-00805,RRAD,Test Stand,Caterpillar-like,M754,12.1,High,Native Digital,MTConnect,94.8,18.8,Machining,29453
+A-00806,ANAD,CNC Machine,Caterpillar-like,M101,14.7,High,Legacy Analog,None,78.2,31.6,Assembly,21231
+A-00807,SIAD,Transformer,Generic Industrial,M935,10.7,Medium,Vendor Digital,Proprietary Gateway,75.8,20.2,Disassembly,27498
+A-00808,WVA,Hydraulic Press,Legacy OEM,M697,35.3,Medium,Native Digital,REST API,45.3,46.3,Inspection,24178
+A-00809,RRAD,Air Compressor,Generic Industrial,M927,4.4,Low,Vendor Digital,Proprietary Gateway,87.4,11.1,Test,5600
+A-00810,ANAD,Overhead Crane,Legacy OEM,M983,17.8,Medium,Vendor Digital,Proprietary Gateway,54.9,45.2,Machining,6688
+A-00811,SIAD,Transformer,Caterpillar-like,M536,17.7,High,Native Digital,OPC UA,65.6,42.9,Welding,15410
+A-00812,WVA,Material Handler,Caterpillar-like,M212,11.1,Low,Native Digital,OPC UA,62.6,34.5,Disassembly,25516
+A-00813,RRAD,Paint/Blast Booth,Legacy OEM,M824,16.9,Medium,Native Digital,MTConnect,66.2,24.9,Inspection,7129
+A-00814,ANAD,Diesel Engine,Haas-like,M808,9.1,Medium,Legacy Analog,Serial/PLC,64.1,36.4,Coating,21061
+A-00815,SIAD,Laser Cutter,Mazak-like,M494,15.4,Medium,Native Digital,Modbus TCP,70.0,30.9,Machining,12077
+A-00816,WVA,Test Stand,Fanuc-like,M212,12.1,High,Legacy Analog,Retrofit Sensors,73.9,33.9,Welding,3833
+A-00817,RRAD,Material Handler,Siemens-like,M714,12.4,High,Native Digital,MTConnect,75.9,37.2,Machining,22763
+A-00818,ANAD,Overhead Crane,Siemens-like,M371,19.9,Low,Vendor Digital,Proprietary Gateway,65.2,40.6,Inspection,26349
+A-00819,SIAD,Diesel Engine,Legacy OEM,M168,17.1,Medium,Native Digital,Modbus TCP,65.8,38.2,Inspection,19434
+A-00820,WVA,Overhead Crane,Mazak-like,M534,0.5,Medium,Native Digital,REST API,79.0,16.4,Material Handling,23222
+A-00821,RRAD,Material Handler,Mazak-like,M645,3.9,High,Legacy Analog,Serial/PLC,65.7,38.4,Utilities,27415
+A-00822,ANAD,CNC Machine,Legacy OEM,M117,10.0,High,Vendor Digital,Controller API,72.6,37.8,Assembly,18796
+A-00823,SIAD,Overhead Crane,Mazak-like,M348,15.6,Low,Native Digital,OPC UA,73.7,32.3,Welding,27626
+A-00824,WVA,CNC Machine,Siemens-like,M155,25.3,Medium,Native Digital,OPC UA,94.7,7.4,Inspection,22216
+A-00825,RRAD,Transformer,Legacy OEM,M526,2.4,High,Native Digital,OPC UA,79.0,36.7,Machining,25581
+A-00826,ANAD,CNC Machine,Generic Industrial,M811,17.8,Medium,Legacy Analog,Serial/PLC,66.0,28.7,Disassembly,9896
+A-00827,SIAD,Diesel Engine,Mazak-like,M667,23.7,Medium,Native Digital,OPC UA,71.3,32.4,Coating,19245
+A-00828,WVA,Laser Cutter,Fanuc-like,M860,2.5,Medium,Vendor Digital,Proprietary Gateway,43.8,54.4,Welding,13620
+A-00829,RRAD,Transformer,Mazak-like,M947,14.0,Medium,Vendor Digital,Controller API,77.8,15.0,Test,5900
+A-00830,ANAD,Diesel Engine,Legacy OEM,M443,14.6,Medium,Vendor Digital,OEM Cloud API,84.3,18.8,Disassembly,8348
+A-00831,SIAD,CNC Machine,Fanuc-like,M375,10.2,Medium,Legacy Analog,Retrofit Sensors,71.3,32.2,Inspection,19181
+A-00832,WVA,Transformer,Siemens-like,M869,30.6,Medium,Legacy Analog,Serial/PLC,69.8,32.6,Coating,13546
+A-00833,RRAD,Laser Cutter,Haas-like,M926,9.9,Medium,Native Digital,MTConnect,83.6,21.2,Machining,1276
+A-00834,ANAD,Transformer,Generic Industrial,M195,7.3,Medium,Vendor Digital,Proprietary Gateway,81.8,22.8,Welding,29480
+A-00835,SIAD,CNC Machine,Legacy OEM,M541,11.2,Medium,Legacy Analog,None,65.9,31.6,Disassembly,29685
+A-00836,WVA,Test Stand,Legacy OEM,M115,19.4,Medium,Native Digital,MTConnect,57.5,38.2,Machining,25610
+A-00837,RRAD,Paint/Blast Booth,Caterpillar-like,M386,0.5,Medium,Native Digital,MTConnect,68.5,33.5,Quality,12405
+A-00838,ANAD,Hydraulic Press,Mazak-like,M765,18.9,High,Vendor Digital,Proprietary Gateway,87.8,21.0,Machining,4562
+A-00839,SIAD,Material Handler,Siemens-like,M482,5.4,High,Vendor Digital,Proprietary Gateway,75.9,27.2,Inspection,22854
+A-00840,WVA,Overhead Crane,Generic Industrial,M940,12.1,Medium,Legacy Analog,Retrofit Sensors,91.2,11.9,Utilities,760
+A-00841,RRAD,Diesel Engine,Mazak-like,M757,19.1,Medium,Legacy Analog,Serial/PLC,74.6,23.1,Utilities,29995
+A-00842,ANAD,Air Compressor,Siemens-like,M450,6.5,High,Native Digital,MTConnect,77.8,36.5,Quality,16434
+A-00843,SIAD,CNC Machine,Haas-like,M892,12.8,Medium,Vendor Digital,OEM Cloud API,65.1,36.4,Test,2544
+A-00844,WVA,Material Handler,Legacy OEM,M800,23.1,Medium,Vendor Digital,OEM Cloud API,65.9,35.1,Test,9342
+A-00845,RRAD,CNC Machine,Fanuc-like,M950,15.0,High,Native Digital,Modbus TCP,75.7,36.7,Disassembly,3529
+A-00846,ANAD,Paint/Blast Booth,Mazak-like,M648,29.5,Medium,Legacy Analog,None,54.5,49.8,Machining,23329
+A-00847,SIAD,Overhead Crane,Siemens-like,M780,21.9,Low,Vendor Digital,OEM Cloud API,57.8,38.8,Assembly,964
+A-00848,WVA,Diesel Engine,Caterpillar-like,M561,3.4,Medium,Native Digital,REST API,64.0,39.3,Machining,21284
+A-00849,RRAD,Overhead Crane,Fanuc-like,M456,16.6,High,Legacy Analog,Retrofit Sensors,67.9,43.2,Welding,6763
+A-00850,ANAD,Material Handler,Legacy OEM,M227,2.3,Medium,Native Digital,REST API,88.0,8.4,Material Handling,21763
+A-00851,SIAD,Material Handler,Haas-like,M709,6.6,Low,Vendor Digital,OEM Cloud API,80.1,15.2,Machining,18285
+A-00852,WVA,Overhead Crane,Legacy OEM,M201,15.0,High,Vendor Digital,Controller API,61.4,37.4,Inspection,26909
+A-00853,RRAD,Paint/Blast Booth,Generic Industrial,M396,14.2,Low,Native Digital,MTConnect,71.3,19.6,Test,7442
+A-00854,ANAD,CNC Machine,Mazak-like,M522,12.7,Medium,Vendor Digital,Proprietary Gateway,58.4,48.7,Test,749
+A-00855,SIAD,Material Handler,Mazak-like,M133,14.9,High,Vendor Digital,Proprietary Gateway,55.8,54.8,Disassembly,1360
+A-00856,WVA,Diesel Engine,Fanuc-like,M669,30.2,Medium,Legacy Analog,None,97.9,0,Test,6813
+A-00857,RRAD,Transformer,Fanuc-like,M547,11.0,Low,Vendor Digital,Controller API,74.4,22.0,Welding,3762
+A-00858,ANAD,Test Stand,Siemens-like,M308,17.0,High,Native Digital,Modbus TCP,72.3,35.2,Inspection,3556
+A-00859,SIAD,Diesel Engine,Mazak-like,M749,26.7,High,Vendor Digital,Controller API,64.8,53.2,Assembly,6613
+A-00860,WVA,CNC Machine,Siemens-like,M184,15.1,Low,Native Digital,OPC UA,72.0,20.8,Machining,21059
+A-00861,RRAD,Diesel Engine,Caterpillar-like,M179,29.0,High,Legacy Analog,None,59.8,48.1,Material Handling,28176
+A-00862,ANAD,Hydraulic Press,Caterpillar-like,M315,29.6,Low,Vendor Digital,OEM Cloud API,88.9,16.8,Test,12796
+A-00863,SIAD,Paint/Blast Booth,Caterpillar-like,M451,7.1,High,Native Digital,OPC UA,64.3,39.0,Assembly,16356
+A-00864,WVA,Material Handler,Haas-like,M624,1.5,Medium,Native Digital,REST API,65.5,30.7,Machining,7587
+A-00865,RRAD,Paint/Blast Booth,Siemens-like,M825,17.2,High,Native Digital,OPC UA,74.1,23.6,Utilities,21862
+A-00866,ANAD,CNC Machine,Generic Industrial,M387,15.3,Medium,Vendor Digital,OEM Cloud API,78.1,28.6,Test,3871
+A-00867,SIAD,Transformer,Legacy OEM,M426,13.7,Medium,Legacy Analog,Serial/PLC,60.1,32.5,Quality,4024
+A-00868,WVA,Transformer,Haas-like,M359,19.1,Medium,Vendor Digital,Controller API,43.6,59.7,Quality,13928
+A-00869,RRAD,CNC Machine,Fanuc-like,M466,18.3,Low,Native Digital,MTConnect,52.6,49.3,Welding,2880
+A-00870,ANAD,CNC Machine,Siemens-like,M318,5.1,Medium,Native Digital,REST API,74.5,26.2,Material Handling,19094
+A-00871,SIAD,Air Compressor,Legacy OEM,M980,21.3,Medium,Vendor Digital,OEM Cloud API,57.1,41.7,Inspection,19307
+A-00872,WVA,Paint/Blast Booth,Mazak-like,M147,23.8,Medium,Legacy Analog,None,72.0,36.5,Coating,14303
+A-00873,RRAD,Diesel Engine,Caterpillar-like,M572,2.6,Medium,Native Digital,MTConnect,81.3,12.6,Coating,4794
+A-00874,ANAD,Paint/Blast Booth,Legacy OEM,M921,0.6,Medium,Legacy Analog,Retrofit Sensors,91.1,9.5,Test,24199
+A-00875,SIAD,CNC Machine,Mazak-like,M605,10.0,High,Legacy Analog,None,82.6,21.4,Inspection,28125
+A-00876,WVA,Hydraulic Press,Generic Industrial,M841,20.7,Medium,Native Digital,MTConnect,75.0,27.7,Test,7916
+A-00877,RRAD,Diesel Engine,Caterpillar-like,M149,19.2,Medium,Legacy Analog,None,91.6,7.9,Coating,2958
+A-00878,ANAD,CNC Machine,Mazak-like,M222,27.0,Medium,Legacy Analog,Retrofit Sensors,66.3,36.1,Machining,10963
+A-00879,SIAD,Paint/Blast Booth,Mazak-like,M777,13.3,Low,Vendor Digital,Controller API,45.6,50.7,Material Handling,9692
+A-00880,WVA,Hydraulic Press,Legacy OEM,M348,12.2,Medium,Native Digital,REST API,84.6,18.6,Welding,23272
+A-00881,RRAD,Diesel Engine,Haas-like,M879,15.8,High,Native Digital,Modbus TCP,68.6,44.1,Utilities,17340
+A-00882,ANAD,Paint/Blast Booth,Fanuc-like,M324,16.3,Medium,Native Digital,Modbus TCP,72.3,25.8,Assembly,13134
+A-00883,SIAD,Material Handler,Haas-like,M763,19.5,Medium,Native Digital,REST API,56.7,38.6,Inspection,5326
+A-00884,WVA,Overhead Crane,Haas-like,M563,0.5,High,Native Digital,MTConnect,76.3,39.4,Assembly,9202
+A-00885,RRAD,Diesel Engine,Caterpillar-like,M150,5.9,High,Vendor Digital,Controller API,71.3,42.5,Test,24486
+A-00886,ANAD,Material Handler,Mazak-like,M211,15.1,High,Native Digital,OPC UA,55.9,53.0,Disassembly,21679
+A-00887,SIAD,CNC Machine,Haas-like,M816,16.0,Low,Vendor Digital,OEM Cloud API,73.0,29.9,Test,13342
+A-00888,WVA,Hydraulic Press,Generic Industrial,M394,16.4,High,Legacy Analog,None,72.8,40.1,Quality,9936
+A-00889,RRAD,Air Compressor,Fanuc-like,M291,20.9,Medium,Vendor Digital,Controller API,74.5,29.2,Assembly,29986
+A-00890,ANAD,Overhead Crane,Caterpillar-like,M274,23.6,Low,Vendor Digital,Proprietary Gateway,69.1,34.4,Disassembly,19964
+A-00891,SIAD,Hydraulic Press,Fanuc-like,M637,12.6,Low,Vendor Digital,OEM Cloud API,71.1,27.1,Utilities,5982
+A-00892,WVA,Air Compressor,Siemens-like,M779,7.0,Medium,Native Digital,REST API,70.7,14.2,Material Handling,8807
+A-00893,RRAD,Hydraulic Press,Caterpillar-like,M251,20.4,Medium,Legacy Analog,Serial/PLC,67.7,29.1,Test,28558
+A-00894,ANAD,CNC Machine,Siemens-like,M311,1.1,Low,Native Digital,MTConnect,75.6,11.0,Inspection,6851
+A-00895,SIAD,Material Handler,Siemens-like,M500,10.2,High,Vendor Digital,Controller API,76.3,32.9,Quality,14173
+A-00896,WVA,Material Handler,Legacy OEM,M911,25.0,High,Native Digital,REST API,52.2,60.1,Assembly,9950
+A-00897,RRAD,Diesel Engine,Siemens-like,M166,31.3,High,Vendor Digital,Controller API,62.2,45.6,Coating,1010
+A-00898,ANAD,Overhead Crane,Generic Industrial,M954,7.2,High,Legacy Analog,Serial/PLC,69.7,45.3,Disassembly,2135
+A-00899,SIAD,CNC Machine,Fanuc-like,M542,9.2,Low,Vendor Digital,OEM Cloud API,80.9,17.0,Quality,3144
+A-00900,WVA,CNC Machine,Caterpillar-like,M367,39.3,High,Legacy Analog,Retrofit Sensors,47.2,66.1,Coating,20063
+A-00901,RRAD,CNC Machine,Siemens-like,M187,1.9,High,Vendor Digital,Proprietary Gateway,69.9,37.2,Coating,19068
+A-00902,ANAD,Material Handler,Haas-like,M801,15.7,Medium,Native Digital,Modbus TCP,51.2,47.6,Assembly,15847
+A-00903,SIAD,Hydraulic Press,Siemens-like,M905,0.5,Medium,Legacy Analog,None,84.1,16.1,Welding,19516
+A-00904,WVA,Laser Cutter,Mazak-like,M926,2.0,High,Vendor Digital,OEM Cloud API,89.5,25.8,Utilities,15580
+A-00905,RRAD,Paint/Blast Booth,Caterpillar-like,M224,18.5,Low,Native Digital,MTConnect,72.7,22.9,Quality,22599
+A-00906,ANAD,Laser Cutter,Generic Industrial,M755,13.8,Medium,Vendor Digital,Controller API,76.8,22.7,Machining,10359
+A-00907,SIAD,Transformer,Caterpillar-like,M632,9.4,Low,Vendor Digital,OEM Cloud API,45.2,61.6,Inspection,8600
+A-00908,WVA,CNC Machine,Mazak-like,M288,13.0,Medium,Legacy Analog,None,79.9,18.2,Welding,28081
+A-00909,RRAD,Paint/Blast Booth,Legacy OEM,M862,12.3,Medium,Vendor Digital,Proprietary Gateway,87.7,10.2,Welding,6095
+A-00910,ANAD,Laser Cutter,Mazak-like,M476,9.1,Medium,Native Digital,Modbus TCP,57.9,31.1,Coating,13318
+A-00911,SIAD,Hydraulic Press,Siemens-like,M134,15.8,Low,Native Digital,REST API,56.6,42.7,Quality,15064
+A-00912,WVA,Diesel Engine,Siemens-like,M612,12.5,Low,Legacy Analog,Serial/PLC,65.4,48.6,Utilities,7406
+A-00913,RRAD,Hydraulic Press,Legacy OEM,M905,10.8,High,Vendor Digital,Controller API,60.5,44.3,Machining,9620
+A-00914,ANAD,Air Compressor,Generic Industrial,M284,9.6,Medium,Legacy Analog,Serial/PLC,63.1,40.9,Quality,23716
+A-00915,SIAD,Material Handler,Caterpillar-like,M972,14.6,High,Native Digital,REST API,55.5,55.4,Machining,8092
+A-00916,WVA,Diesel Engine,Generic Industrial,M914,10.4,High,Legacy Analog,None,94.0,15.0,Welding,3954
+A-00917,RRAD,Paint/Blast Booth,Generic Industrial,M174,20.8,Medium,Vendor Digital,OEM Cloud API,89.1,10.9,Material Handling,25513
+A-00918,ANAD,Hydraulic Press,Generic Industrial,M687,15.2,Medium,Native Digital,OPC UA,65.9,29.4,Utilities,7044
+A-00919,SIAD,CNC Machine,Generic Industrial,M198,1.0,High,Legacy Analog,None,78.5,32.5,Welding,1589
+A-00920,WVA,Air Compressor,Generic Industrial,M847,13.9,Low,Native Digital,Modbus TCP,77.6,19.0,Utilities,16758
+A-00921,RRAD,CNC Machine,Caterpillar-like,M682,17.0,Medium,Native Digital,OPC UA,90.4,5.3,Inspection,4667
+A-00922,ANAD,Air Compressor,Legacy OEM,M396,16.4,High,Native Digital,OPC UA,66.5,43.2,Coating,13293
+A-00923,SIAD,Test Stand,Caterpillar-like,M659,27.8,Low,Native Digital,OPC UA,72.8,22.1,Inspection,19596
+A-00924,WVA,Overhead Crane,Legacy OEM,M160,13.0,Low,Native Digital,MTConnect,63.8,37.8,Machining,7192
+A-00925,RRAD,Laser Cutter,Haas-like,M819,11.2,Medium,Legacy Analog,None,44.7,57.5,Disassembly,11832
+A-00926,ANAD,Material Handler,Caterpillar-like,M206,3.3,Low,Vendor Digital,Controller API,85.2,13.5,Disassembly,16772
+A-00927,SIAD,Laser Cutter,Fanuc-like,M647,8.0,High,Legacy Analog,None,63.3,55.3,Quality,28690
+A-00928,WVA,Hydraulic Press,Mazak-like,M818,15.3,Medium,Native Digital,Modbus TCP,71.4,20.9,Test,18507
+A-00929,RRAD,Diesel Engine,Caterpillar-like,M702,0.5,Low,Native Digital,OPC UA,87.5,15.8,Disassembly,7942
+A-00930,ANAD,Overhead Crane,Caterpillar-like,M229,10.1,Medium,Legacy Analog,Retrofit Sensors,72.4,29.3,Material Handling,6417
+A-00931,SIAD,CNC Machine,Caterpillar-like,M178,8.7,Low,Legacy Analog,Serial/PLC,88.2,9.3,Coating,18314
+A-00932,WVA,CNC Machine,Haas-like,M399,13.5,Medium,Legacy Analog,Retrofit Sensors,66.8,37.7,Welding,17763
+A-00933,RRAD,Paint/Blast Booth,Fanuc-like,M961,8.8,High,Native Digital,Modbus TCP,86.8,21.2,Utilities,8054
+A-00934,ANAD,CNC Machine,Mazak-like,M216,13.3,Medium,Native Digital,OPC UA,65.2,28.0,Disassembly,16848
+A-00935,SIAD,Paint/Blast Booth,Mazak-like,M493,11.6,High,Legacy Analog,Retrofit Sensors,87.5,21.8,Material Handling,1955
+A-00936,WVA,CNC Machine,Caterpillar-like,M723,14.0,Medium,Vendor Digital,Controller API,90.2,11.4,Assembly,27637
+A-00937,RRAD,Material Handler,Legacy OEM,M211,17.0,Medium,Native Digital,Modbus TCP,53.8,53.8,Utilities,13217
+A-00938,ANAD,Material Handler,Siemens-like,M266,7.2,Low,Native Digital,Modbus TCP,70.1,21.5,Test,15813
+A-00939,SIAD,Air Compressor,Haas-like,M504,16.8,High,Legacy Analog,None,65.9,44.7,Disassembly,20670
+A-00940,WVA,CNC Machine,Siemens-like,M967,6.4,High,Native Digital,MTConnect,64.9,43.3,Machining,15042
+A-00941,RRAD,Overhead Crane,Haas-like,M664,4.7,Low,Vendor Digital,Proprietary Gateway,80.4,17.8,Assembly,2598
+A-00942,ANAD,Overhead Crane,Legacy OEM,M732,11.4,High,Legacy Analog,None,72.8,40.3,Disassembly,8124
+A-00943,SIAD,Diesel Engine,Siemens-like,M363,24.8,Low,Vendor Digital,Controller API,68.7,33.0,Disassembly,22729
+A-00944,WVA,Paint/Blast Booth,Mazak-like,M215,32.5,Low,Vendor Digital,Controller API,57.3,44.3,Utilities,3037
+A-00945,RRAD,CNC Machine,Siemens-like,M443,9.5,Low,Vendor Digital,Proprietary Gateway,83.1,23.7,Test,29905
+A-00946,ANAD,Test Stand,Haas-like,M126,14.7,Medium,Legacy Analog,Serial/PLC,96.5,6.7,Inspection,20456
+A-00947,SIAD,CNC Machine,Generic Industrial,M253,8.1,Medium,Legacy Analog,Serial/PLC,91.1,9.5,Test,25489
+A-00948,WVA,Material Handler,Generic Industrial,M528,11.2,High,Native Digital,OPC UA,88.8,21.1,Utilities,24520
+A-00949,RRAD,Diesel Engine,Fanuc-like,M436,23.3,Medium,Vendor Digital,Proprietary Gateway,50.3,51.9,Welding,26681
+A-00950,ANAD,Air Compressor,Mazak-like,M470,22.9,Medium,Vendor Digital,Controller API,37.0,67.2,Inspection,12033
+A-00951,SIAD,Transformer,Haas-like,M350,19.7,Medium,Native Digital,Modbus TCP,72.4,34.5,Test,22589
+A-00952,WVA,Transformer,Haas-like,M251,0.5,High,Native Digital,REST API,86.8,26.7,Quality,16693
+A-00953,RRAD,Test Stand,Mazak-like,M860,15.4,Low,Native Digital,MTConnect,44.0,56.7,Inspection,4641
+A-00954,ANAD,Paint/Blast Booth,Mazak-like,M532,0.5,Low,Native Digital,OPC UA,63.1,36.4,Assembly,4676
+A-00955,SIAD,Hydraulic Press,Caterpillar-like,M175,1.2,High,Legacy Analog,Retrofit Sensors,70.7,27.4,Assembly,15209
+A-00956,WVA,Material Handler,Generic Industrial,M884,0.5,Medium,Legacy Analog,Serial/PLC,71.7,20.6,Quality,27373
+A-00957,RRAD,Material Handler,Haas-like,M386,27.7,Medium,Native Digital,Modbus TCP,75.6,18.9,Inspection,8110
+A-00958,ANAD,CNC Machine,Fanuc-like,M142,16.6,High,Vendor Digital,Proprietary Gateway,53.8,61.8,Welding,14607
+A-00959,SIAD,Laser Cutter,Fanuc-like,M395,3.1,High,Native Digital,MTConnect,68.7,37.7,Coating,20362
+A-00960,WVA,Air Compressor,Fanuc-like,M128,13.5,Low,Vendor Digital,OEM Cloud API,57.0,41.0,Quality,1802
+A-00961,RRAD,Material Handler,Mazak-like,M849,0.5,High,Legacy Analog,None,72.4,35.2,Material Handling,17568
+A-00962,ANAD,Diesel Engine,Fanuc-like,M385,32.1,Medium,Legacy Analog,Serial/PLC,55.3,44.8,Inspection,12090
+A-00963,SIAD,Air Compressor,Legacy OEM,M175,12.8,High,Native Digital,REST API,62.5,43.5,Assembly,29737
+A-00964,WVA,Material Handler,Caterpillar-like,M749,6.0,Medium,Legacy Analog,Retrofit Sensors,61.7,29.6,Disassembly,8558
+A-00965,RRAD,Diesel Engine,Fanuc-like,M750,0.5,Medium,Native Digital,OPC UA,97.9,1.7,Inspection,17418
+A-00966,ANAD,Paint/Blast Booth,Caterpillar-like,M528,6.5,Medium,Native Digital,MTConnect,60.0,35.0,Coating,20599
+A-00967,SIAD,Hydraulic Press,Mazak-like,M915,3.1,Medium,Vendor Digital,Proprietary Gateway,67.7,37.6,Test,20090
+A-00968,WVA,Hydraulic Press,Generic Industrial,M535,4.6,Medium,Native Digital,MTConnect,85.9,13.2,Inspection,6273
+A-00969,RRAD,Overhead Crane,Siemens-like,M374,11.4,Medium,Vendor Digital,Proprietary Gateway,77.1,19.8,Utilities,7548
+A-00970,ANAD,Paint/Blast Booth,Mazak-like,M535,16.1,Medium,Native Digital,REST API,64.2,40.3,Test,9042
+A-00971,SIAD,Material Handler,Haas-like,M311,11.5,High,Legacy Analog,Serial/PLC,90.9,20.9,Inspection,20596
+A-00972,WVA,Transformer,Siemens-like,M885,29.1,High,Vendor Digital,Proprietary Gateway,64.1,41.5,Utilities,2579
+A-00973,RRAD,Test Stand,Siemens-like,M439,5.5,High,Native Digital,Modbus TCP,73.7,35.6,Test,7565
+A-00974,ANAD,Laser Cutter,Caterpillar-like,M260,17.6,High,Native Digital,MTConnect,47.1,62.8,Coating,10378
+A-00975,SIAD,Diesel Engine,Siemens-like,M982,4.7,High,Legacy Analog,Serial/PLC,61.9,53.7,Inspection,3007
+A-00976,WVA,Diesel Engine,Fanuc-like,M197,22.6,Medium,Legacy Analog,None,64.9,28.9,Quality,26472
+A-00977,RRAD,Hydraulic Press,Generic Industrial,M690,20.8,Medium,Vendor Digital,Proprietary Gateway,45.9,51.9,Material Handling,12839
+A-00978,ANAD,CNC Machine,Fanuc-like,M491,13.9,High,Legacy Analog,Serial/PLC,82.7,23.9,Disassembly,16786
+A-00979,SIAD,Test Stand,Caterpillar-like,M758,25.9,Medium,Vendor Digital,Proprietary Gateway,57.6,37.0,Coating,11393
+A-00980,WVA,Diesel Engine,Mazak-like,M731,16.0,Medium,Native Digital,OPC UA,65.0,33.8,Material Handling,17650
+A-00981,RRAD,Test Stand,Generic Industrial,M678,7.7,Medium,Native Digital,REST API,70.2,30.5,Quality,13821
+A-00982,ANAD,Paint/Blast Booth,Siemens-like,M572,11.1,High,Native Digital,Modbus TCP,65.2,51.5,Material Handling,17356
+A-00983,SIAD,Laser Cutter,Generic Industrial,M224,12.2,Low,Vendor Digital,Proprietary Gateway,51.9,48.3,Machining,6967
+A-00984,WVA,Overhead Crane,Fanuc-like,M866,8.2,Low,Native Digital,Modbus TCP,63.2,32.5,Utilities,14201
+A-00985,RRAD,Hydraulic Press,Generic Industrial,M269,10.5,High,Legacy Analog,Serial/PLC,84.5,21.9,Machining,10009
+A-00986,ANAD,Laser Cutter,Siemens-like,M864,7.9,High,Vendor Digital,Controller API,73.6,42.0,Machining,5881
+A-00987,SIAD,Laser Cutter,Caterpillar-like,M650,13.5,Medium,Native Digital,MTConnect,69.1,29.9,Material Handling,11347
+A-00988,WVA,Diesel Engine,Generic Industrial,M114,7.9,Medium,Vendor Digital,Proprietary Gateway,65.6,33.1,Welding,9497
+A-00989,RRAD,CNC Machine,Caterpillar-like,M706,20.2,Medium,Native Digital,Modbus TCP,60.2,32.7,Machining,3874
+A-00990,ANAD,Air Compressor,Siemens-like,M689,10.0,High,Native Digital,MTConnect,55.0,50.5,Quality,20317
+A-00991,SIAD,CNC Machine,Legacy OEM,M729,18.7,Medium,Vendor Digital,OEM Cloud API,45.0,57.2,Machining,5196
+A-00992,WVA,Diesel Engine,Mazak-like,M434,12.8,Low,Native Digital,MTConnect,75.4,19.6,Coating,16896
+A-00993,RRAD,Air Compressor,Haas-like,M962,13.5,Medium,Vendor Digital,Proprietary Gateway,82.6,16.6,Welding,5943
+A-00994,ANAD,Material Handler,Generic Industrial,M223,15.9,Low,Vendor Digital,Controller API,48.1,52.4,Utilities,29983
+A-00995,SIAD,Overhead Crane,Fanuc-like,M491,12.0,Medium,Vendor Digital,Controller API,73.6,27.8,Assembly,6365
+A-00996,WVA,Material Handler,Caterpillar-like,M477,23.0,Low,Native Digital,REST API,75.7,24.5,Coating,16975
+A-00997,RRAD,Material Handler,Haas-like,M943,11.4,High,Vendor Digital,Controller API,69.8,40.1,Disassembly,28784
+A-00998,ANAD,Test Stand,Legacy OEM,M658,24.2,Medium,Vendor Digital,Proprietary Gateway,40.6,61.1,Inspection,1751
+A-00999,SIAD,Hydraulic Press,Mazak-like,M752,3.4,Medium,Native Digital,OPC UA,63.8,37.5,Disassembly,10796
+A-01000,WVA,Diesel Engine,Generic Industrial,M968,9.5,Medium,Legacy Analog,Retrofit Sensors,71.9,23.6,Assembly,29917
+A-01001,RRAD,Test Stand,Legacy OEM,M879,21.8,Low,Vendor Digital,Proprietary Gateway,57.1,42.0,Utilities,5333
+A-01002,ANAD,Test Stand,Generic Industrial,M864,10.4,High,Vendor Digital,Controller API,67.6,37.6,Disassembly,10696
+A-01003,SIAD,CNC Machine,Caterpillar-like,M290,8.7,Medium,Vendor Digital,OEM Cloud API,82.1,20.7,Assembly,19870
+A-01004,WVA,Transformer,Generic Industrial,M352,10.5,High,Native Digital,MTConnect,68.7,42.7,Coating,27936
+A-01005,RRAD,Test Stand,Fanuc-like,M678,28.0,Medium,Legacy Analog,Serial/PLC,54.2,45.0,Assembly,14065
+A-01006,ANAD,CNC Machine,Mazak-like,M463,8.2,High,Legacy Analog,Serial/PLC,70.5,35.8,Quality,12414
+A-01007,SIAD,Hydraulic Press,Generic Industrial,M544,7.5,Medium,Legacy Analog,Serial/PLC,63.7,39.9,Assembly,21668
+A-01008,WVA,Air Compressor,Mazak-like,M367,21.6,Medium,Native Digital,REST API,67.5,28.7,Disassembly,4278
+A-01009,RRAD,Laser Cutter,Caterpillar-like,M744,6.8,Medium,Native Digital,Modbus TCP,64.2,39.3,Assembly,28986
+A-01010,ANAD,Material Handler,Fanuc-like,M578,8.9,High,Vendor Digital,Controller API,77.5,36.9,Utilities,6600
+A-01011,SIAD,Air Compressor,Siemens-like,M594,2.7,Medium,Vendor Digital,Proprietary Gateway,82.7,17.2,Test,10336
+A-01012,WVA,Diesel Engine,Mazak-like,M707,20.7,Low,Native Digital,MTConnect,71.1,16.7,Disassembly,5874
+A-01013,RRAD,Laser Cutter,Caterpillar-like,M192,27.7,Low,Legacy Analog,None,51.0,52.1,Coating,26480
+A-01014,ANAD,Air Compressor,Fanuc-like,M408,18.2,Low,Vendor Digital,Proprietary Gateway,63.6,33.6,Coating,3133
+A-01015,SIAD,CNC Machine,Haas-like,M803,18.4,Medium,Native Digital,REST API,57.9,43.4,Test,23397
+A-01016,WVA,CNC Machine,Fanuc-like,M425,16.1,Medium,Native Digital,Modbus TCP,69.6,28.2,Machining,13603
+A-01017,RRAD,Air Compressor,Haas-like,M127,24.9,Medium,Vendor Digital,Controller API,51.0,44.7,Welding,29518
+A-01018,ANAD,Transformer,Caterpillar-like,M761,22.8,Medium,Native Digital,REST API,50.1,44.6,Welding,5024
+A-01019,SIAD,Laser Cutter,Legacy OEM,M592,19.5,High,Vendor Digital,Proprietary Gateway,70.1,38.9,Disassembly,9053
+A-01020,WVA,Material Handler,Generic Industrial,M983,20.7,Medium,Native Digital,MTConnect,55.5,51.2,Test,26830
+A-01021,RRAD,Air Compressor,Legacy OEM,M155,15.2,Medium,Vendor Digital,Proprietary Gateway,75.0,29.9,Coating,14425
+A-01022,ANAD,CNC Machine,Legacy OEM,M647,11.0,Medium,Vendor Digital,Controller API,75.6,16.6,Assembly,4159
+A-01023,SIAD,Air Compressor,Siemens-like,M302,22.8,Medium,Vendor Digital,OEM Cloud API,63.7,43.7,Utilities,27134
+A-01024,WVA,Transformer,Siemens-like,M151,9.0,Low,Vendor Digital,Proprietary Gateway,83.1,20.9,Quality,22991
+A-01025,RRAD,Hydraulic Press,Siemens-like,M404,2.3,Medium,Native Digital,REST API,84.8,14.6,Disassembly,20022
+A-01026,ANAD,Diesel Engine,Generic Industrial,M248,14.2,Medium,Vendor Digital,OEM Cloud API,74.8,26.3,Material Handling,14626
+A-01027,SIAD,Paint/Blast Booth,Haas-like,M841,8.0,Medium,Legacy Analog,None,84.6,14.8,Inspection,13014
+A-01028,WVA,Laser Cutter,Siemens-like,M838,15.0,Medium,Native Digital,REST API,98.9,2.8,Inspection,27922
+A-01029,RRAD,Material Handler,Legacy OEM,M547,26.9,Medium,Legacy Analog,None,58.6,37.4,Coating,24973
+A-01030,ANAD,Test Stand,Siemens-like,M105,19.4,High,Vendor Digital,Controller API,82.6,23.4,Test,7287
+A-01031,SIAD,Diesel Engine,Fanuc-like,M165,9.4,High,Vendor Digital,OEM Cloud API,76.1,35.2,Quality,9931
+A-01032,WVA,Test Stand,Haas-like,M112,25.4,Medium,Vendor Digital,Controller API,58.4,46.0,Assembly,11660
+A-01033,RRAD,CNC Machine,Legacy OEM,M685,15.0,Low,Vendor Digital,Controller API,63.6,36.4,Inspection,21189
+A-01034,ANAD,Overhead Crane,Mazak-like,M130,15.0,Low,Native Digital,REST API,69.8,24.7,Machining,20975
+A-01035,SIAD,Transformer,Haas-like,M234,5.7,Medium,Legacy Analog,Retrofit Sensors,64.0,32.4,Test,20394
+A-01036,WVA,Material Handler,Legacy OEM,M896,13.3,High,Vendor Digital,OEM Cloud API,64.8,54.9,Test,18524
+A-01037,RRAD,Hydraulic Press,Generic Industrial,M880,13.1,Medium,Native Digital,REST API,58.3,37.8,Assembly,16959
+A-01038,ANAD,Laser Cutter,Legacy OEM,M281,2.5,Medium,Legacy Analog,Serial/PLC,82.6,12.5,Test,9950
+A-01039,SIAD,Diesel Engine,Mazak-like,M293,19.5,Medium,Vendor Digital,Proprietary Gateway,49.4,42.9,Disassembly,20779
+A-01040,WVA,CNC Machine,Siemens-like,M724,0.5,Medium,Vendor Digital,Controller API,74.5,13.5,Welding,5954
+A-01041,RRAD,Transformer,Fanuc-like,M568,9.6,Medium,Legacy Analog,Retrofit Sensors,73.7,32.7,Assembly,24193
+A-01042,ANAD,Paint/Blast Booth,Fanuc-like,M691,1.2,High,Legacy Analog,None,70.5,49.7,Material Handling,15546
+A-01043,SIAD,CNC Machine,Fanuc-like,M573,0.5,Medium,Legacy Analog,Serial/PLC,55.8,51.8,Inspection,725
+A-01044,WVA,Air Compressor,Generic Industrial,M650,0.5,Medium,Vendor Digital,Proprietary Gateway,83.9,3.8,Inspection,23955
+A-01045,RRAD,Air Compressor,Caterpillar-like,M472,7.0,High,Vendor Digital,Proprietary Gateway,62.3,51.5,Test,23982
+A-01046,ANAD,Material Handler,Haas-like,M871,1.7,Medium,Vendor Digital,OEM Cloud API,88.7,4.4,Inspection,24158
+A-01047,SIAD,Diesel Engine,Mazak-like,M826,6.8,Low,Legacy Analog,None,80.0,16.3,Material Handling,25158
+A-01048,WVA,CNC Machine,Haas-like,M136,23.8,High,Native Digital,Modbus TCP,60.1,43.8,Machining,5350
+A-01049,RRAD,Laser Cutter,Generic Industrial,M550,29.3,Medium,Vendor Digital,Controller API,65.9,30.2,Coating,5560
+A-01050,ANAD,Air Compressor,Fanuc-like,M697,10.2,Medium,Native Digital,REST API,70.5,28.6,Coating,5361
+A-01051,SIAD,Transformer,Generic Industrial,M259,12.2,Medium,Legacy Analog,Retrofit Sensors,90.4,20.4,Quality,28438
+A-01052,WVA,Laser Cutter,Mazak-like,M488,0.5,Medium,Native Digital,Modbus TCP,87.2,8.6,Disassembly,22413
+A-01053,RRAD,Material Handler,Generic Industrial,M112,9.2,High,Native Digital,MTConnect,81.6,25.0,Utilities,29930
+A-01054,ANAD,CNC Machine,Siemens-like,M666,20.0,High,Vendor Digital,Controller API,80.7,27.6,Utilities,28241
+A-01055,SIAD,Air Compressor,Generic Industrial,M978,27.8,High,Vendor Digital,OEM Cloud API,39.9,71.1,Welding,7982
+A-01056,WVA,Test Stand,Legacy OEM,M165,8.1,Medium,Native Digital,REST API,80.1,21.7,Machining,17623
+A-01057,RRAD,CNC Machine,Fanuc-like,M589,14.6,Medium,Vendor Digital,Controller API,78.6,18.4,Inspection,14980
+A-01058,ANAD,Diesel Engine,Mazak-like,M981,23.3,High,Vendor Digital,Controller API,64.7,46.0,Inspection,24092
+A-01059,SIAD,Paint/Blast Booth,Mazak-like,M746,13.9,Low,Vendor Digital,OEM Cloud API,62.6,37.6,Machining,11268
+A-01060,WVA,Laser Cutter,Haas-like,M615,2.2,Medium,Legacy Analog,Retrofit Sensors,76.9,27.1,Coating,21010
+A-01061,RRAD,Overhead Crane,Generic Industrial,M411,32.1,Medium,Native Digital,Modbus TCP,56.2,47.4,Inspection,28746
+A-01062,ANAD,Overhead Crane,Haas-like,M412,25.2,Medium,Vendor Digital,OEM Cloud API,64.8,31.7,Assembly,25614
+A-01063,SIAD,Laser Cutter,Fanuc-like,M972,18.4,Medium,Vendor Digital,Proprietary Gateway,74.0,27.8,Machining,20492
+A-01064,WVA,Test Stand,Siemens-like,M334,20.5,High,Vendor Digital,Controller API,71.8,29.8,Coating,15965
+A-01065,RRAD,Material Handler,Mazak-like,M105,16.9,High,Legacy Analog,Serial/PLC,58.7,46.8,Test,2312
+A-01066,ANAD,Material Handler,Generic Industrial,M833,16.6,Medium,Legacy Analog,None,72.2,24.7,Coating,10159
+A-01067,SIAD,Paint/Blast Booth,Caterpillar-like,M176,21.4,Medium,Vendor Digital,OEM Cloud API,68.1,22.0,Welding,5756
+A-01068,WVA,Hydraulic Press,Generic Industrial,M598,12.7,Medium,Legacy Analog,Retrofit Sensors,47.6,60.5,Welding,9679
+A-01069,RRAD,Material Handler,Generic Industrial,M175,10.6,High,Native Digital,REST API,70.0,42.1,Assembly,25903
+A-01070,ANAD,Air Compressor,Siemens-like,M686,15.8,Low,Legacy Analog,None,57.4,40.6,Utilities,25495
+A-01071,SIAD,Test Stand,Siemens-like,M891,0.5,Medium,Native Digital,MTConnect,70.0,29.1,Material Handling,24986
+A-01072,WVA,Paint/Blast Booth,Siemens-like,M361,0.5,High,Vendor Digital,Proprietary Gateway,87.8,34.8,Quality,24999
+A-01073,RRAD,Material Handler,Caterpillar-like,M679,20.3,Medium,Legacy Analog,None,80.1,25.0,Test,1551
+A-01074,ANAD,Material Handler,Caterpillar-like,M678,8.0,Low,Native Digital,Modbus TCP,71.3,30.3,Inspection,18794
+A-01075,SIAD,Air Compressor,Legacy OEM,M800,0.5,Low,Native Digital,Modbus TCP,73.5,34.9,Test,27296
+A-01076,WVA,CNC Machine,Siemens-like,M564,12.4,Medium,Legacy Analog,Serial/PLC,86.7,16.5,Utilities,26095
+A-01077,RRAD,Test Stand,Mazak-like,M254,16.6,High,Vendor Digital,Controller API,57.3,56.2,Coating,28535
+A-01078,ANAD,CNC Machine,Siemens-like,M832,13.7,Medium,Native Digital,Modbus TCP,77.3,31.5,Quality,5500
+A-01079,SIAD,CNC Machine,Legacy OEM,M422,17.1,High,Vendor Digital,OEM Cloud API,76.9,32.0,Welding,22066
+A-01080,WVA,CNC Machine,Mazak-like,M226,15.5,High,Vendor Digital,OEM Cloud API,69.9,38.9,Test,1333
+A-01081,RRAD,Overhead Crane,Caterpillar-like,M195,12.5,Medium,Vendor Digital,OEM Cloud API,51.4,49.4,Machining,17103
+A-01082,ANAD,Material Handler,Siemens-like,M525,2.4,Medium,Native Digital,OPC UA,76.0,19.3,Welding,7392
+A-01083,SIAD,Material Handler,Legacy OEM,M202,15.3,High,Native Digital,Modbus TCP,58.8,47.4,Assembly,12309
+A-01084,WVA,Material Handler,Mazak-like,M996,18.7,Low,Vendor Digital,OEM Cloud API,82.6,21.1,Material Handling,1019
+A-01085,RRAD,Material Handler,Fanuc-like,M811,11.2,High,Native Digital,OPC UA,88.9,27.1,Material Handling,25478
+A-01086,ANAD,Diesel Engine,Fanuc-like,M278,13.6,Medium,Native Digital,REST API,64.5,37.0,Utilities,5460
+A-01087,SIAD,Air Compressor,Siemens-like,M961,14.9,Low,Native Digital,OPC UA,62.8,38.7,Coating,20878
+A-01088,WVA,Hydraulic Press,Caterpillar-like,M652,20.8,Medium,Native Digital,Modbus TCP,85.0,7.0,Test,25485
+A-01089,RRAD,Transformer,Mazak-like,M976,8.4,High,Legacy Analog,None,72.3,42.0,Utilities,14931
+A-01090,ANAD,Diesel Engine,Siemens-like,M772,18.9,Medium,Vendor Digital,Proprietary Gateway,75.1,22.7,Utilities,12479
+A-01091,SIAD,Material Handler,Fanuc-like,M330,11.2,Medium,Legacy Analog,None,67.1,23.9,Inspection,24852
+A-01092,WVA,Diesel Engine,Siemens-like,M436,11.7,Medium,Legacy Analog,None,71.5,36.6,Material Handling,22400
+A-01093,RRAD,Transformer,Legacy OEM,M135,0.5,High,Legacy Analog,Serial/PLC,74.0,32.6,Test,21205
+A-01094,ANAD,Diesel Engine,Mazak-like,M430,4.1,High,Native Digital,OPC UA,80.3,26.6,Disassembly,19246
+A-01095,SIAD,Overhead Crane,Mazak-like,M220,16.2,Low,Legacy Analog,None,63.0,33.2,Coating,21978
+A-01096,WVA,Air Compressor,Haas-like,M567,14.8,Low,Native Digital,OPC UA,74.7,19.9,Inspection,22389
+A-01097,RRAD,Paint/Blast Booth,Legacy OEM,M213,13.5,Medium,Vendor Digital,Controller API,61.2,50.0,Inspection,18537
+A-01098,ANAD,Test Stand,Legacy OEM,M616,25.2,High,Native Digital,Modbus TCP,69.1,40.7,Machining,13527
+A-01099,SIAD,Air Compressor,Legacy OEM,M255,20.2,High,Vendor Digital,OEM Cloud API,57.4,52.4,Quality,28678
+A-01100,WVA,Laser Cutter,Generic Industrial,M269,3.2,High,Vendor Digital,Controller API,79.7,32.8,Quality,7914
+A-01101,RRAD,Paint/Blast Booth,Siemens-like,M499,13.0,Low,Vendor Digital,Proprietary Gateway,63.9,47.9,Utilities,14303
+A-01102,ANAD,Paint/Blast Booth,Siemens-like,M313,8.0,Medium,Native Digital,REST API,73.5,32.9,Quality,19963
+A-01103,SIAD,Material Handler,Fanuc-like,M354,20.7,High,Legacy Analog,None,71.1,35.9,Assembly,2811
+A-01104,WVA,CNC Machine,Fanuc-like,M310,6.7,Low,Native Digital,Modbus TCP,72.5,15.6,Material Handling,5166
+A-01105,RRAD,Test Stand,Siemens-like,M941,13.1,High,Native Digital,MTConnect,69.0,33.7,Inspection,18235
+A-01106,ANAD,Air Compressor,Caterpillar-like,M741,15.1,Medium,Native Digital,REST API,51.1,56.0,Material Handling,14456
+A-01107,SIAD,Transformer,Haas-like,M985,21.7,Medium,Legacy Analog,None,53.1,53.8,Assembly,8406
+A-01108,WVA,Paint/Blast Booth,Siemens-like,M962,19.9,Medium,Legacy Analog,None,51.5,40.8,Coating,8746
+A-01109,RRAD,Test Stand,Mazak-like,M326,7.4,High,Native Digital,MTConnect,89.6,21.7,Quality,14713
+A-01110,ANAD,Test Stand,Haas-like,M991,7.4,High,Legacy Analog,Retrofit Sensors,80.0,25.8,Test,1879
+A-01111,SIAD,Transformer,Haas-like,M531,1.0,Low,Vendor Digital,OEM Cloud API,66.0,27.1,Test,24036
+A-01112,WVA,Air Compressor,Legacy OEM,M743,6.9,High,Legacy Analog,Retrofit Sensors,86.0,25.2,Test,22424
+A-01113,RRAD,Material Handler,Siemens-like,M467,14.1,Medium,Native Digital,REST API,77.7,21.1,Assembly,12046
+A-01114,ANAD,Material Handler,Legacy OEM,M912,0.5,High,Vendor Digital,Proprietary Gateway,72.4,30.9,Machining,7360
+A-01115,SIAD,Laser Cutter,Generic Industrial,M924,20.6,Medium,Legacy Analog,None,53.6,43.0,Welding,10872
+A-01116,WVA,Air Compressor,Mazak-like,M307,22.6,High,Legacy Analog,Retrofit Sensors,57.9,52.2,Coating,28548
+A-01117,RRAD,Test Stand,Haas-like,M817,4.4,Low,Legacy Analog,None,93.1,12.0,Utilities,10206
+A-01118,ANAD,Air Compressor,Generic Industrial,M514,19.8,Medium,Vendor Digital,OEM Cloud API,80.8,22.9,Coating,5276
+A-01119,SIAD,Test Stand,Fanuc-like,M553,5.1,Low,Native Digital,REST API,72.7,31.6,Disassembly,8557
+A-01120,WVA,Laser Cutter,Fanuc-like,M550,11.7,Medium,Native Digital,Modbus TCP,80.5,19.1,Welding,5263
+A-01121,RRAD,Diesel Engine,Fanuc-like,M968,13.1,Medium,Legacy Analog,Retrofit Sensors,73.3,30.0,Utilities,19534
+A-01122,ANAD,Hydraulic Press,Legacy OEM,M920,12.9,Medium,Legacy Analog,Serial/PLC,61.8,24.6,Coating,14633
+A-01123,SIAD,Hydraulic Press,Fanuc-like,M198,28.2,High,Native Digital,OPC UA,45.9,64.2,Utilities,23711
+A-01124,WVA,Overhead Crane,Haas-like,M940,22.9,High,Legacy Analog,Serial/PLC,61.9,41.1,Welding,15746
+A-01125,RRAD,CNC Machine,Caterpillar-like,M455,17.6,Medium,Vendor Digital,OEM Cloud API,56.9,37.1,Material Handling,28928
+A-01126,ANAD,Test Stand,Generic Industrial,M712,9.2,High,Native Digital,REST API,91.2,16.2,Material Handling,14617
+A-01127,SIAD,Test Stand,Mazak-like,M247,34.9,High,Vendor Digital,Proprietary Gateway,46.4,54.3,Utilities,22825
+A-01128,WVA,Transformer,Caterpillar-like,M728,6.1,Low,Legacy Analog,Serial/PLC,57.0,38.5,Inspection,17859
+A-01129,RRAD,Overhead Crane,Caterpillar-like,M439,15.8,Low,Legacy Analog,None,76.0,20.5,Inspection,3585
+A-01130,ANAD,Material Handler,Siemens-like,M287,5.5,Medium,Legacy Analog,Serial/PLC,72.8,24.6,Inspection,10697
+A-01131,SIAD,Hydraulic Press,Caterpillar-like,M447,8.6,Medium,Native Digital,Modbus TCP,49.5,46.2,Material Handling,25135
+A-01132,WVA,Diesel Engine,Caterpillar-like,M641,22.3,High,Legacy Analog,None,63.5,44.4,Disassembly,652
+A-01133,RRAD,Hydraulic Press,Haas-like,M323,8.0,Medium,Native Digital,MTConnect,93.8,2.4,Assembly,3677
+A-01134,ANAD,Paint/Blast Booth,Haas-like,M252,5.9,Low,Vendor Digital,Proprietary Gateway,86.5,6.5,Material Handling,1494
+A-01135,SIAD,Transformer,Haas-like,M271,28.4,Medium,Native Digital,REST API,52.5,45.7,Inspection,16807
+A-01136,WVA,CNC Machine,Mazak-like,M219,17.1,High,Vendor Digital,Proprietary Gateway,57.2,51.3,Utilities,2645
+A-01137,RRAD,Hydraulic Press,Mazak-like,M930,9.1,Low,Native Digital,Modbus TCP,79.6,33.6,Quality,3736
+A-01138,ANAD,Paint/Blast Booth,Mazak-like,M881,21.2,High,Vendor Digital,Controller API,69.5,44.6,Welding,10099
+A-01139,SIAD,Material Handler,Mazak-like,M905,5.3,High,Native Digital,MTConnect,80.8,24.3,Coating,25758
+A-01140,WVA,Test Stand,Haas-like,M655,13.8,High,Legacy Analog,Serial/PLC,85.9,18.9,Machining,21502
+A-01141,RRAD,CNC Machine,Mazak-like,M856,14.8,Low,Vendor Digital,Controller API,70.7,32.7,Utilities,17669
+A-01142,ANAD,Paint/Blast Booth,Fanuc-like,M829,2.1,Medium,Vendor Digital,OEM Cloud API,69.4,31.4,Assembly,2890
+A-01143,SIAD,Test Stand,Fanuc-like,M775,2.6,Medium,Native Digital,Modbus TCP,77.0,26.0,Assembly,6301
+A-01144,WVA,Material Handler,Generic Industrial,M364,17.4,Low,Native Digital,Modbus TCP,74.1,28.8,Test,22795
+A-01145,RRAD,Transformer,Mazak-like,M384,20.4,High,Legacy Analog,Retrofit Sensors,54.1,65.2,Welding,27262
+A-01146,ANAD,Air Compressor,Generic Industrial,M328,14.0,High,Native Digital,Modbus TCP,71.0,36.4,Inspection,21392
+A-01147,SIAD,Diesel Engine,Generic Industrial,M507,20.7,High,Vendor Digital,Controller API,84.5,33.1,Coating,18072
+A-01148,WVA,CNC Machine,Mazak-like,M305,9.5,Low,Native Digital,MTConnect,87.3,10.7,Machining,17481
+A-01149,RRAD,Material Handler,Haas-like,M479,9.2,High,Legacy Analog,Retrofit Sensors,74.0,37.2,Material Handling,24694
+A-01150,ANAD,Diesel Engine,Fanuc-like,M449,7.4,Medium,Native Digital,OPC UA,67.5,38.4,Coating,6251
+A-01151,SIAD,Hydraulic Press,Siemens-like,M773,16.5,Medium,Native Digital,REST API,85.3,15.7,Material Handling,1329
+A-01152,WVA,Paint/Blast Booth,Caterpillar-like,M214,24.1,High,Native Digital,REST API,84.0,36.1,Inspection,13932
+A-01153,RRAD,Laser Cutter,Caterpillar-like,M676,25.7,Medium,Native Digital,MTConnect,66.0,33.8,Disassembly,27163
+A-01154,ANAD,Hydraulic Press,Mazak-like,M685,12.2,Medium,Legacy Analog,Retrofit Sensors,86.8,16.4,Test,9755
+A-01155,SIAD,Test Stand,Fanuc-like,M565,0.5,High,Vendor Digital,Proprietary Gateway,94.9,4.3,Utilities,29317
+A-01156,WVA,Hydraulic Press,Caterpillar-like,M542,18.0,High,Vendor Digital,Proprietary Gateway,76.6,30.2,Coating,5218
+A-01157,RRAD,Diesel Engine,Mazak-like,M571,0.5,Low,Legacy Analog,Serial/PLC,90.9,10.4,Material Handling,15045
+A-01158,ANAD,Material Handler,Generic Industrial,M295,20.9,Medium,Native Digital,Modbus TCP,57.7,41.6,Quality,6876
+A-01159,SIAD,Material Handler,Mazak-like,M211,11.2,Medium,Vendor Digital,Proprietary Gateway,51.0,47.2,Utilities,21872
+A-01160,WVA,Overhead Crane,Fanuc-like,M775,20.5,Low,Legacy Analog,None,69.8,36.4,Test,17457
+A-01161,RRAD,Overhead Crane,Generic Industrial,M511,14.6,High,Vendor Digital,Proprietary Gateway,69.0,37.4,Quality,26119
+A-01162,ANAD,Air Compressor,Haas-like,M881,0.6,High,Native Digital,OPC UA,78.8,25.5,Quality,17886
+A-01163,SIAD,Air Compressor,Siemens-like,M307,21.5,Medium,Native Digital,MTConnect,53.5,49.1,Machining,7479
+A-01164,WVA,CNC Machine,Siemens-like,M410,7.5,High,Vendor Digital,Controller API,55.4,55.8,Inspection,26790
+A-01165,RRAD,Transformer,Siemens-like,M806,16.7,Medium,Vendor Digital,OEM Cloud API,64.8,29.9,Welding,4214
+A-01166,ANAD,Test Stand,Legacy OEM,M120,10.1,High,Vendor Digital,OEM Cloud API,59.0,52.0,Quality,23048
+A-01167,SIAD,Material Handler,Caterpillar-like,M478,7.4,Medium,Vendor Digital,Proprietary Gateway,83.8,6.7,Inspection,6307
+A-01168,WVA,Diesel Engine,Siemens-like,M828,6.2,High,Vendor Digital,OEM Cloud API,80.1,36.6,Inspection,12123
+A-01169,RRAD,Transformer,Haas-like,M124,13.4,Low,Vendor Digital,Proprietary Gateway,68.6,32.9,Material Handling,10938
+A-01170,ANAD,Material Handler,Siemens-like,M867,19.1,High,Native Digital,REST API,78.4,31.5,Material Handling,22107
+A-01171,SIAD,Diesel Engine,Mazak-like,M136,9.0,Low,Vendor Digital,Proprietary Gateway,71.0,30.7,Coating,23334
+A-01172,WVA,Hydraulic Press,Generic Industrial,M367,21.6,Medium,Vendor Digital,Proprietary Gateway,50.4,59.6,Utilities,6821
+A-01173,RRAD,Overhead Crane,Legacy OEM,M209,11.1,Low,Native Digital,REST API,98.3,4.3,Welding,2938
+A-01174,ANAD,Diesel Engine,Legacy OEM,M449,13.6,High,Vendor Digital,OEM Cloud API,72.5,37.6,Quality,2806
+A-01175,SIAD,Diesel Engine,Generic Industrial,M183,1.6,Medium,Legacy Analog,None,59.8,42.8,Machining,3504
+A-01176,WVA,Test Stand,Generic Industrial,M642,14.5,High,Vendor Digital,OEM Cloud API,67.6,37.6,Welding,16099
+A-01177,RRAD,Air Compressor,Fanuc-like,M369,10.6,Medium,Vendor Digital,Proprietary Gateway,58.6,39.3,Machining,29276
+A-01178,ANAD,Laser Cutter,Fanuc-like,M266,12.8,Low,Vendor Digital,OEM Cloud API,82.6,10.5,Test,21317
+A-01179,SIAD,Paint/Blast Booth,Generic Industrial,M357,10.6,Medium,Native Digital,REST API,84.0,16.0,Coating,25216
+A-01180,WVA,Diesel Engine,Generic Industrial,M556,13.9,High,Vendor Digital,Controller API,88.2,25.9,Disassembly,24888
+A-01181,RRAD,Test Stand,Siemens-like,M860,7.3,Low,Vendor Digital,Controller API,92.7,6.6,Material Handling,12638
+A-01182,ANAD,Laser Cutter,Mazak-like,M576,6.1,Medium,Native Digital,OPC UA,83.5,23.3,Material Handling,11128
+A-01183,SIAD,Material Handler,Caterpillar-like,M994,25.2,Medium,Legacy Analog,None,37.7,61.9,Machining,26329
+A-01184,WVA,CNC Machine,Fanuc-like,M254,5.1,Low,Vendor Digital,Proprietary Gateway,54.9,48.8,Quality,6526
+A-01185,RRAD,CNC Machine,Haas-like,M384,22.0,High,Native Digital,Modbus TCP,67.3,38.6,Welding,6724
+A-01186,ANAD,Overhead Crane,Caterpillar-like,M431,31.8,Medium,Vendor Digital,Proprietary Gateway,89.0,15.7,Material Handling,20416
+A-01187,SIAD,CNC Machine,Generic Industrial,M733,14.8,Low,Vendor Digital,Proprietary Gateway,98.5,5.3,Test,20541
+A-01188,WVA,Diesel Engine,Caterpillar-like,M118,22.5,High,Native Digital,REST API,43.9,75.8,Material Handling,12624
+A-01189,RRAD,Overhead Crane,Haas-like,M912,14.8,High,Legacy Analog,Serial/PLC,80.2,31.3,Assembly,23382
+A-01190,ANAD,CNC Machine,Fanuc-like,M600,3.1,High,Native Digital,OPC UA,59.3,44.9,Quality,15892
+A-01191,SIAD,Paint/Blast Booth,Generic Industrial,M372,6.6,Medium,Native Digital,REST API,97.2,0,Inspection,15228
+A-01192,WVA,Hydraulic Press,Caterpillar-like,M435,13.6,High,Legacy Analog,None,62.1,48.5,Assembly,27528
+A-01193,RRAD,Transformer,Fanuc-like,M711,0.5,Low,Vendor Digital,Controller API,69.8,33.1,Quality,4444
+A-01194,ANAD,CNC Machine,Caterpillar-like,M405,26.9,High,Legacy Analog,Serial/PLC,43.6,70.7,Coating,7192
+A-01195,SIAD,Diesel Engine,Haas-like,M554,24.5,Medium,Native Digital,Modbus TCP,67.3,28.2,Assembly,4030
+A-01196,WVA,Material Handler,Caterpillar-like,M226,5.8,Medium,Native Digital,Modbus TCP,65.8,32.0,Disassembly,28934
+A-01197,RRAD,Hydraulic Press,Siemens-like,M727,8.6,Low,Native Digital,MTConnect,74.2,22.7,Disassembly,21590
+A-01198,ANAD,CNC Machine,Caterpillar-like,M243,6.6,Medium,Vendor Digital,Controller API,71.2,23.1,Machining,3850
+A-01199,SIAD,Laser Cutter,Mazak-like,M658,18.4,Medium,Legacy Analog,Serial/PLC,64.6,34.3,Disassembly,17692
+A-01200,WVA,Overhead Crane,Legacy OEM,M367,15.5,Medium,Vendor Digital,OEM Cloud API,80.5,26.7,Welding,8340
+A-01201,RRAD,Diesel Engine,Fanuc-like,M991,12.3,Medium,Vendor Digital,OEM Cloud API,68.8,31.9,Machining,16903
+A-01202,ANAD,CNC Machine,Generic Industrial,M831,18.7,Medium,Vendor Digital,OEM Cloud API,69.1,25.1,Test,18523
+A-01203,SIAD,Diesel Engine,Legacy OEM,M268,13.7,High,Vendor Digital,Controller API,73.6,32.3,Test,7472
+A-01204,WVA,Diesel Engine,Legacy OEM,M306,9.2,High,Vendor Digital,Proprietary Gateway,64.5,49.0,Quality,8897
+A-01205,RRAD,Hydraulic Press,Legacy OEM,M515,10.1,High,Native Digital,MTConnect,80.7,36.6,Welding,6556
+A-01206,ANAD,Diesel Engine,Generic Industrial,M790,10.6,Medium,Native Digital,OPC UA,71.3,24.5,Welding,29553
+A-01207,SIAD,Transformer,Legacy OEM,M285,10.1,Medium,Native Digital,REST API,85.1,15.7,Assembly,7261
+A-01208,WVA,Laser Cutter,Mazak-like,M674,13.2,Medium,Vendor Digital,Proprietary Gateway,71.4,17.3,Quality,9850
+A-01209,RRAD,Air Compressor,Siemens-like,M100,3.6,High,Native Digital,MTConnect,51.5,59.2,Coating,15083
+A-01210,ANAD,Hydraulic Press,Generic Industrial,M997,13.4,Medium,Native Digital,MTConnect,51.2,38.2,Assembly,2993
+A-01211,SIAD,CNC Machine,Legacy OEM,M309,9.2,High,Native Digital,OPC UA,64.7,54.8,Inspection,21363
+A-01212,WVA,Air Compressor,Mazak-like,M990,5.9,Medium,Native Digital,Modbus TCP,89.4,15.8,Quality,23271
+A-01213,RRAD,Laser Cutter,Caterpillar-like,M609,11.4,Medium,Legacy Analog,None,90.3,5.8,Test,27712
+A-01214,ANAD,Overhead Crane,Generic Industrial,M388,17.7,High,Native Digital,MTConnect,92.0,15.4,Material Handling,7142
+A-01215,SIAD,Air Compressor,Legacy OEM,M545,19.3,Low,Native Digital,Modbus TCP,68.8,37.3,Utilities,23534
+A-01216,WVA,Overhead Crane,Legacy OEM,M583,15.8,High,Legacy Analog,Serial/PLC,79.1,33.5,Utilities,5870
+A-01217,RRAD,Hydraulic Press,Siemens-like,M885,23.5,Medium,Native Digital,REST API,53.9,41.9,Coating,5337
+A-01218,ANAD,Air Compressor,Fanuc-like,M440,9.3,Medium,Vendor Digital,Proprietary Gateway,80.8,21.2,Assembly,21650
+A-01219,SIAD,Overhead Crane,Fanuc-like,M971,13.4,High,Native Digital,OPC UA,46.8,54.1,Quality,5071
+A-01220,WVA,Material Handler,Haas-like,M142,9.2,Medium,Legacy Analog,Serial/PLC,99,0,Utilities,3901
+A-01221,RRAD,Transformer,Siemens-like,M661,12.7,Low,Legacy Analog,None,86.2,9.5,Test,17641
+A-01222,ANAD,Test Stand,Fanuc-like,M954,26.5,Medium,Vendor Digital,Controller API,66.0,41.1,Welding,23968
+A-01223,SIAD,Diesel Engine,Legacy OEM,M314,15.6,High,Native Digital,MTConnect,55.7,54.5,Utilities,21414
+A-01224,WVA,Diesel Engine,Generic Industrial,M173,21.2,Low,Native Digital,MTConnect,72.4,36.7,Inspection,8804
+A-01225,RRAD,Overhead Crane,Haas-like,M703,27.1,Medium,Native Digital,REST API,82.7,14.3,Material Handling,21314
+A-01226,ANAD,Transformer,Mazak-like,M981,17.8,High,Vendor Digital,Proprietary Gateway,62.7,50.4,Test,25171
+A-01227,SIAD,Laser Cutter,Caterpillar-like,M586,23.0,Medium,Native Digital,Modbus TCP,76.0,29.7,Coating,18317
+A-01228,WVA,Diesel Engine,Mazak-like,M135,15.2,High,Legacy Analog,Serial/PLC,69.6,36.7,Assembly,10651
+A-01229,RRAD,Laser Cutter,Mazak-like,M170,10.5,Medium,Native Digital,OPC UA,59.6,42.6,Utilities,6438
+A-01230,ANAD,Overhead Crane,Fanuc-like,M562,0.5,Medium,Vendor Digital,Proprietary Gateway,88.4,15.6,Coating,28469
+A-01231,SIAD,Diesel Engine,Legacy OEM,M862,11.2,High,Native Digital,MTConnect,82.3,27.2,Machining,25812
+A-01232,WVA,Hydraulic Press,Caterpillar-like,M203,13.1,High,Native Digital,Modbus TCP,53.3,59.4,Machining,5061
+A-01233,RRAD,Diesel Engine,Generic Industrial,M656,23.8,High,Vendor Digital,OEM Cloud API,62.7,39.7,Inspection,14217
+A-01234,ANAD,Overhead Crane,Generic Industrial,M466,11.1,High,Vendor Digital,OEM Cloud API,92.9,22.4,Material Handling,13650
+A-01235,SIAD,Laser Cutter,Haas-like,M482,13.8,High,Native Digital,MTConnect,97.9,9.3,Utilities,9118
+A-01236,WVA,Overhead Crane,Siemens-like,M236,5.5,Low,Vendor Digital,OEM Cloud API,82.8,18.0,Test,866
+A-01237,RRAD,Hydraulic Press,Mazak-like,M920,11.8,Medium,Native Digital,MTConnect,71.4,27.0,Welding,6682
+A-01238,ANAD,Test Stand,Legacy OEM,M172,18.4,Medium,Native Digital,OPC UA,57.8,37.5,Machining,22358
+A-01239,SIAD,Diesel Engine,Legacy OEM,M740,0.5,High,Vendor Digital,Controller API,76.2,33.9,Assembly,7884
+A-01240,WVA,Air Compressor,Siemens-like,M500,26.4,Medium,Legacy Analog,Serial/PLC,81.1,20.2,Material Handling,20371
+A-01241,RRAD,Paint/Blast Booth,Siemens-like,M609,15.8,Medium,Legacy Analog,Retrofit Sensors,95.2,8.5,Inspection,14680
+A-01242,ANAD,Transformer,Mazak-like,M765,22.0,Medium,Vendor Digital,Controller API,57.7,46.0,Assembly,10444
+A-01243,SIAD,Paint/Blast Booth,Generic Industrial,M719,0.5,Low,Vendor Digital,Proprietary Gateway,61.2,33.4,Quality,22159
+A-01244,WVA,Air Compressor,Siemens-like,M744,7.5,High,Native Digital,Modbus TCP,57.0,52.2,Coating,9388
+A-01245,RRAD,Paint/Blast Booth,Legacy OEM,M443,8.2,Low,Native Digital,OPC UA,68.6,28.9,Utilities,22654
+A-01246,ANAD,Overhead Crane,Fanuc-like,M803,18.6,High,Vendor Digital,Controller API,73.7,29.1,Assembly,23851
+A-01247,SIAD,Laser Cutter,Legacy OEM,M445,6.8,Medium,Native Digital,REST API,93.6,8.8,Machining,29574
+A-01248,WVA,Test Stand,Siemens-like,M249,26.6,Medium,Native Digital,Modbus TCP,75.5,22.2,Coating,20356
+A-01249,RRAD,Diesel Engine,Haas-like,M697,18.5,Medium,Vendor Digital,OEM Cloud API,76.0,28.9,Coating,17248
+A-01250,ANAD,Transformer,Mazak-like,M420,9.1,High,Native Digital,Modbus TCP,61.7,45.1,Inspection,5078
+A-01251,SIAD,CNC Machine,Caterpillar-like,M860,3.7,High,Legacy Analog,Retrofit Sensors,92.4,15.0,Test,7213
+A-01252,WVA,Diesel Engine,Fanuc-like,M336,12.1,Medium,Native Digital,MTConnect,69.5,26.5,Welding,20760
+A-01253,RRAD,Transformer,Legacy OEM,M944,13.2,Medium,Native Digital,MTConnect,43.2,55.3,Test,7156
+A-01254,ANAD,Laser Cutter,Fanuc-like,M347,18.1,High,Native Digital,REST API,87.1,28.3,Material Handling,20475
+A-01255,SIAD,Diesel Engine,Mazak-like,M318,15.6,High,Native Digital,REST API,76.9,39.3,Welding,3788
+A-01256,WVA,Paint/Blast Booth,Caterpillar-like,M654,1.1,Medium,Vendor Digital,Controller API,89.2,4.0,Coating,7221
+A-01257,RRAD,Paint/Blast Booth,Fanuc-like,M481,0.5,Medium,Native Digital,Modbus TCP,78.9,17.0,Machining,23550
+A-01258,ANAD,Diesel Engine,Siemens-like,M354,18.6,Low,Vendor Digital,Proprietary Gateway,70.0,34.6,Coating,29940
+A-01259,SIAD,CNC Machine,Caterpillar-like,M498,5.7,High,Legacy Analog,Retrofit Sensors,66.9,50.4,Quality,11810
+A-01260,WVA,Hydraulic Press,Siemens-like,M475,18.0,High,Vendor Digital,Proprietary Gateway,57.8,53.9,Coating,16180
+A-01261,RRAD,Diesel Engine,Caterpillar-like,M824,15.0,Medium,Vendor Digital,OEM Cloud API,85.4,9.1,Machining,3527
+A-01262,ANAD,Transformer,Siemens-like,M991,23.2,Medium,Native Digital,REST API,58.9,50.6,Machining,8006
+A-01263,SIAD,Hydraulic Press,Fanuc-like,M341,14.5,Low,Vendor Digital,Proprietary Gateway,73.9,21.0,Disassembly,26967
+A-01264,WVA,Material Handler,Haas-like,M879,14.6,Medium,Native Digital,MTConnect,49.6,48.5,Assembly,24198
+A-01265,RRAD,Diesel Engine,Caterpillar-like,M503,8.0,Medium,Native Digital,OPC UA,72.0,30.3,Machining,5972
+A-01266,ANAD,Diesel Engine,Generic Industrial,M212,4.3,High,Native Digital,REST API,62.8,48.5,Welding,5811
+A-01267,SIAD,Test Stand,Haas-like,M843,13.1,Medium,Native Digital,Modbus TCP,66.3,31.5,Test,29623
+A-01268,WVA,Laser Cutter,Legacy OEM,M357,5.8,Low,Legacy Analog,Retrofit Sensors,70.9,21.0,Utilities,13858
+A-01269,RRAD,Diesel Engine,Mazak-like,M406,15.6,High,Native Digital,REST API,64.6,41.4,Assembly,1282
+A-01270,ANAD,CNC Machine,Legacy OEM,M867,8.0,High,Native Digital,Modbus TCP,58.4,53.7,Machining,21768
+A-01271,SIAD,Air Compressor,Fanuc-like,M574,9.5,Low,Legacy Analog,Serial/PLC,76.8,17.7,Machining,14124
+A-01272,WVA,Material Handler,Mazak-like,M769,14.9,High,Native Digital,MTConnect,82.5,29.3,Test,3059
+A-01273,RRAD,Transformer,Haas-like,M269,7.1,Medium,Legacy Analog,Serial/PLC,85.5,12.4,Disassembly,3819
+A-01274,ANAD,Diesel Engine,Mazak-like,M513,19.0,Medium,Native Digital,MTConnect,59.7,36.8,Assembly,26665
+A-01275,SIAD,Transformer,Generic Industrial,M898,8.9,Medium,Legacy Analog,Serial/PLC,81.8,12.7,Utilities,24376
+A-01276,WVA,Air Compressor,Generic Industrial,M750,16.9,Medium,Legacy Analog,Serial/PLC,61.8,33.6,Coating,5217
+A-01277,RRAD,Diesel Engine,Mazak-like,M682,16.0,Medium,Vendor Digital,OEM Cloud API,66.5,36.2,Welding,14183
+A-01278,ANAD,Air Compressor,Caterpillar-like,M371,13.3,Low,Vendor Digital,OEM Cloud API,77.8,22.0,Material Handling,26288
+A-01279,SIAD,Diesel Engine,Generic Industrial,M481,0.5,Low,Vendor Digital,Controller API,84.4,17.3,Material Handling,8956
+A-01280,WVA,Transformer,Generic Industrial,M955,6.2,Medium,Legacy Analog,Retrofit Sensors,71.4,31.2,Quality,17540
+A-01281,RRAD,Test Stand,Mazak-like,M841,17.8,High,Legacy Analog,Serial/PLC,48.7,58.5,Test,2180
+A-01282,ANAD,Material Handler,Fanuc-like,M575,21.4,High,Legacy Analog,Retrofit Sensors,69.7,48.9,Machining,3730
+A-01283,SIAD,Test Stand,Generic Industrial,M167,4.8,Medium,Vendor Digital,OEM Cloud API,74.9,28.1,Assembly,29640
+A-01284,WVA,Diesel Engine,Siemens-like,M341,20.8,Medium,Vendor Digital,Proprietary Gateway,60.8,43.4,Material Handling,29306
+A-01285,RRAD,Material Handler,Fanuc-like,M712,20.2,High,Vendor Digital,Proprietary Gateway,61.6,46.1,Assembly,19946
+A-01286,ANAD,Hydraulic Press,Legacy OEM,M927,9.9,High,Native Digital,MTConnect,49.5,65.1,Machining,2182
+A-01287,SIAD,Diesel Engine,Siemens-like,M438,14.9,Low,Native Digital,REST API,75.6,27.0,Inspection,1776
+A-01288,WVA,Material Handler,Mazak-like,M210,15.5,High,Native Digital,MTConnect,87.3,17.1,Coating,19943
+A-01289,RRAD,CNC Machine,Haas-like,M198,14.6,Medium,Native Digital,Modbus TCP,66.0,38.7,Material Handling,20373
+A-01290,ANAD,CNC Machine,Siemens-like,M621,24.6,High,Vendor Digital,Controller API,57.1,44.4,Coating,10122
+A-01291,SIAD,Test Stand,Generic Industrial,M258,16.3,Low,Legacy Analog,Serial/PLC,57.6,43.8,Disassembly,3103
+A-01292,WVA,Diesel Engine,Siemens-like,M804,21.6,Low,Native Digital,Modbus TCP,64.4,31.5,Assembly,19481
+A-01293,RRAD,CNC Machine,Siemens-like,M260,4.8,Low,Vendor Digital,Controller API,76.8,29.0,Test,6774
+A-01294,ANAD,Hydraulic Press,Mazak-like,M902,5.9,High,Legacy Analog,None,79.9,24.9,Assembly,15232
+A-01295,SIAD,Diesel Engine,Mazak-like,M996,3.3,Medium,Native Digital,OPC UA,99,6.0,Assembly,5355
+A-01296,WVA,Diesel Engine,Legacy OEM,M109,10.7,High,Vendor Digital,Proprietary Gateway,69.9,35.0,Assembly,23810
+A-01297,RRAD,Hydraulic Press,Generic Industrial,M861,7.6,High,Legacy Analog,None,66.7,39.7,Utilities,9460
+A-01298,ANAD,Laser Cutter,Generic Industrial,M705,23.2,Low,Legacy Analog,Retrofit Sensors,69.4,25.4,Utilities,10009
+A-01299,SIAD,Laser Cutter,Haas-like,M685,13.1,High,Vendor Digital,Proprietary Gateway,67.2,52.8,Welding,10827
+A-01300,WVA,Paint/Blast Booth,Siemens-like,M104,5.4,High,Native Digital,MTConnect,82.6,25.2,Utilities,8011
+A-01301,RRAD,Diesel Engine,Mazak-like,M116,21.3,Medium,Vendor Digital,Proprietary Gateway,62.4,40.1,Utilities,28960
+A-01302,ANAD,Material Handler,Fanuc-like,M646,3.8,Medium,Vendor Digital,Controller API,99,5.7,Utilities,9922
+A-01303,SIAD,Air Compressor,Caterpillar-like,M436,24.2,Medium,Legacy Analog,Retrofit Sensors,43.1,59.2,Welding,16224
+A-01304,WVA,Diesel Engine,Fanuc-like,M536,24.6,High,Legacy Analog,Retrofit Sensors,62.1,51.7,Welding,24393
+A-01305,RRAD,Diesel Engine,Caterpillar-like,M345,28.2,High,Vendor Digital,OEM Cloud API,78.5,38.3,Inspection,26015
+A-01306,ANAD,Air Compressor,Legacy OEM,M898,1.8,Medium,Native Digital,OPC UA,69.6,35.4,Utilities,15746
+A-01307,SIAD,Laser Cutter,Siemens-like,M842,2.0,Medium,Native Digital,MTConnect,78.8,18.7,Disassembly,20827
+A-01308,WVA,Air Compressor,Generic Industrial,M647,16.4,Medium,Native Digital,MTConnect,61.0,44.1,Welding,16185
+A-01309,RRAD,Material Handler,Fanuc-like,M294,13.3,High,Vendor Digital,OEM Cloud API,59.5,51.3,Quality,21389
+A-01310,ANAD,Overhead Crane,Siemens-like,M757,5.0,Medium,Vendor Digital,Controller API,62.8,35.2,Assembly,7024
+A-01311,SIAD,Paint/Blast Booth,Siemens-like,M982,18.0,Medium,Native Digital,REST API,69.8,21.9,Material Handling,3292
+A-01312,WVA,Diesel Engine,Haas-like,M843,20.7,High,Vendor Digital,Controller API,51.6,59.5,Assembly,4424
+A-01313,RRAD,Transformer,Siemens-like,M780,27.9,High,Native Digital,Modbus TCP,67.3,43.8,Machining,23303
+A-01314,ANAD,CNC Machine,Mazak-like,M415,10.9,Medium,Native Digital,REST API,83.3,16.0,Coating,13832
+A-01315,SIAD,Diesel Engine,Siemens-like,M425,20.1,Medium,Legacy Analog,None,65.7,37.5,Inspection,6484
+A-01316,WVA,Transformer,Haas-like,M979,16.5,Medium,Native Digital,MTConnect,77.2,17.5,Inspection,27093
+A-01317,RRAD,Test Stand,Mazak-like,M195,27.8,Medium,Legacy Analog,Serial/PLC,53.1,46.9,Assembly,9316
+A-01318,ANAD,Air Compressor,Mazak-like,M654,10.7,High,Native Digital,MTConnect,93.2,19.2,Inspection,9160
+A-01319,SIAD,Diesel Engine,Legacy OEM,M117,28.8,High,Native Digital,OPC UA,52.7,56.5,Material Handling,7657
+A-01320,WVA,Test Stand,Haas-like,M913,9.4,High,Legacy Analog,None,62.6,38.1,Welding,16643
+A-01321,RRAD,Laser Cutter,Haas-like,M394,18.1,Medium,Native Digital,REST API,71.0,23.4,Coating,8660
+A-01322,ANAD,Transformer,Mazak-like,M704,19.0,Low,Vendor Digital,Controller API,34.4,65.8,Welding,24970
+A-01323,SIAD,CNC Machine,Generic Industrial,M147,16.5,Medium,Native Digital,OPC UA,74.4,42.7,Inspection,22915
+A-01324,WVA,Hydraulic Press,Legacy OEM,M812,20.1,Low,Native Digital,MTConnect,55.9,37.6,Disassembly,14044
+A-01325,RRAD,Diesel Engine,Siemens-like,M554,14.2,Medium,Legacy Analog,Serial/PLC,76.6,19.0,Welding,28606
+A-01326,ANAD,Test Stand,Siemens-like,M103,19.7,High,Native Digital,OPC UA,79.4,28.9,Test,15690
+A-01327,SIAD,Diesel Engine,Siemens-like,M281,16.0,Medium,Vendor Digital,Proprietary Gateway,46.9,55.1,Test,25700
+A-01328,WVA,Diesel Engine,Generic Industrial,M984,10.0,Medium,Vendor Digital,Proprietary Gateway,64.4,31.3,Coating,28007
+A-01329,RRAD,Overhead Crane,Haas-like,M621,9.3,High,Legacy Analog,Retrofit Sensors,77.4,29.1,Machining,4098
+A-01330,ANAD,CNC Machine,Mazak-like,M120,13.5,Medium,Native Digital,MTConnect,60.3,39.3,Inspection,19084
+A-01331,SIAD,Material Handler,Caterpillar-like,M435,26.4,High,Native Digital,OPC UA,79.5,30.9,Utilities,14253
+A-01332,WVA,Transformer,Generic Industrial,M923,12.9,High,Native Digital,MTConnect,68.6,36.2,Coating,19708
+A-01333,RRAD,CNC Machine,Siemens-like,M146,0.5,Medium,Vendor Digital,Proprietary Gateway,91.0,1.5,Assembly,12194
+A-01334,ANAD,Overhead Crane,Haas-like,M240,1.1,High,Native Digital,OPC UA,82.1,28.1,Welding,13958
+A-01335,SIAD,Paint/Blast Booth,Siemens-like,M199,15.3,Low,Native Digital,Modbus TCP,81.5,19.2,Disassembly,8903
+A-01336,WVA,Diesel Engine,Caterpillar-like,M448,18.5,Medium,Native Digital,REST API,87.4,5.9,Welding,20546
+A-01337,RRAD,Diesel Engine,Generic Industrial,M875,17.8,Medium,Vendor Digital,OEM Cloud API,48.2,49.4,Disassembly,28092
+A-01338,ANAD,Overhead Crane,Haas-like,M384,3.7,Low,Legacy Analog,None,67.3,32.6,Disassembly,14495
+A-01339,SIAD,Test Stand,Fanuc-like,M942,25.3,Medium,Native Digital,MTConnect,56.1,47.9,Machining,8174
+A-01340,WVA,Air Compressor,Mazak-like,M331,13.9,Medium,Native Digital,OPC UA,69.2,32.5,Quality,4907
+A-01341,RRAD,Diesel Engine,Fanuc-like,M585,11.1,Medium,Legacy Analog,Serial/PLC,52.9,48.1,Test,749
+A-01342,ANAD,Diesel Engine,Fanuc-like,M525,15.4,High,Native Digital,Modbus TCP,70.3,36.3,Inspection,14741
+A-01343,SIAD,CNC Machine,Generic Industrial,M680,15.4,Medium,Vendor Digital,Proprietary Gateway,60.8,42.4,Welding,15214
+A-01344,WVA,Overhead Crane,Legacy OEM,M890,3.5,Medium,Legacy Analog,Serial/PLC,54.5,38.4,Disassembly,6931
+A-01345,RRAD,Hydraulic Press,Generic Industrial,M646,6.0,Low,Legacy Analog,None,85.2,17.7,Inspection,18852
+A-01346,ANAD,Overhead Crane,Legacy OEM,M229,9.6,Low,Vendor Digital,OEM Cloud API,83.2,26.1,Welding,2163
+A-01347,SIAD,Laser Cutter,Haas-like,M239,0.5,High,Vendor Digital,Controller API,62.2,51.0,Machining,1942
+A-01348,WVA,Overhead Crane,Mazak-like,M173,16.5,Low,Native Digital,OPC UA,74.7,26.8,Test,24123
+A-01349,RRAD,Test Stand,Legacy OEM,M780,24.8,Medium,Vendor Digital,OEM Cloud API,74.1,26.7,Disassembly,28775
+A-01350,ANAD,Air Compressor,Caterpillar-like,M549,0.5,High,Native Digital,MTConnect,88.6,32.9,Utilities,21718
+A-01351,SIAD,Hydraulic Press,Haas-like,M761,16.1,Medium,Vendor Digital,Proprietary Gateway,49.8,46.1,Coating,25158
+A-01352,WVA,CNC Machine,Mazak-like,M634,0.5,High,Vendor Digital,Controller API,65.6,41.8,Inspection,5434
+A-01353,RRAD,Diesel Engine,Haas-like,M150,13.8,Medium,Native Digital,Modbus TCP,56.3,42.6,Disassembly,22193
+A-01354,ANAD,CNC Machine,Fanuc-like,M514,13.7,High,Native Digital,REST API,68.9,37.2,Test,18948
+A-01355,SIAD,Diesel Engine,Legacy OEM,M690,0.8,Medium,Legacy Analog,None,88.7,5.1,Test,24407
+A-01356,WVA,Diesel Engine,Haas-like,M671,24.1,Medium,Vendor Digital,Proprietary Gateway,65.7,41.0,Material Handling,20753
+A-01357,RRAD,Hydraulic Press,Caterpillar-like,M986,26.8,Medium,Legacy Analog,None,63.1,45.2,Test,8784
+A-01358,ANAD,Paint/Blast Booth,Generic Industrial,M281,18.4,High,Vendor Digital,Proprietary Gateway,64.7,32.6,Utilities,16020
+A-01359,SIAD,Laser Cutter,Fanuc-like,M813,21.7,Medium,Legacy Analog,Serial/PLC,60.0,40.4,Test,20785
+A-01360,WVA,Test Stand,Mazak-like,M874,24.9,Medium,Vendor Digital,Proprietary Gateway,69.1,34.0,Machining,12567
+A-01361,RRAD,Test Stand,Siemens-like,M746,17.8,High,Legacy Analog,Serial/PLC,57.7,58.8,Test,5633
+A-01362,ANAD,Hydraulic Press,Siemens-like,M448,2.4,Medium,Legacy Analog,Serial/PLC,81.3,10.9,Utilities,22886
+A-01363,SIAD,CNC Machine,Siemens-like,M625,18.7,Medium,Vendor Digital,Proprietary Gateway,90.1,6.4,Quality,27196
+A-01364,WVA,Laser Cutter,Haas-like,M631,16.4,Low,Native Digital,OPC UA,58.6,46.1,Machining,27711
+A-01365,RRAD,Material Handler,Generic Industrial,M158,2.5,Medium,Legacy Analog,Retrofit Sensors,99,0,Coating,8325
+A-01366,ANAD,CNC Machine,Generic Industrial,M225,18.6,High,Legacy Analog,Retrofit Sensors,67.3,47.1,Test,24369
+A-01367,SIAD,CNC Machine,Fanuc-like,M346,15.3,High,Vendor Digital,Controller API,73.9,29.5,Quality,3495
+A-01368,WVA,Test Stand,Mazak-like,M975,10.0,High,Native Digital,Modbus TCP,75.9,34.1,Disassembly,24203
+A-01369,RRAD,Diesel Engine,Mazak-like,M897,24.5,Medium,Vendor Digital,Proprietary Gateway,74.6,19.7,Utilities,24102
+A-01370,ANAD,Paint/Blast Booth,Caterpillar-like,M442,15.2,Low,Native Digital,OPC UA,72.5,27.4,Test,4170
+A-01371,SIAD,Laser Cutter,Siemens-like,M942,18.1,High,Vendor Digital,Proprietary Gateway,55.6,53.3,Quality,4422
+A-01372,WVA,Material Handler,Caterpillar-like,M178,7.0,Low,Legacy Analog,Serial/PLC,65.6,31.5,Coating,20281
+A-01373,RRAD,Diesel Engine,Legacy OEM,M127,20.0,Medium,Native Digital,REST API,77.3,18.2,Quality,5064
+A-01374,ANAD,Air Compressor,Fanuc-like,M562,18.5,Medium,Native Digital,OPC UA,62.4,35.9,Coating,11483
+A-01375,SIAD,Hydraulic Press,Caterpillar-like,M949,18.4,High,Legacy Analog,Retrofit Sensors,72.1,26.3,Assembly,21159
+A-01376,WVA,Diesel Engine,Haas-like,M810,8.7,Medium,Native Digital,Modbus TCP,92.6,5.7,Inspection,4317
+A-01377,RRAD,Air Compressor,Haas-like,M190,0.5,Low,Legacy Analog,None,88.1,8.7,Disassembly,13157
+A-01378,ANAD,Diesel Engine,Siemens-like,M464,19.2,Medium,Native Digital,OPC UA,68.5,27.7,Disassembly,27284
+A-01379,SIAD,Overhead Crane,Fanuc-like,M637,4.9,High,Vendor Digital,Proprietary Gateway,71.3,37.0,Coating,10015
+A-01380,WVA,Air Compressor,Fanuc-like,M588,9.5,High,Native Digital,MTConnect,74.8,30.7,Utilities,24638
+A-01381,RRAD,Paint/Blast Booth,Generic Industrial,M118,14.6,High,Native Digital,MTConnect,72.8,34.5,Quality,27443
+A-01382,ANAD,Diesel Engine,Generic Industrial,M563,5.4,Medium,Vendor Digital,Proprietary Gateway,50.0,44.8,Coating,19600
+A-01383,SIAD,Air Compressor,Generic Industrial,M403,4.2,Medium,Legacy Analog,Retrofit Sensors,85.0,18.6,Utilities,21528
+A-01384,WVA,Transformer,Siemens-like,M693,0.5,Medium,Legacy Analog,Retrofit Sensors,73.5,32.4,Test,21365
+A-01385,RRAD,Material Handler,Fanuc-like,M294,13.1,High,Native Digital,REST API,81.6,31.0,Inspection,6560
+A-01386,ANAD,Paint/Blast Booth,Caterpillar-like,M517,0.5,Low,Native Digital,OPC UA,49.6,45.4,Quality,23427
+A-01387,SIAD,Diesel Engine,Siemens-like,M675,8.7,Medium,Vendor Digital,OEM Cloud API,70.8,21.5,Welding,17539
+A-01388,WVA,Transformer,Generic Industrial,M674,17.7,High,Vendor Digital,Controller API,79.9,26.5,Disassembly,27893
+A-01389,RRAD,Air Compressor,Caterpillar-like,M662,12.9,High,Vendor Digital,OEM Cloud API,71.8,33.3,Machining,13811
+A-01390,ANAD,Transformer,Haas-like,M487,9.5,Medium,Vendor Digital,Controller API,85.4,18.1,Assembly,13834
+A-01391,SIAD,Test Stand,Legacy OEM,M641,18.0,Medium,Legacy Analog,Retrofit Sensors,64.2,42.1,Assembly,19227
+A-01392,WVA,Hydraulic Press,Legacy OEM,M891,3.8,Low,Native Digital,OPC UA,67.3,31.7,Coating,28345
+A-01393,RRAD,Laser Cutter,Mazak-like,M714,11.4,High,Legacy Analog,None,69.3,50.5,Test,29507
+A-01394,ANAD,Hydraulic Press,Legacy OEM,M726,13.6,Low,Native Digital,Modbus TCP,86.4,17.0,Assembly,27486
+A-01395,SIAD,Material Handler,Generic Industrial,M429,14.5,High,Vendor Digital,OEM Cloud API,67.0,41.6,Disassembly,15348
+A-01396,WVA,Hydraulic Press,Caterpillar-like,M847,10.7,High,Vendor Digital,Controller API,61.5,43.0,Assembly,7725
+A-01397,RRAD,Test Stand,Fanuc-like,M843,10.9,Medium,Vendor Digital,OEM Cloud API,97.3,1.4,Test,25500
+A-01398,ANAD,Paint/Blast Booth,Mazak-like,M842,4.5,Medium,Vendor Digital,OEM Cloud API,81.5,10.6,Material Handling,13098
+A-01399,SIAD,Material Handler,Siemens-like,M168,23.3,Low,Native Digital,REST API,63.5,43.4,Welding,7002
+A-01400,WVA,CNC Machine,Mazak-like,M211,8.3,High,Legacy Analog,Retrofit Sensors,80.7,27.9,Material Handling,18348
+A-01401,RRAD,Material Handler,Fanuc-like,M868,7.7,Low,Legacy Analog,Retrofit Sensors,75.6,27.0,Test,8297
+A-01402,ANAD,Air Compressor,Caterpillar-like,M294,19.7,Low,Native Digital,Modbus TCP,57.3,40.7,Welding,15163
+A-01403,SIAD,Diesel Engine,Siemens-like,M622,9.7,High,Native Digital,OPC UA,63.9,55.6,Disassembly,27286
+A-01404,WVA,Diesel Engine,Mazak-like,M581,17.7,High,Legacy Analog,None,58.9,42.5,Utilities,4048
+A-01405,RRAD,Material Handler,Mazak-like,M940,23.9,Medium,Vendor Digital,OEM Cloud API,53.8,49.8,Quality,18071
+A-01406,ANAD,Air Compressor,Mazak-like,M903,3.1,High,Native Digital,Modbus TCP,57.5,50.1,Quality,14850
+A-01407,SIAD,CNC Machine,Mazak-like,M129,0.5,Low,Vendor Digital,Controller API,87.8,0,Assembly,8000
+A-01408,WVA,Transformer,Mazak-like,M797,5.8,Medium,Legacy Analog,Retrofit Sensors,58.4,39.7,Inspection,15362
+A-01409,RRAD,Overhead Crane,Fanuc-like,M186,27.7,Medium,Legacy Analog,Serial/PLC,71.7,28.8,Machining,6412
+A-01410,ANAD,CNC Machine,Legacy OEM,M443,5.3,High,Vendor Digital,Proprietary Gateway,83.1,23.5,Utilities,15156
+A-01411,SIAD,Material Handler,Mazak-like,M873,9.8,High,Native Digital,OPC UA,61.3,52.9,Quality,1792
+A-01412,WVA,Laser Cutter,Haas-like,M988,20.9,Medium,Vendor Digital,Proprietary Gateway,58.8,38.6,Disassembly,5688
+A-01413,RRAD,Diesel Engine,Generic Industrial,M808,26.6,Medium,Legacy Analog,Retrofit Sensors,51.9,40.8,Coating,17125
+A-01414,ANAD,Material Handler,Generic Industrial,M186,18.2,Medium,Native Digital,REST API,51.1,48.3,Coating,11863
+A-01415,SIAD,Overhead Crane,Haas-like,M511,4.5,Low,Legacy Analog,Serial/PLC,71.8,31.5,Material Handling,13295
+A-01416,WVA,Overhead Crane,Caterpillar-like,M728,10.3,Medium,Legacy Analog,Retrofit Sensors,61.1,40.3,Inspection,24073
+A-01417,RRAD,Transformer,Generic Industrial,M965,22.2,Medium,Vendor Digital,Controller API,63.4,41.7,Machining,27928
+A-01418,ANAD,Paint/Blast Booth,Generic Industrial,M636,8.2,High,Vendor Digital,Controller API,77.2,26.8,Disassembly,13561
+A-01419,SIAD,Test Stand,Generic Industrial,M734,7.1,Medium,Vendor Digital,Controller API,54.7,45.5,Assembly,22966
+A-01420,WVA,Overhead Crane,Legacy OEM,M483,5.0,High,Vendor Digital,Proprietary Gateway,84.1,33.3,Coating,8731
+A-01421,RRAD,CNC Machine,Generic Industrial,M645,4.2,Medium,Native Digital,REST API,73.7,26.5,Quality,28246
+A-01422,ANAD,CNC Machine,Fanuc-like,M366,32.7,Medium,Legacy Analog,Retrofit Sensors,70.1,28.1,Inspection,22928
+A-01423,SIAD,Test Stand,Fanuc-like,M513,8.4,High,Legacy Analog,Serial/PLC,86.5,13.4,Quality,7763
+A-01424,WVA,Paint/Blast Booth,Caterpillar-like,M673,26.5,High,Vendor Digital,OEM Cloud API,81.6,19.3,Test,12598
+A-01425,RRAD,Hydraulic Press,Generic Industrial,M394,21.9,High,Vendor Digital,OEM Cloud API,61.8,45.7,Coating,7846
+A-01426,ANAD,Diesel Engine,Fanuc-like,M634,21.4,High,Vendor Digital,OEM Cloud API,60.4,47.9,Assembly,19570
+A-01427,SIAD,CNC Machine,Siemens-like,M307,13.9,Medium,Vendor Digital,Proprietary Gateway,65.4,30.3,Inspection,7597
+A-01428,WVA,Test Stand,Fanuc-like,M917,15.0,Medium,Legacy Analog,Retrofit Sensors,78.0,17.0,Test,15158
+A-01429,RRAD,Paint/Blast Booth,Mazak-like,M492,32.4,High,Legacy Analog,None,68.8,45.8,Quality,17841
+A-01430,ANAD,Material Handler,Legacy OEM,M589,14.6,High,Vendor Digital,Controller API,52.0,52.2,Disassembly,9402
+A-01431,SIAD,Hydraulic Press,Legacy OEM,M894,13.9,Medium,Legacy Analog,None,84.7,21.2,Test,14134
+A-01432,WVA,Diesel Engine,Fanuc-like,M241,9.0,High,Legacy Analog,Retrofit Sensors,63.6,47.9,Material Handling,23637
+A-01433,RRAD,Hydraulic Press,Legacy OEM,M424,6.1,Medium,Vendor Digital,Controller API,91.4,4.4,Quality,9938
+A-01434,ANAD,Diesel Engine,Fanuc-like,M971,16.6,High,Legacy Analog,Retrofit Sensors,59.2,52.8,Disassembly,29417
+A-01435,SIAD,Diesel Engine,Legacy OEM,M218,16.8,Medium,Vendor Digital,OEM Cloud API,77.3,29.7,Assembly,28958
+A-01436,WVA,CNC Machine,Haas-like,M855,25.0,High,Native Digital,Modbus TCP,69.1,47.7,Machining,22847
+A-01437,RRAD,Diesel Engine,Fanuc-like,M533,7.9,Medium,Vendor Digital,OEM Cloud API,95.8,11.7,Material Handling,29954
+A-01438,ANAD,Test Stand,Haas-like,M856,10.2,Medium,Legacy Analog,Retrofit Sensors,83.9,16.3,Machining,12585
+A-01439,SIAD,CNC Machine,Fanuc-like,M721,15.9,High,Legacy Analog,None,67.8,42.8,Machining,29292
+A-01440,WVA,Paint/Blast Booth,Haas-like,M350,15.7,High,Native Digital,MTConnect,67.5,32.1,Test,9098
+A-01441,RRAD,Overhead Crane,Fanuc-like,M905,15.9,High,Vendor Digital,Proprietary Gateway,83.8,24.1,Machining,29986
+A-01442,ANAD,Hydraulic Press,Fanuc-like,M983,1.6,Medium,Native Digital,REST API,76.5,26.2,Quality,1571
+A-01443,SIAD,Hydraulic Press,Mazak-like,M154,6.0,Medium,Vendor Digital,Proprietary Gateway,65.0,27.4,Utilities,28976
+A-01444,WVA,CNC Machine,Mazak-like,M906,8.7,Medium,Native Digital,Modbus TCP,65.2,35.8,Welding,18997
+A-01445,RRAD,Test Stand,Fanuc-like,M858,32.6,Low,Native Digital,OPC UA,53.8,56.7,Test,29386
+A-01446,ANAD,Diesel Engine,Haas-like,M663,8.1,High,Vendor Digital,Controller API,82.6,29.3,Machining,8248
+A-01447,SIAD,Paint/Blast Booth,Caterpillar-like,M600,9.5,Low,Legacy Analog,Retrofit Sensors,82.9,20.7,Material Handling,24653
+A-01448,WVA,Air Compressor,Siemens-like,M986,10.7,Medium,Native Digital,Modbus TCP,86.7,11.0,Coating,19427
+A-01449,RRAD,Air Compressor,Fanuc-like,M550,14.7,Medium,Native Digital,Modbus TCP,53.6,43.4,Inspection,5811
+A-01450,ANAD,Diesel Engine,Generic Industrial,M937,14.9,High,Legacy Analog,Serial/PLC,68.2,38.4,Assembly,5031
+A-01451,SIAD,Transformer,Legacy OEM,M155,0.5,High,Native Digital,MTConnect,68.2,34.8,Utilities,6674
+A-01452,WVA,Diesel Engine,Haas-like,M984,21.5,Low,Native Digital,Modbus TCP,77.0,19.0,Quality,14864
+A-01453,RRAD,Hydraulic Press,Caterpillar-like,M917,16.2,Medium,Native Digital,REST API,88.2,8.6,Disassembly,7118
+A-01454,ANAD,Diesel Engine,Haas-like,M428,6.9,Low,Native Digital,Modbus TCP,83.5,7.4,Inspection,15580
+A-01455,SIAD,Diesel Engine,Generic Industrial,M700,15.4,High,Legacy Analog,None,63.4,44.8,Assembly,22258
+A-01456,WVA,Diesel Engine,Haas-like,M525,9.2,High,Vendor Digital,OEM Cloud API,84.7,15.5,Material Handling,3208
+A-01457,RRAD,CNC Machine,Fanuc-like,M220,10.1,Low,Native Digital,MTConnect,69.5,30.2,Material Handling,13938
+A-01458,ANAD,Overhead Crane,Fanuc-like,M142,9.1,Medium,Native Digital,MTConnect,68.8,32.7,Inspection,20734
+A-01459,SIAD,Test Stand,Fanuc-like,M137,0.9,Medium,Legacy Analog,None,83.8,23.5,Coating,19239
+A-01460,WVA,CNC Machine,Legacy OEM,M408,7.0,Medium,Native Digital,MTConnect,50.5,52.3,Utilities,3895
+A-01461,RRAD,Diesel Engine,Caterpillar-like,M690,14.1,High,Native Digital,Modbus TCP,63.0,49.9,Assembly,4911
+A-01462,ANAD,Diesel Engine,Mazak-like,M959,18.6,High,Native Digital,OPC UA,78.9,30.9,Inspection,27057
+A-01463,SIAD,Air Compressor,Legacy OEM,M199,4.9,High,Vendor Digital,OEM Cloud API,57.3,44.6,Welding,15367
+A-01464,WVA,Diesel Engine,Legacy OEM,M233,5.5,High,Vendor Digital,Controller API,63.4,45.3,Welding,28232
+A-01465,RRAD,Diesel Engine,Mazak-like,M336,28.6,Medium,Native Digital,Modbus TCP,53.2,51.7,Utilities,16715
+A-01466,ANAD,CNC Machine,Legacy OEM,M704,20.7,High,Vendor Digital,Controller API,79.0,29.8,Disassembly,14011
+A-01467,SIAD,CNC Machine,Generic Industrial,M746,17.6,Medium,Legacy Analog,Serial/PLC,75.3,27.5,Disassembly,7769
+A-01468,WVA,Test Stand,Mazak-like,M608,11.6,Low,Native Digital,MTConnect,52.1,40.7,Quality,25679
+A-01469,RRAD,Test Stand,Siemens-like,M535,1.5,High,Native Digital,Modbus TCP,95.8,15.0,Machining,8564
+A-01470,ANAD,CNC Machine,Caterpillar-like,M887,5.7,Low,Native Digital,REST API,78.5,21.6,Inspection,26624
+A-01471,SIAD,Air Compressor,Legacy OEM,M192,16.9,Low,Legacy Analog,None,74.4,29.7,Material Handling,5804
+A-01472,WVA,Overhead Crane,Haas-like,M131,17.8,High,Native Digital,MTConnect,64.4,47.4,Inspection,11730
+A-01473,RRAD,Test Stand,Caterpillar-like,M932,7.9,High,Vendor Digital,OEM Cloud API,75.5,33.5,Coating,12333
+A-01474,ANAD,Material Handler,Caterpillar-like,M678,6.0,Low,Vendor Digital,Proprietary Gateway,80.7,21.5,Test,6454
+A-01475,SIAD,Hydraulic Press,Siemens-like,M303,20.6,Medium,Vendor Digital,Proprietary Gateway,52.7,49.1,Welding,20388
+A-01476,WVA,Hydraulic Press,Fanuc-like,M180,22.9,Low,Legacy Analog,Serial/PLC,75.3,21.3,Assembly,19674
+A-01477,RRAD,Diesel Engine,Siemens-like,M741,13.3,Low,Native Digital,MTConnect,77.2,20.8,Quality,1317
+A-01478,ANAD,Air Compressor,Caterpillar-like,M866,14.9,Medium,Native Digital,Modbus TCP,76.3,26.4,Coating,19687
+A-01479,SIAD,CNC Machine,Generic Industrial,M167,14.2,Low,Vendor Digital,Controller API,55.1,41.9,Assembly,26205
+A-01480,WVA,Diesel Engine,Mazak-like,M504,23.9,High,Vendor Digital,Controller API,55.1,49.6,Quality,17840
+A-01481,RRAD,Material Handler,Caterpillar-like,M520,5.6,High,Vendor Digital,Proprietary Gateway,61.7,41.7,Test,3762
+A-01482,ANAD,Diesel Engine,Fanuc-like,M880,5.0,Medium,Legacy Analog,Retrofit Sensors,74.4,29.2,Assembly,14816
+A-01483,SIAD,CNC Machine,Legacy OEM,M370,11.3,Medium,Vendor Digital,Controller API,40.5,60.1,Machining,29448
+A-01484,WVA,Overhead Crane,Haas-like,M964,10.2,Low,Vendor Digital,OEM Cloud API,85.0,16.7,Machining,3963
+A-01485,RRAD,Diesel Engine,Fanuc-like,M478,17.4,Medium,Native Digital,REST API,70.8,37.6,Quality,19228
+A-01486,ANAD,Laser Cutter,Caterpillar-like,M848,8.0,Medium,Legacy Analog,None,84.8,17.9,Utilities,17003
+A-01487,SIAD,Transformer,Fanuc-like,M264,30.9,Medium,Legacy Analog,Serial/PLC,54.9,48.4,Inspection,15287
+A-01488,WVA,Material Handler,Caterpillar-like,M652,8.8,Low,Vendor Digital,Controller API,84.6,14.6,Machining,2522
+A-01489,RRAD,Air Compressor,Haas-like,M512,12.9,Medium,Vendor Digital,OEM Cloud API,74.6,23.8,Inspection,25554
+A-01490,ANAD,Test Stand,Generic Industrial,M533,15.3,High,Native Digital,Modbus TCP,68.7,44.3,Utilities,17037
+A-01491,SIAD,Diesel Engine,Siemens-like,M334,11.8,Low,Vendor Digital,Controller API,59.7,41.7,Inspection,8975
+A-01492,WVA,Material Handler,Generic Industrial,M354,13.7,High,Vendor Digital,Proprietary Gateway,95.2,17.7,Machining,16474
+A-01493,RRAD,CNC Machine,Legacy OEM,M979,22.6,Medium,Native Digital,Modbus TCP,54.2,46.8,Test,6454
+A-01494,ANAD,CNC Machine,Mazak-like,M659,4.3,High,Vendor Digital,Controller API,72.3,44.5,Welding,24104
+A-01495,SIAD,CNC Machine,Mazak-like,M245,11.6,Medium,Native Digital,MTConnect,69.8,32.8,Machining,12151
+A-01496,WVA,Transformer,Haas-like,M908,19.0,High,Vendor Digital,Controller API,77.6,36.6,Welding,9213
+A-01497,RRAD,Laser Cutter,Legacy OEM,M639,3.8,Medium,Legacy Analog,Serial/PLC,73.0,11.8,Material Handling,20224
+A-01498,ANAD,Transformer,Caterpillar-like,M700,16.1,Medium,Vendor Digital,OEM Cloud API,99,9.2,Welding,12222
+A-01499,SIAD,Test Stand,Generic Industrial,M517,24.4,High,Legacy Analog,Serial/PLC,63.2,49.5,Disassembly,11697
+A-01500,WVA,CNC Machine,Legacy OEM,M817,16.5,High,Legacy Analog,Retrofit Sensors,77.9,34.6,Disassembly,5925
+A-01501,RRAD,Hydraulic Press,Generic Industrial,M396,25.8,Medium,Native Digital,MTConnect,58.4,35.7,Coating,1425
+A-01502,ANAD,Air Compressor,Caterpillar-like,M890,0.5,Medium,Legacy Analog,Serial/PLC,99,0,Utilities,4654
+A-01503,SIAD,Test Stand,Siemens-like,M181,4.3,Medium,Native Digital,MTConnect,66.8,34.6,Material Handling,9375
+A-01504,WVA,Overhead Crane,Mazak-like,M371,9.1,Low,Native Digital,OPC UA,77.8,26.8,Utilities,14334
+A-01505,RRAD,Transformer,Haas-like,M490,0.5,High,Legacy Analog,Retrofit Sensors,72.5,33.3,Quality,10735
+A-01506,ANAD,Test Stand,Fanuc-like,M839,10.9,Low,Native Digital,REST API,77.9,22.9,Quality,22766
+A-01507,SIAD,CNC Machine,Caterpillar-like,M532,20.8,Low,Native Digital,Modbus TCP,49.2,49.6,Disassembly,7940
+A-01508,WVA,Paint/Blast Booth,Generic Industrial,M763,15.5,Medium,Legacy Analog,Serial/PLC,64.6,40.1,Machining,3777
+A-01509,RRAD,Laser Cutter,Legacy OEM,M239,12.5,High,Vendor Digital,OEM Cloud API,82.7,23.7,Coating,17878
+A-01510,ANAD,Material Handler,Generic Industrial,M982,4.3,High,Native Digital,Modbus TCP,89.6,13.9,Utilities,20599
+A-01511,SIAD,Overhead Crane,Legacy OEM,M553,10.4,Medium,Native Digital,MTConnect,72.3,23.5,Assembly,18113
+A-01512,WVA,Paint/Blast Booth,Haas-like,M129,16.5,Medium,Legacy Analog,None,74.0,31.6,Test,4787
+A-01513,RRAD,CNC Machine,Siemens-like,M155,14.2,Medium,Vendor Digital,Controller API,61.1,39.5,Inspection,13492
+A-01514,ANAD,Test Stand,Legacy OEM,M291,5.8,Medium,Native Digital,MTConnect,86.3,11.5,Inspection,6231
+A-01515,SIAD,Diesel Engine,Legacy OEM,M423,18.7,Medium,Legacy Analog,Retrofit Sensors,86.2,8.8,Quality,2706
+A-01516,WVA,Hydraulic Press,Legacy OEM,M357,14.3,High,Native Digital,MTConnect,90.0,14.8,Utilities,26612
+A-01517,RRAD,Laser Cutter,Mazak-like,M828,10.9,Medium,Legacy Analog,Serial/PLC,74.8,13.2,Material Handling,18811
+A-01518,ANAD,Diesel Engine,Fanuc-like,M835,1.0,Low,Native Digital,REST API,86.2,12.2,Test,26469
+A-01519,SIAD,CNC Machine,Legacy OEM,M590,20.5,High,Legacy Analog,None,85.5,20.9,Assembly,7970
+A-01520,WVA,Overhead Crane,Fanuc-like,M477,12.0,Medium,Legacy Analog,Retrofit Sensors,58.3,49.1,Coating,17344
+A-01521,RRAD,Diesel Engine,Siemens-like,M148,21.3,Medium,Native Digital,REST API,79.2,24.9,Disassembly,22645
+A-01522,ANAD,Material Handler,Fanuc-like,M965,0.5,High,Vendor Digital,Controller API,74.2,38.2,Inspection,4150
+A-01523,SIAD,Diesel Engine,Mazak-like,M548,19.5,Low,Native Digital,Modbus TCP,93.6,4.9,Test,25539
+A-01524,WVA,CNC Machine,Haas-like,M651,0.5,Medium,Vendor Digital,Proprietary Gateway,99,2.9,Test,22948
+A-01525,RRAD,Diesel Engine,Legacy OEM,M142,21.1,Medium,Vendor Digital,OEM Cloud API,72.4,30.3,Coating,11279
+A-01526,ANAD,Test Stand,Siemens-like,M739,0.5,High,Vendor Digital,Proprietary Gateway,56.1,51.3,Welding,11346
+A-01527,SIAD,Paint/Blast Booth,Mazak-like,M617,13.9,Low,Legacy Analog,None,69.1,29.8,Coating,17348
+A-01528,WVA,Material Handler,Siemens-like,M367,5.2,Low,Native Digital,OPC UA,74.7,32.8,Coating,14508
+A-01529,RRAD,Diesel Engine,Haas-like,M209,0.5,Low,Vendor Digital,Controller API,73.3,28.3,Disassembly,21530
+A-01530,ANAD,Test Stand,Mazak-like,M614,25.2,Medium,Legacy Analog,Retrofit Sensors,58.5,39.9,Utilities,22161
+A-01531,SIAD,CNC Machine,Siemens-like,M592,5.3,Medium,Vendor Digital,Controller API,72.2,42.5,Quality,23538
+A-01532,WVA,Diesel Engine,Legacy OEM,M191,22.4,Medium,Native Digital,Modbus TCP,65.4,38.2,Quality,18209
+A-01533,RRAD,Air Compressor,Haas-like,M911,8.5,High,Legacy Analog,Serial/PLC,79.5,32.4,Inspection,5446
+A-01534,ANAD,Material Handler,Haas-like,M315,18.0,Low,Vendor Digital,OEM Cloud API,74.2,24.3,Machining,17443
+A-01535,SIAD,Paint/Blast Booth,Fanuc-like,M279,24.2,Medium,Native Digital,OPC UA,56.0,44.3,Disassembly,1033
+A-01536,WVA,Diesel Engine,Generic Industrial,M711,11.7,Medium,Vendor Digital,OEM Cloud API,83.6,13.2,Utilities,26781
+A-01537,RRAD,Test Stand,Generic Industrial,M340,12.1,Medium,Legacy Analog,Serial/PLC,65.4,35.8,Utilities,9981
+A-01538,ANAD,Material Handler,Siemens-like,M531,6.7,Medium,Vendor Digital,Controller API,75.0,16.2,Utilities,21521
+A-01539,SIAD,Diesel Engine,Caterpillar-like,M568,9.7,Low,Native Digital,MTConnect,83.9,18.8,Test,6476
+A-01540,WVA,Diesel Engine,Siemens-like,M120,26.1,Low,Native Digital,REST API,47.2,59.4,Disassembly,14783
+A-01541,RRAD,Overhead Crane,Generic Industrial,M960,19.3,High,Native Digital,Modbus TCP,60.2,55.1,Welding,9746
+A-01542,ANAD,Diesel Engine,Caterpillar-like,M635,3.7,Medium,Native Digital,Modbus TCP,74.0,32.9,Quality,992
+A-01543,SIAD,Hydraulic Press,Mazak-like,M263,8.1,Medium,Native Digital,OPC UA,70.5,28.5,Test,20387
+A-01544,WVA,Overhead Crane,Caterpillar-like,M583,2.8,High,Native Digital,Modbus TCP,59.5,49.6,Utilities,22851
+A-01545,RRAD,Test Stand,Mazak-like,M486,2.0,Medium,Native Digital,Modbus TCP,78.4,19.6,Disassembly,23215
+A-01546,ANAD,Transformer,Legacy OEM,M746,13.9,High,Legacy Analog,Retrofit Sensors,71.3,34.0,Utilities,19417
+A-01547,SIAD,Laser Cutter,Legacy OEM,M572,18.5,High,Native Digital,MTConnect,59.4,61.5,Assembly,11497
+A-01548,WVA,Laser Cutter,Fanuc-like,M599,5.4,Low,Native Digital,Modbus TCP,70.2,22.7,Coating,13118
+A-01549,RRAD,Transformer,Fanuc-like,M546,13.8,Medium,Legacy Analog,None,65.1,29.7,Coating,6300
+A-01550,ANAD,Diesel Engine,Siemens-like,M838,6.2,Medium,Vendor Digital,Proprietary Gateway,83.9,6.6,Assembly,9229
+A-01551,SIAD,Material Handler,Legacy OEM,M691,21.0,Medium,Native Digital,MTConnect,75.8,24.7,Machining,4639
+A-01552,WVA,Paint/Blast Booth,Generic Industrial,M450,8.9,Medium,Legacy Analog,None,84.3,17.7,Test,9514
+A-01553,RRAD,Material Handler,Siemens-like,M838,7.7,High,Legacy Analog,Retrofit Sensors,75.9,37.5,Coating,665
+A-01554,ANAD,Diesel Engine,Caterpillar-like,M239,21.8,Medium,Vendor Digital,OEM Cloud API,65.1,40.4,Test,2875
+A-01555,SIAD,Hydraulic Press,Generic Industrial,M814,29.6,Medium,Native Digital,Modbus TCP,50.7,52.0,Disassembly,3497
+A-01556,WVA,Diesel Engine,Siemens-like,M290,0.5,Medium,Native Digital,OPC UA,95.2,4.0,Test,3149
+A-01557,RRAD,Air Compressor,Mazak-like,M172,20.3,Low,Legacy Analog,Retrofit Sensors,69.9,31.1,Test,19952
+A-01558,ANAD,CNC Machine,Legacy OEM,M419,14.8,High,Legacy Analog,Retrofit Sensors,82.0,31.1,Utilities,23810
+A-01559,SIAD,Hydraulic Press,Legacy OEM,M522,9.1,High,Vendor Digital,Proprietary Gateway,94.1,12.6,Assembly,4809
+A-01560,WVA,Transformer,Generic Industrial,M627,11.1,High,Vendor Digital,Proprietary Gateway,86.2,27.5,Machining,16036
+A-01561,RRAD,CNC Machine,Legacy OEM,M674,9.3,High,Legacy Analog,Serial/PLC,86.7,21.8,Quality,13714
+A-01562,ANAD,CNC Machine,Legacy OEM,M943,17.0,High,Vendor Digital,OEM Cloud API,62.8,50.2,Welding,11555
+A-01563,SIAD,Paint/Blast Booth,Haas-like,M324,18.7,Medium,Native Digital,Modbus TCP,79.7,17.3,Coating,29696
+A-01564,WVA,CNC Machine,Legacy OEM,M745,15.3,Medium,Native Digital,REST API,73.3,22.1,Coating,13800
+A-01565,RRAD,Material Handler,Siemens-like,M460,6.1,High,Legacy Analog,None,72.0,33.7,Inspection,12434
+A-01566,ANAD,Material Handler,Legacy OEM,M432,18.4,High,Vendor Digital,Controller API,57.4,51.4,Inspection,1892
+A-01567,SIAD,Laser Cutter,Haas-like,M497,9.0,Medium,Vendor Digital,OEM Cloud API,54.6,51.0,Inspection,20194
+A-01568,WVA,Material Handler,Generic Industrial,M281,12.8,High,Native Digital,REST API,69.3,39.2,Machining,21269
+A-01569,RRAD,Diesel Engine,Caterpillar-like,M782,11.4,High,Legacy Analog,None,60.4,42.3,Machining,6471
+A-01570,ANAD,Overhead Crane,Legacy OEM,M816,0.5,High,Legacy Analog,None,84.5,29.8,Disassembly,3086
+A-01571,SIAD,CNC Machine,Generic Industrial,M732,4.7,Low,Legacy Analog,Retrofit Sensors,95.8,2.7,Assembly,1548
+A-01572,WVA,Overhead Crane,Haas-like,M663,7.3,High,Legacy Analog,Retrofit Sensors,76.3,36.2,Disassembly,12095
+A-01573,RRAD,Test Stand,Generic Industrial,M736,6.5,High,Native Digital,MTConnect,68.3,45.8,Welding,10463
+A-01574,ANAD,Air Compressor,Fanuc-like,M538,12.3,High,Vendor Digital,OEM Cloud API,54.9,64.7,Disassembly,17096
+A-01575,SIAD,Transformer,Fanuc-like,M658,19.4,High,Native Digital,MTConnect,65.6,40.8,Assembly,11841
+A-01576,WVA,Air Compressor,Caterpillar-like,M517,22.5,High,Native Digital,REST API,62.7,48.8,Material Handling,19157
+A-01577,RRAD,Material Handler,Siemens-like,M145,14.6,Medium,Legacy Analog,Retrofit Sensors,70.2,25.7,Welding,16195
+A-01578,ANAD,Laser Cutter,Haas-like,M815,18.6,Medium,Native Digital,OPC UA,58.8,39.4,Assembly,28742
+A-01579,SIAD,CNC Machine,Siemens-like,M948,22.3,Medium,Legacy Analog,Serial/PLC,66.0,37.0,Disassembly,2888
+A-01580,WVA,Laser Cutter,Siemens-like,M288,13.2,Low,Native Digital,OPC UA,67.7,37.7,Quality,2503
+A-01581,RRAD,Transformer,Generic Industrial,M906,7.5,Medium,Native Digital,OPC UA,60.6,40.6,Disassembly,19220
+A-01582,ANAD,Diesel Engine,Haas-like,M669,10.6,Low,Vendor Digital,Proprietary Gateway,92.6,7.7,Test,17225
+A-01583,SIAD,CNC Machine,Generic Industrial,M442,29.6,High,Vendor Digital,OEM Cloud API,63.9,45.7,Material Handling,11447
+A-01584,WVA,Air Compressor,Haas-like,M854,12.4,Low,Vendor Digital,Proprietary Gateway,74.5,23.9,Quality,25766
+A-01585,RRAD,Overhead Crane,Haas-like,M291,14.2,Low,Native Digital,OPC UA,73.4,29.6,Inspection,8883
+A-01586,ANAD,Overhead Crane,Legacy OEM,M265,19.0,Medium,Native Digital,OPC UA,83.8,22.1,Welding,23886
+A-01587,SIAD,Air Compressor,Caterpillar-like,M634,18.2,Medium,Native Digital,OPC UA,68.3,36.8,Quality,16518
+A-01588,WVA,Test Stand,Siemens-like,M440,7.6,Medium,Vendor Digital,OEM Cloud API,65.5,34.4,Utilities,18542
+A-01589,RRAD,Diesel Engine,Haas-like,M145,7.1,Medium,Vendor Digital,OEM Cloud API,68.6,29.6,Disassembly,25089
+A-01590,ANAD,Material Handler,Fanuc-like,M620,5.7,High,Native Digital,OPC UA,91.2,17.9,Quality,16215
+A-01591,SIAD,Paint/Blast Booth,Generic Industrial,M872,15.1,Low,Native Digital,MTConnect,60.6,42.1,Material Handling,5825
+A-01592,WVA,Diesel Engine,Fanuc-like,M238,12.9,High,Native Digital,REST API,54.7,48.5,Machining,2438
+A-01593,RRAD,CNC Machine,Siemens-like,M691,11.4,High,Native Digital,OPC UA,85.4,24.6,Quality,23782
+A-01594,ANAD,CNC Machine,Siemens-like,M831,10.0,High,Native Digital,MTConnect,50.3,49.3,Machining,7676
+A-01595,SIAD,Paint/Blast Booth,Legacy OEM,M877,18.9,Medium,Legacy Analog,Serial/PLC,77.1,22.6,Machining,16993
+A-01596,WVA,Diesel Engine,Caterpillar-like,M452,10.7,High,Native Digital,REST API,99,11.3,Quality,8063
+A-01597,RRAD,Material Handler,Haas-like,M191,4.7,Medium,Vendor Digital,OEM Cloud API,80.3,16.8,Test,22868
+A-01598,ANAD,Paint/Blast Booth,Fanuc-like,M696,2.4,Medium,Legacy Analog,Serial/PLC,79.0,19.9,Utilities,7648
+A-01599,SIAD,Diesel Engine,Haas-like,M183,14.4,Low,Legacy Analog,Retrofit Sensors,60.9,36.8,Welding,4383
+A-01600,WVA,Overhead Crane,Mazak-like,M571,16.1,High,Native Digital,Modbus TCP,81.4,27.6,Disassembly,13055

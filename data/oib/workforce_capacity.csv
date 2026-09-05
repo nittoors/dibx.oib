@@ -1,0 +1,41 @@
+depot,occupation,assigned_workers,available_workers,required_workers,capacity_gap,training_due,coverage_pct
+RRAD,Welder/Cutter,64,56,77,21,0,72.7
+ANAD,Electrical/Electronics Repairer,76,67,80,13,0,83.8
+SIAD,Welder/Cutter,64,55,82,27,0,67.1
+WVA,Machinist,77,67,77,10,0,87.0
+RRAD,Industrial Maintenance Technician,75,65,98,33,0,66.3
+ANAD,Industrial Maintenance Technician,74,63,80,17,0,78.8
+SIAD,Production Supervisor,72,62,90,28,0,68.9
+WVA,Industrial Engineer,69,60,70,10,0,85.7
+ANAD,Logistician,72,62,78,16,0,79.5
+WVA,Welder/Cutter,55,48,61,13,0,78.7
+RRAD,Bus/Truck & Diesel Engine Specialist,69,61,78,17,0,78.2
+ANAD,Production Supervisor,63,56,77,21,0,72.7
+SIAD,Inspector/Tester,62,55,62,7,0,88.7
+RRAD,Electrical/Electronics Repairer,53,46,65,19,0,70.8
+ANAD,Welder/Cutter,62,55,67,12,0,82.1
+SIAD,Bus/Truck & Diesel Engine Specialist,58,50,71,21,0,70.4
+RRAD,Inspector/Tester,69,59,76,17,0,77.6
+SIAD,Industrial Maintenance Technician,68,58,68,10,0,85.3
+WVA,Logistician,68,58,85,27,0,68.2
+ANAD,Industrial Machinery Mechanic,65,57,77,20,0,74.0
+SIAD,Electrical/Electronics Repairer,68,60,68,8,0,88.2
+WVA,Production Supervisor,62,54,75,21,0,72.0
+RRAD,Machinist,60,52,71,19,0,73.2
+WVA,Electrical/Electronics Repairer,65,57,70,13,0,81.4
+ANAD,Inspector/Tester,53,46,71,25,0,64.8
+SIAD,Industrial Engineer,81,71,107,36,0,66.4
+WVA,Inspector/Tester,63,54,78,24,0,69.2
+SIAD,Machinist,64,55,79,24,0,69.6
+RRAD,Industrial Engineer,61,52,65,13,0,80.0
+ANAD,Machinist,62,54,62,8,0,87.1
+SIAD,Industrial Machinery Mechanic,63,55,71,16,0,77.5
+RRAD,Production Supervisor,60,51,60,9,0,85.0
+ANAD,Industrial Engineer,53,47,68,21,0,69.1
+WVA,Bus/Truck & Diesel Engine Specialist,64,56,64,8,0,87.5
+ANAD,Bus/Truck & Diesel Engine Specialist,70,62,93,31,0,66.7
+RRAD,Industrial Machinery Mechanic,60,52,66,14,0,78.8
+WVA,Industrial Machinery Mechanic,65,56,75,19,0,74.7
+RRAD,Logistician,79,68,79,11,0,86.1
+SIAD,Logistician,50,44,56,12,0,78.6
+WVA,Industrial Maintenance Technician,62,54,79,25,0,68.4

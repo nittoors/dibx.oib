@@ -1,0 +1,401 @@
+asset_id,depot,asset_type,manufacturer,connectivity,protocol,data_rights,cyber_status,history,data_quality,readiness_score,readiness_grade,recommended_action
+A-00575,SIAD,Test Stand,Mazak-like,Legacy Analog,Serial/PLC,Contract unclear,Unknown,<6 months,Poor,34,Red,Retrofit/OEM engagement + data plan
+A-00732,WVA,Material Handler,Generic Industrial,Legacy Analog,Serial/PLC,Government usable,Isolated,None,Mixed,45,Yellow,Resolve access/cyber + adapter
+A-00458,ANAD,Test Stand,Legacy OEM,Vendor Digital,OEM Cloud API,Unknown,Needs review,None,Good,49,Yellow,Resolve access/cyber + adapter
+A-01288,WVA,Material Handler,Mazak-like,Native Digital,MTConnect,Government usable,Approved segment,>24 months,Poor,85,Green,Direct connector + pilot
+A-00965,RRAD,Diesel Engine,Fanuc-like,Native Digital,OPC UA,Contract unclear,Approved segment,<6 months,Poor,63,Yellow,Resolve access/cyber + adapter
+A-00975,SIAD,Diesel Engine,Siemens-like,Legacy Analog,Serial/PLC,Unknown,Isolated,6-24 months,Poor,35,Red,Retrofit/OEM engagement + data plan
+A-00178,ANAD,Transformer,Generic Industrial,Vendor Digital,Controller API,Unknown,Needs review,<6 months,Unknown,39,Red,Retrofit/OEM engagement + data plan
+A-00751,SIAD,Material Handler,Generic Industrial,Vendor Digital,OEM Cloud API,OEM restricted,Needs review,>24 months,Good,71,Yellow,Resolve access/cyber + adapter
+A-00196,WVA,Overhead Crane,Siemens-like,Vendor Digital,OEM Cloud API,Contract unclear,Needs review,<6 months,Unknown,46,Yellow,Resolve access/cyber + adapter
+A-00479,SIAD,Test Stand,Legacy OEM,Vendor Digital,OEM Cloud API,OEM restricted,Needs review,>24 months,Mixed,63,Yellow,Resolve access/cyber + adapter
+A-00091,SIAD,Diesel Engine,Generic Industrial,Native Digital,OPC UA,Unknown,Isolated,>24 months,Poor,58,Yellow,Resolve access/cyber + adapter
+A-01523,SIAD,Diesel Engine,Mazak-like,Native Digital,Modbus TCP,Unknown,Needs review,6-24 months,Mixed,62,Yellow,Resolve access/cyber + adapter
+A-01192,WVA,Hydraulic Press,Caterpillar-like,Legacy Analog,None,Unknown,Needs review,6-24 months,Poor,38,Red,Retrofit/OEM engagement + data plan
+A-00162,ANAD,Overhead Crane,Legacy OEM,Legacy Analog,Serial/PLC,Contract unclear,Unknown,>24 months,Mixed,53,Yellow,Resolve access/cyber + adapter
+A-00577,RRAD,Diesel Engine,Mazak-like,Vendor Digital,Controller API,OEM restricted,Needs review,6-24 months,Poor,50,Yellow,Resolve access/cyber + adapter
+A-00159,SIAD,Hydraulic Press,Legacy OEM,Legacy Analog,Serial/PLC,Government usable,Needs review,>24 months,Poor,61,Yellow,Resolve access/cyber + adapter
+A-00956,WVA,Material Handler,Generic Industrial,Legacy Analog,Serial/PLC,OEM restricted,Needs review,>24 months,Good,61,Yellow,Resolve access/cyber + adapter
+A-01369,RRAD,Diesel Engine,Mazak-like,Vendor Digital,Proprietary Gateway,Unknown,Approved segment,6-24 months,Good,70,Yellow,Resolve access/cyber + adapter
+A-00639,SIAD,CNC Machine,Siemens-like,Legacy Analog,Serial/PLC,Contract unclear,Needs review,<6 months,Unknown,36,Red,Retrofit/OEM engagement + data plan
+A-01285,RRAD,Material Handler,Fanuc-like,Vendor Digital,Proprietary Gateway,Government usable,Isolated,<6 months,Mixed,63,Yellow,Resolve access/cyber + adapter
+A-00777,RRAD,Laser Cutter,Siemens-like,Vendor Digital,OEM Cloud API,Unknown,Approved segment,<6 months,Unknown,46,Yellow,Resolve access/cyber + adapter
+A-00192,WVA,CNC Machine,Haas-like,Vendor Digital,Proprietary Gateway,Government usable,Isolated,6-24 months,Unknown,59,Yellow,Resolve access/cyber + adapter
+A-00133,RRAD,Transformer,Fanuc-like,Native Digital,OPC UA,Contract unclear,Approved segment,>24 months,Unknown,72,Yellow,Resolve access/cyber + adapter
+A-00031,SIAD,Test Stand,Mazak-like,Vendor Digital,OEM Cloud API,Contract unclear,Unknown,6-24 months,Mixed,57,Yellow,Resolve access/cyber + adapter
+A-00022,ANAD,Material Handler,Haas-like,Native Digital,MTConnect,Contract unclear,Unknown,>24 months,Good,78,Green,Direct connector + pilot
+A-00863,SIAD,Paint/Blast Booth,Caterpillar-like,Native Digital,OPC UA,Contract unclear,Needs review,6-24 months,Unknown,59,Yellow,Resolve access/cyber + adapter
+A-01480,WVA,Diesel Engine,Mazak-like,Vendor Digital,Controller API,OEM restricted,Isolated,<6 months,Poor,41,Red,Retrofit/OEM engagement + data plan
+A-00155,SIAD,Hydraulic Press,Siemens-like,Native Digital,REST API,Contract unclear,Isolated,6-24 months,Poor,59,Yellow,Resolve access/cyber + adapter
+A-01593,RRAD,CNC Machine,Siemens-like,Native Digital,OPC UA,OEM restricted,Isolated,6-24 months,Poor,54,Yellow,Resolve access/cyber + adapter
+A-00389,RRAD,Transformer,Fanuc-like,Vendor Digital,Proprietary Gateway,OEM restricted,Needs review,None,Poor,36,Red,Retrofit/OEM engagement + data plan
+A-00526,ANAD,CNC Machine,Mazak-like,Vendor Digital,OEM Cloud API,Government usable,Unknown,<6 months,Unknown,51,Yellow,Resolve access/cyber + adapter
+A-01408,WVA,Transformer,Mazak-like,Legacy Analog,Retrofit Sensors,Contract unclear,Approved segment,6-24 months,Good,67,Yellow,Resolve access/cyber + adapter
+A-00340,WVA,Hydraulic Press,Haas-like,Native Digital,OPC UA,Unknown,Isolated,6-24 months,Mixed,59,Yellow,Resolve access/cyber + adapter
+A-00820,WVA,Overhead Crane,Mazak-like,Native Digital,REST API,Unknown,Unknown,>24 months,Mixed,63,Yellow,Resolve access/cyber + adapter
+A-00199,SIAD,Hydraulic Press,Legacy OEM,Vendor Digital,Proprietary Gateway,OEM restricted,Isolated,<6 months,Unknown,38,Red,Retrofit/OEM engagement + data plan
+A-00476,WVA,Overhead Crane,Haas-like,Native Digital,MTConnect,Unknown,Isolated,6-24 months,Mixed,59,Yellow,Resolve access/cyber + adapter
+A-01030,ANAD,Test Stand,Siemens-like,Vendor Digital,Controller API,OEM restricted,Unknown,None,Poor,31,Red,Retrofit/OEM engagement + data plan
+A-01504,WVA,Overhead Crane,Mazak-like,Native Digital,OPC UA,Unknown,Unknown,None,Good,51,Yellow,Resolve access/cyber + adapter
+A-00592,WVA,Transformer,Siemens-like,Legacy Analog,None,Contract unclear,Unknown,<6 months,Unknown,31,Red,Retrofit/OEM engagement + data plan
+A-01167,SIAD,Material Handler,Caterpillar-like,Vendor Digital,Proprietary Gateway,OEM restricted,Approved segment,None,Poor,43,Red,Retrofit/OEM engagement + data plan
+A-00520,WVA,CNC Machine,Haas-like,Legacy Analog,None,Contract unclear,Approved segment,<6 months,Good,61,Yellow,Resolve access/cyber + adapter
+A-00215,SIAD,Hydraulic Press,Haas-like,Native Digital,OPC UA,Government usable,Approved segment,6-24 months,Mixed,86,Green,Direct connector + pilot
+A-00704,WVA,Material Handler,Generic Industrial,Vendor Digital,Proprietary Gateway,Unknown,Unknown,None,Poor,29,Red,Retrofit/OEM engagement + data plan
+A-00135,SIAD,Laser Cutter,Mazak-like,Native Digital,MTConnect,Government usable,Needs review,6-24 months,Mixed,79,Green,Direct connector + pilot
+A-01357,RRAD,Hydraulic Press,Caterpillar-like,Legacy Analog,None,Unknown,Unknown,>24 months,Mixed,46,Yellow,Resolve access/cyber + adapter
+A-01374,ANAD,Air Compressor,Fanuc-like,Native Digital,OPC UA,OEM restricted,Needs review,None,Good,58,Yellow,Resolve access/cyber + adapter
+A-00083,SIAD,Diesel Engine,Mazak-like,Legacy Analog,Serial/PLC,Unknown,Unknown,>24 months,Poor,39,Red,Retrofit/OEM engagement + data plan
+A-00663,SIAD,Laser Cutter,Caterpillar-like,Vendor Digital,Proprietary Gateway,OEM restricted,Isolated,>24 months,Unknown,50,Yellow,Resolve access/cyber + adapter
+A-00453,RRAD,Overhead Crane,Mazak-like,Native Digital,OPC UA,Unknown,Needs review,<6 months,Mixed,56,Yellow,Resolve access/cyber + adapter
+A-01432,WVA,Diesel Engine,Fanuc-like,Legacy Analog,Retrofit Sensors,OEM restricted,Isolated,<6 months,Mixed,38,Red,Retrofit/OEM engagement + data plan
+A-01236,WVA,Overhead Crane,Siemens-like,Vendor Digital,OEM Cloud API,OEM restricted,Unknown,>24 months,Unknown,48,Yellow,Resolve access/cyber + adapter
+A-01079,SIAD,CNC Machine,Legacy OEM,Vendor Digital,OEM Cloud API,Government usable,Approved segment,<6 months,Good,81,Green,Direct connector + pilot
+A-00583,SIAD,Paint/Blast Booth,Haas-like,Vendor Digital,Controller API,Government usable,Approved segment,6-24 months,Good,87,Green,Direct connector + pilot
+A-00260,WVA,CNC Machine,Siemens-like,Native Digital,OPC UA,OEM restricted,Unknown,None,Unknown,35,Red,Retrofit/OEM engagement + data plan
+A-01171,SIAD,Diesel Engine,Mazak-like,Vendor Digital,Proprietary Gateway,Government usable,Isolated,<6 months,Poor,56,Yellow,Resolve access/cyber + adapter
+A-00488,WVA,Diesel Engine,Fanuc-like,Vendor Digital,Proprietary Gateway,Unknown,Unknown,<6 months,Poor,37,Red,Retrofit/OEM engagement + data plan
+A-01359,SIAD,Laser Cutter,Fanuc-like,Legacy Analog,Serial/PLC,Contract unclear,Isolated,>24 months,Unknown,45,Yellow,Resolve access/cyber + adapter
+A-00697,RRAD,Test Stand,Mazak-like,Legacy Analog,Serial/PLC,OEM restricted,Approved segment,None,Unknown,30,Red,Retrofit/OEM engagement + data plan
+A-00403,SIAD,CNC Machine,Legacy OEM,Legacy Analog,Serial/PLC,Unknown,Unknown,None,Unknown,16,Red,Retrofit/OEM engagement + data plan
+A-00549,RRAD,Laser Cutter,Siemens-like,Vendor Digital,OEM Cloud API,Government usable,Approved segment,>24 months,Good,93,Green,Direct connector + pilot
+A-00125,RRAD,Hydraulic Press,Haas-like,Legacy Analog,None,OEM restricted,Needs review,>24 months,Good,61,Yellow,Resolve access/cyber + adapter
+A-00056,WVA,Laser Cutter,Generic Industrial,Vendor Digital,Proprietary Gateway,OEM restricted,Approved segment,None,Unknown,40,Red,Retrofit/OEM engagement + data plan
+A-00859,SIAD,Diesel Engine,Mazak-like,Vendor Digital,Controller API,OEM restricted,Approved segment,None,Unknown,40,Red,Retrofit/OEM engagement + data plan
+A-00353,RRAD,Test Stand,Caterpillar-like,Native Digital,Modbus TCP,Government usable,Needs review,>24 months,Good,93,Green,Direct connector + pilot
+A-00138,ANAD,Diesel Engine,Caterpillar-like,Native Digital,Modbus TCP,Government usable,Approved segment,>24 months,Poor,85,Green,Direct connector + pilot
+A-00384,WVA,Overhead Crane,Mazak-like,Legacy Analog,Retrofit Sensors,Government usable,Approved segment,6-24 months,Good,77,Green,Direct connector + pilot
+A-00270,ANAD,CNC Machine,Siemens-like,Native Digital,OPC UA,OEM restricted,Isolated,6-24 months,Good,69,Yellow,Resolve access/cyber + adapter
+A-00304,WVA,Overhead Crane,Mazak-like,Native Digital,MTConnect,Contract unclear,Needs review,>24 months,Poor,68,Yellow,Resolve access/cyber + adapter
+A-01281,RRAD,Test Stand,Mazak-like,Legacy Analog,Serial/PLC,Contract unclear,Unknown,6-24 months,Good,55,Yellow,Resolve access/cyber + adapter
+A-01341,RRAD,Diesel Engine,Fanuc-like,Legacy Analog,Serial/PLC,Contract unclear,Needs review,6-24 months,Mixed,52,Yellow,Resolve access/cyber + adapter
+A-00982,ANAD,Paint/Blast Booth,Siemens-like,Native Digital,Modbus TCP,Unknown,Isolated,None,Poor,38,Red,Retrofit/OEM engagement + data plan
+A-00220,WVA,Test Stand,Generic Industrial,Vendor Digital,Proprietary Gateway,Government usable,Needs review,6-24 months,Poor,65,Yellow,Resolve access/cyber + adapter
+A-00731,SIAD,CNC Machine,Generic Industrial,Native Digital,Modbus TCP,Government usable,Isolated,6-24 months,Unknown,66,Yellow,Resolve access/cyber + adapter
+A-00535,SIAD,Hydraulic Press,Siemens-like,Vendor Digital,Controller API,Unknown,Unknown,6-24 months,Unknown,40,Red,Retrofit/OEM engagement + data plan
+A-00928,WVA,Hydraulic Press,Mazak-like,Native Digital,Modbus TCP,OEM restricted,Needs review,6-24 months,Unknown,54,Yellow,Resolve access/cyber + adapter
+A-00381,RRAD,Diesel Engine,Legacy OEM,Legacy Analog,Serial/PLC,Contract unclear,Approved segment,None,Unknown,35,Red,Retrofit/OEM engagement + data plan
+A-00908,WVA,CNC Machine,Mazak-like,Legacy Analog,None,Government usable,Isolated,>24 months,Good,73,Yellow,Resolve access/cyber + adapter
+A-00641,RRAD,Test Stand,Fanuc-like,Vendor Digital,OEM Cloud API,Unknown,Needs review,<6 months,Poor,42,Red,Retrofit/OEM engagement + data plan
+A-01461,RRAD,Diesel Engine,Caterpillar-like,Native Digital,Modbus TCP,OEM restricted,Isolated,>24 months,Mixed,67,Yellow,Resolve access/cyber + adapter
+A-01212,WVA,Air Compressor,Mazak-like,Native Digital,Modbus TCP,OEM restricted,Isolated,>24 months,Unknown,57,Yellow,Resolve access/cyber + adapter
+A-00361,RRAD,Hydraulic Press,Siemens-like,Legacy Analog,Retrofit Sensors,Contract unclear,Unknown,6-24 months,Good,55,Yellow,Resolve access/cyber + adapter
+A-00807,SIAD,Transformer,Generic Industrial,Vendor Digital,Proprietary Gateway,OEM restricted,Unknown,6-24 months,Poor,45,Yellow,Resolve access/cyber + adapter
+A-01028,WVA,Laser Cutter,Siemens-like,Native Digital,REST API,Contract unclear,Approved segment,6-24 months,Good,84,Green,Direct connector + pilot
+A-00733,RRAD,Overhead Crane,Caterpillar-like,Native Digital,OPC UA,Contract unclear,Isolated,6-24 months,Unknown,56,Yellow,Resolve access/cyber + adapter
+A-01107,SIAD,Transformer,Haas-like,Legacy Analog,None,Unknown,Unknown,None,Poor,19,Red,Retrofit/OEM engagement + data plan
+A-01575,SIAD,Transformer,Fanuc-like,Native Digital,MTConnect,Contract unclear,Unknown,None,Unknown,40,Red,Retrofit/OEM engagement + data plan
+A-01023,SIAD,Air Compressor,Siemens-like,Vendor Digital,OEM Cloud API,Contract unclear,Approved segment,<6 months,Good,71,Yellow,Resolve access/cyber + adapter
+A-00942,ANAD,Overhead Crane,Legacy OEM,Legacy Analog,None,Contract unclear,Isolated,<6 months,Good,51,Yellow,Resolve access/cyber + adapter
+A-01555,SIAD,Hydraulic Press,Generic Industrial,Native Digital,Modbus TCP,OEM restricted,Approved segment,>24 months,Unknown,67,Yellow,Resolve access/cyber + adapter
+A-00920,WVA,Air Compressor,Generic Industrial,Native Digital,Modbus TCP,OEM restricted,Approved segment,>24 months,Mixed,77,Green,Direct connector + pilot
+A-01200,WVA,Overhead Crane,Legacy OEM,Vendor Digital,OEM Cloud API,Government usable,Approved segment,>24 months,Mixed,85,Green,Direct connector + pilot
+A-01327,SIAD,Diesel Engine,Siemens-like,Vendor Digital,Proprietary Gateway,Contract unclear,Approved segment,<6 months,Poor,56,Yellow,Resolve access/cyber + adapter
+A-00869,RRAD,CNC Machine,Fanuc-like,Native Digital,MTConnect,Government usable,Needs review,6-24 months,Poor,72,Yellow,Resolve access/cyber + adapter
+A-00556,WVA,Laser Cutter,Generic Industrial,Legacy Analog,None,Contract unclear,Isolated,None,Unknown,25,Red,Retrofit/OEM engagement + data plan
+A-00671,SIAD,Diesel Engine,Caterpillar-like,Vendor Digital,OEM Cloud API,OEM restricted,Needs review,6-24 months,Mixed,57,Yellow,Resolve access/cyber + adapter
+A-00853,RRAD,Paint/Blast Booth,Generic Industrial,Native Digital,MTConnect,OEM restricted,Needs review,>24 months,Unknown,60,Yellow,Resolve access/cyber + adapter
+A-00981,RRAD,Test Stand,Generic Industrial,Native Digital,REST API,OEM restricted,Approved segment,<6 months,Good,73,Yellow,Resolve access/cyber + adapter
+A-00680,WVA,Air Compressor,Caterpillar-like,Legacy Analog,None,Unknown,Needs review,None,Unknown,21,Red,Retrofit/OEM engagement + data plan
+A-00480,WVA,Hydraulic Press,Legacy OEM,Vendor Digital,Controller API,OEM restricted,Unknown,None,Good,46,Yellow,Resolve access/cyber + adapter
+A-00599,SIAD,Test Stand,Legacy OEM,Vendor Digital,OEM Cloud API,Unknown,Needs review,>24 months,Poor,54,Yellow,Resolve access/cyber + adapter
+A-00090,ANAD,Diesel Engine,Generic Industrial,Vendor Digital,Controller API,Unknown,Unknown,>24 months,Unknown,46,Yellow,Resolve access/cyber + adapter
+A-00587,SIAD,Diesel Engine,Siemens-like,Native Digital,MTConnect,Contract unclear,Approved segment,<6 months,Good,78,Green,Direct connector + pilot
+A-00698,ANAD,Hydraulic Press,Caterpillar-like,Native Digital,MTConnect,Contract unclear,Needs review,None,Good,63,Yellow,Resolve access/cyber + adapter
+A-00819,SIAD,Diesel Engine,Legacy OEM,Native Digital,Modbus TCP,OEM restricted,Unknown,<6 months,Poor,46,Yellow,Resolve access/cyber + adapter
+A-01320,WVA,Test Stand,Haas-like,Legacy Analog,None,Government usable,Unknown,>24 months,Mixed,63,Yellow,Resolve access/cyber + adapter
+A-00052,WVA,Laser Cutter,Siemens-like,Native Digital,REST API,Government usable,Isolated,>24 months,Mixed,82,Green,Direct connector + pilot
+A-01071,SIAD,Test Stand,Siemens-like,Native Digital,MTConnect,Government usable,Needs review,6-24 months,Unknown,69,Yellow,Resolve access/cyber + adapter
+A-00748,WVA,Overhead Crane,Mazak-like,Vendor Digital,Proprietary Gateway,Contract unclear,Approved segment,>24 months,Good,83,Green,Direct connector + pilot
+A-00206,ANAD,Overhead Crane,Haas-like,Vendor Digital,OEM Cloud API,OEM restricted,Isolated,None,Unknown,30,Red,Retrofit/OEM engagement + data plan
+A-01311,SIAD,Paint/Blast Booth,Siemens-like,Native Digital,REST API,Contract unclear,Needs review,<6 months,Poor,56,Yellow,Resolve access/cyber + adapter
+A-01376,WVA,Diesel Engine,Haas-like,Native Digital,Modbus TCP,Unknown,Approved segment,>24 months,Unknown,65,Yellow,Resolve access/cyber + adapter
+A-00129,RRAD,CNC Machine,Mazak-like,Vendor Digital,Proprietary Gateway,Contract unclear,Isolated,<6 months,Poor,46,Yellow,Resolve access/cyber + adapter
+A-00905,RRAD,Paint/Blast Booth,Caterpillar-like,Native Digital,MTConnect,OEM restricted,Approved segment,6-24 months,Poor,64,Yellow,Resolve access/cyber + adapter
+A-00877,RRAD,Diesel Engine,Caterpillar-like,Legacy Analog,None,Government usable,Isolated,<6 months,Unknown,43,Red,Retrofit/OEM engagement + data plan
+A-00612,WVA,Laser Cutter,Legacy OEM,Legacy Analog,None,Unknown,Isolated,<6 months,Mixed,36,Red,Retrofit/OEM engagement + data plan
+A-00256,WVA,Diesel Engine,Haas-like,Legacy Analog,Serial/PLC,Government usable,Unknown,>24 months,Mixed,63,Yellow,Resolve access/cyber + adapter
+A-00221,RRAD,Material Handler,Legacy OEM,Native Digital,REST API,Contract unclear,Unknown,6-24 months,Unknown,54,Yellow,Resolve access/cyber + adapter
+A-00048,WVA,Air Compressor,Siemens-like,Native Digital,MTConnect,Unknown,Isolated,>24 months,Unknown,55,Yellow,Resolve access/cyber + adapter
+A-00803,SIAD,Material Handler,Legacy OEM,Vendor Digital,OEM Cloud API,Unknown,Approved segment,None,Mixed,48,Yellow,Resolve access/cyber + adapter
+A-00968,WVA,Hydraulic Press,Generic Industrial,Native Digital,MTConnect,OEM restricted,Isolated,>24 months,Good,75,Green,Direct connector + pilot
+A-00311,SIAD,Diesel Engine,Caterpillar-like,Vendor Digital,Controller API,Contract unclear,Approved segment,None,Mixed,55,Yellow,Resolve access/cyber + adapter
+A-01103,SIAD,Material Handler,Fanuc-like,Legacy Analog,None,Unknown,Unknown,>24 months,Mixed,46,Yellow,Resolve access/cyber + adapter
+A-01350,ANAD,Air Compressor,Caterpillar-like,Native Digital,MTConnect,Unknown,Needs review,None,Mixed,48,Yellow,Resolve access/cyber + adapter
+A-00499,SIAD,CNC Machine,Mazak-like,Vendor Digital,Controller API,Unknown,Isolated,6-24 months,Good,60,Yellow,Resolve access/cyber + adapter
+A-01270,ANAD,CNC Machine,Legacy OEM,Native Digital,Modbus TCP,Government usable,Unknown,<6 months,Good,76,Green,Direct connector + pilot
+A-00609,RRAD,Test Stand,Siemens-like,Legacy Analog,Retrofit Sensors,Contract unclear,Unknown,<6 months,Unknown,31,Red,Retrofit/OEM engagement + data plan
+A-00233,RRAD,Material Handler,Siemens-like,Legacy Analog,Serial/PLC,Government usable,Approved segment,<6 months,Poor,56,Yellow,Resolve access/cyber + adapter
+A-00990,ANAD,Air Compressor,Siemens-like,Native Digital,MTConnect,OEM restricted,Unknown,None,Good,53,Yellow,Resolve access/cyber + adapter
+A-01182,ANAD,Laser Cutter,Mazak-like,Native Digital,OPC UA,OEM restricted,Unknown,None,Unknown,35,Red,Retrofit/OEM engagement + data plan
+A-00082,ANAD,Diesel Engine,Siemens-like,Native Digital,REST API,Unknown,Isolated,6-24 months,Good,67,Yellow,Resolve access/cyber + adapter
+A-00822,ANAD,CNC Machine,Legacy OEM,Vendor Digital,Controller API,Contract unclear,Needs review,6-24 months,Poor,55,Yellow,Resolve access/cyber + adapter
+A-00719,SIAD,Diesel Engine,Caterpillar-like,Legacy Analog,None,Unknown,Isolated,>24 months,Unknown,38,Red,Retrofit/OEM engagement + data plan
+A-01347,SIAD,Laser Cutter,Haas-like,Vendor Digital,Controller API,Unknown,Needs review,None,Unknown,31,Red,Retrofit/OEM engagement + data plan
+A-00265,RRAD,CNC Machine,Legacy OEM,Native Digital,REST API,Unknown,Needs review,6-24 months,Poor,55,Yellow,Resolve access/cyber + adapter
+A-00516,WVA,Diesel Engine,Legacy OEM,Legacy Analog,None,Contract unclear,Unknown,>24 months,Unknown,43,Red,Retrofit/OEM engagement + data plan
+A-01371,SIAD,Laser Cutter,Siemens-like,Vendor Digital,Proprietary Gateway,Unknown,Unknown,6-24 months,Good,58,Yellow,Resolve access/cyber + adapter
+A-01226,ANAD,Transformer,Mazak-like,Vendor Digital,Proprietary Gateway,Contract unclear,Approved segment,None,Good,63,Yellow,Resolve access/cyber + adapter
+A-00572,WVA,Air Compressor,Mazak-like,Legacy Analog,Retrofit Sensors,Unknown,Isolated,6-24 months,Mixed,42,Red,Retrofit/OEM engagement + data plan
+A-00783,SIAD,Transformer,Haas-like,Vendor Digital,OEM Cloud API,OEM restricted,Unknown,<6 months,Unknown,36,Red,Retrofit/OEM engagement + data plan
+A-01197,RRAD,Hydraulic Press,Siemens-like,Native Digital,MTConnect,Contract unclear,Approved segment,<6 months,Mixed,70,Yellow,Resolve access/cyber + adapter
+A-01027,SIAD,Paint/Blast Booth,Haas-like,Legacy Analog,None,Unknown,Approved segment,None,Mixed,38,Red,Retrofit/OEM engagement + data plan
+A-01073,RRAD,Material Handler,Caterpillar-like,Legacy Analog,None,Contract unclear,Needs review,<6 months,Good,54,Yellow,Resolve access/cyber + adapter
+A-01455,SIAD,Diesel Engine,Generic Industrial,Legacy Analog,None,Government usable,Approved segment,6-24 months,Unknown,59,Yellow,Resolve access/cyber + adapter
+A-01077,RRAD,Test Stand,Mazak-like,Vendor Digital,Controller API,Government usable,Unknown,<6 months,Good,69,Yellow,Resolve access/cyber + adapter
+A-01100,WVA,Laser Cutter,Generic Industrial,Vendor Digital,Controller API,OEM restricted,Needs review,<6 months,Good,59,Yellow,Resolve access/cyber + adapter
+A-01172,WVA,Hydraulic Press,Generic Industrial,Vendor Digital,Proprietary Gateway,Government usable,Needs review,>24 months,Mixed,78,Green,Direct connector + pilot
+A-00172,WVA,Transformer,Fanuc-like,Vendor Digital,Controller API,Contract unclear,Isolated,6-24 months,Poor,52,Yellow,Resolve access/cyber + adapter
+A-00189,RRAD,Test Stand,Legacy OEM,Native Digital,MTConnect,OEM restricted,Approved segment,None,Good,65,Yellow,Resolve access/cyber + adapter
+A-01441,RRAD,Overhead Crane,Fanuc-like,Vendor Digital,Proprietary Gateway,Government usable,Needs review,<6 months,Poor,59,Yellow,Resolve access/cyber + adapter
+A-00486,ANAD,Material Handler,Caterpillar-like,Native Digital,REST API,OEM restricted,Needs review,>24 months,Unknown,60,Yellow,Resolve access/cyber + adapter
+A-00567,SIAD,Test Stand,Mazak-like,Vendor Digital,Proprietary Gateway,Unknown,Needs review,<6 months,Unknown,39,Red,Retrofit/OEM engagement + data plan
+A-00252,WVA,Hydraulic Press,Caterpillar-like,Legacy Analog,Retrofit Sensors,Government usable,Needs review,<6 months,Mixed,56,Yellow,Resolve access/cyber + adapter
+A-00691,SIAD,CNC Machine,Caterpillar-like,Legacy Analog,None,Contract unclear,Approved segment,6-24 months,Mixed,59,Yellow,Resolve access/cyber + adapter
+A-00899,SIAD,CNC Machine,Fanuc-like,Vendor Digital,OEM Cloud API,OEM restricted,Unknown,>24 months,Poor,51,Yellow,Resolve access/cyber + adapter
+A-00414,ANAD,CNC Machine,Siemens-like,Legacy Analog,Retrofit Sensors,Government usable,Unknown,6-24 months,Good,65,Yellow,Resolve access/cyber + adapter
+A-01050,ANAD,Air Compressor,Fanuc-like,Native Digital,REST API,Unknown,Isolated,6-24 months,Unknown,49,Yellow,Resolve access/cyber + adapter
+A-01183,SIAD,Material Handler,Caterpillar-like,Legacy Analog,None,Contract unclear,Unknown,>24 months,Mixed,53,Yellow,Resolve access/cyber + adapter
+A-00626,ANAD,Test Stand,Legacy OEM,Vendor Digital,OEM Cloud API,Government usable,Isolated,None,Poor,48,Yellow,Resolve access/cyber + adapter
+A-00222,ANAD,Diesel Engine,Mazak-like,Native Digital,REST API,OEM restricted,Unknown,None,Mixed,45,Yellow,Resolve access/cyber + adapter
+A-01568,WVA,Material Handler,Generic Industrial,Native Digital,REST API,Government usable,Unknown,6-24 months,Unknown,64,Yellow,Resolve access/cyber + adapter
+A-01272,WVA,Material Handler,Mazak-like,Native Digital,MTConnect,Contract unclear,Isolated,>24 months,Good,80,Green,Direct connector + pilot
+A-00594,ANAD,Test Stand,Legacy OEM,Native Digital,MTConnect,Contract unclear,Approved segment,None,Poor,55,Yellow,Resolve access/cyber + adapter
+A-00785,RRAD,Hydraulic Press,Caterpillar-like,Native Digital,MTConnect,OEM restricted,Needs review,None,Poor,43,Red,Retrofit/OEM engagement + data plan
+A-01162,ANAD,Air Compressor,Haas-like,Native Digital,OPC UA,Unknown,Unknown,6-24 months,Mixed,57,Yellow,Resolve access/cyber + adapter
+A-00249,RRAD,Air Compressor,Legacy OEM,Vendor Digital,Proprietary Gateway,Unknown,Isolated,None,Good,46,Yellow,Resolve access/cyber + adapter
+A-00168,WVA,Material Handler,Legacy OEM,Vendor Digital,Controller API,Unknown,Isolated,6-24 months,Poor,45,Yellow,Resolve access/cyber + adapter
+A-00068,WVA,Material Handler,Siemens-like,Native Digital,MTConnect,Government usable,Needs review,>24 months,Unknown,75,Green,Direct connector + pilot
+A-00643,SIAD,Test Stand,Mazak-like,Legacy Analog,Retrofit Sensors,Contract unclear,Unknown,None,Unknown,23,Red,Retrofit/OEM engagement + data plan
+A-00625,RRAD,Diesel Engine,Haas-like,Vendor Digital,Controller API,OEM restricted,Isolated,>24 months,Poor,53,Yellow,Resolve access/cyber + adapter
+A-00073,RRAD,Material Handler,Haas-like,Vendor Digital,OEM Cloud API,Unknown,Approved segment,6-24 months,Good,70,Yellow,Resolve access/cyber + adapter
+A-01554,ANAD,Diesel Engine,Caterpillar-like,Vendor Digital,OEM Cloud API,Government usable,Unknown,<6 months,Good,69,Yellow,Resolve access/cyber + adapter
+A-01323,SIAD,CNC Machine,Generic Industrial,Native Digital,OPC UA,Unknown,Needs review,None,Good,56,Yellow,Resolve access/cyber + adapter
+A-01091,SIAD,Material Handler,Fanuc-like,Legacy Analog,None,Unknown,Needs review,6-24 months,Good,53,Yellow,Resolve access/cyber + adapter
+A-01518,ANAD,Diesel Engine,Fanuc-like,Native Digital,REST API,OEM restricted,Approved segment,>24 months,Mixed,77,Green,Direct connector + pilot
+A-00336,WVA,Transformer,Legacy OEM,Vendor Digital,Controller API,Contract unclear,Approved segment,6-24 months,Good,77,Green,Direct connector + pilot
+A-00214,ANAD,Material Handler,Generic Industrial,Native Digital,REST API,Contract unclear,Isolated,>24 months,Mixed,72,Yellow,Resolve access/cyber + adapter
+A-01035,SIAD,Transformer,Haas-like,Legacy Analog,Retrofit Sensors,Government usable,Isolated,<6 months,Mixed,53,Yellow,Resolve access/cyber + adapter
+A-00498,ANAD,Material Handler,Legacy OEM,Native Digital,Modbus TCP,OEM restricted,Unknown,>24 months,Poor,58,Yellow,Resolve access/cyber + adapter
+A-01526,ANAD,Test Stand,Siemens-like,Vendor Digital,Proprietary Gateway,Unknown,Isolated,<6 months,Mixed,46,Yellow,Resolve access/cyber + adapter
+A-00604,WVA,Air Compressor,Generic Industrial,Vendor Digital,Controller API,OEM restricted,Isolated,<6 months,Poor,41,Red,Retrofit/OEM engagement + data plan
+A-01407,SIAD,CNC Machine,Mazak-like,Vendor Digital,Controller API,Unknown,Approved segment,6-24 months,Good,70,Yellow,Resolve access/cyber + adapter
+A-00217,RRAD,Air Compressor,Caterpillar-like,Legacy Analog,None,Unknown,Approved segment,None,Unknown,28,Red,Retrofit/OEM engagement + data plan
+A-00413,RRAD,Air Compressor,Legacy OEM,Native Digital,MTConnect,Unknown,Unknown,6-24 months,Good,65,Yellow,Resolve access/cyber + adapter
+A-01149,RRAD,Material Handler,Haas-like,Legacy Analog,Retrofit Sensors,Unknown,Unknown,>24 months,Mixed,46,Yellow,Resolve access/cyber + adapter
+A-00468,WVA,Test Stand,Caterpillar-like,Native Digital,REST API,Unknown,Approved segment,>24 months,Good,83,Green,Direct connector + pilot
+A-00257,RRAD,Test Stand,Legacy OEM,Vendor Digital,OEM Cloud API,OEM restricted,Needs review,>24 months,Good,71,Yellow,Resolve access/cyber + adapter
+A-01485,RRAD,Diesel Engine,Fanuc-like,Native Digital,REST API,OEM restricted,Isolated,>24 months,Mixed,67,Yellow,Resolve access/cyber + adapter
+A-00004,WVA,Diesel Engine,Fanuc-like,Native Digital,REST API,OEM restricted,Approved segment,>24 months,Good,85,Green,Direct connector + pilot
+A-01392,WVA,Hydraulic Press,Legacy OEM,Native Digital,OPC UA,Government usable,Needs review,>24 months,Good,93,Green,Direct connector + pilot
+A-00191,SIAD,Paint/Blast Booth,Legacy OEM,Legacy Analog,Serial/PLC,OEM restricted,Approved segment,<6 months,Good,56,Yellow,Resolve access/cyber + adapter
+A-00061,RRAD,Material Handler,Caterpillar-like,Native Digital,MTConnect,OEM restricted,Isolated,<6 months,Good,63,Yellow,Resolve access/cyber + adapter
+A-00158,ANAD,Material Handler,Siemens-like,Native Digital,REST API,Unknown,Needs review,6-24 months,Unknown,52,Yellow,Resolve access/cyber + adapter
+A-01131,SIAD,Hydraulic Press,Caterpillar-like,Native Digital,Modbus TCP,OEM restricted,Unknown,>24 months,Unknown,55,Yellow,Resolve access/cyber + adapter
+A-00879,SIAD,Paint/Blast Booth,Mazak-like,Vendor Digital,Controller API,Contract unclear,Isolated,None,Mixed,45,Yellow,Resolve access/cyber + adapter
+A-01330,ANAD,CNC Machine,Mazak-like,Native Digital,MTConnect,Government usable,Isolated,<6 months,Mixed,70,Yellow,Resolve access/cyber + adapter
+A-01535,SIAD,Paint/Blast Booth,Fanuc-like,Native Digital,OPC UA,OEM restricted,Approved segment,>24 months,Unknown,67,Yellow,Resolve access/cyber + adapter
+A-01418,ANAD,Paint/Blast Booth,Generic Industrial,Vendor Digital,Controller API,Unknown,Isolated,6-24 months,Mixed,52,Yellow,Resolve access/cyber + adapter
+A-00328,WVA,CNC Machine,Siemens-like,Native Digital,Modbus TCP,OEM restricted,Needs review,None,Good,58,Yellow,Resolve access/cyber + adapter
+A-00110,ANAD,Diesel Engine,Caterpillar-like,Legacy Analog,Serial/PLC,Unknown,Isolated,6-24 months,Mixed,42,Red,Retrofit/OEM engagement + data plan
+A-00735,SIAD,Diesel Engine,Generic Industrial,Native Digital,Modbus TCP,Government usable,Isolated,None,Mixed,62,Yellow,Resolve access/cyber + adapter
+A-00715,SIAD,Diesel Engine,Generic Industrial,Native Digital,Modbus TCP,Unknown,Approved segment,<6 months,Good,71,Yellow,Resolve access/cyber + adapter
+A-00736,WVA,Diesel Engine,Generic Industrial,Vendor Digital,OEM Cloud API,Contract unclear,Isolated,6-24 months,Unknown,49,Yellow,Resolve access/cyber + adapter
+A-00483,SIAD,Laser Cutter,Mazak-like,Native Digital,MTConnect,Government usable,Isolated,>24 months,Poor,75,Green,Direct connector + pilot
+A-00237,RRAD,Diesel Engine,Legacy OEM,Vendor Digital,OEM Cloud API,Government usable,Approved segment,<6 months,Unknown,63,Yellow,Resolve access/cyber + adapter
+A-01074,ANAD,Material Handler,Caterpillar-like,Native Digital,Modbus TCP,Contract unclear,Isolated,6-24 months,Good,74,Yellow,Resolve access/cyber + adapter
+A-01424,WVA,Paint/Blast Booth,Caterpillar-like,Vendor Digital,OEM Cloud API,Unknown,Approved segment,6-24 months,Good,70,Yellow,Resolve access/cyber + adapter
+A-00987,SIAD,Laser Cutter,Caterpillar-like,Native Digital,MTConnect,Unknown,Isolated,6-24 months,Mixed,59,Yellow,Resolve access/cyber + adapter
+A-01451,SIAD,Transformer,Legacy OEM,Native Digital,MTConnect,Contract unclear,Approved segment,>24 months,Poor,75,Green,Direct connector + pilot
+A-01203,SIAD,Diesel Engine,Legacy OEM,Vendor Digital,Controller API,OEM restricted,Approved segment,>24 months,Mixed,70,Yellow,Resolve access/cyber + adapter
+A-00792,WVA,Air Compressor,Mazak-like,Native Digital,MTConnect,OEM restricted,Isolated,>24 months,Good,75,Green,Direct connector + pilot
+A-00060,WVA,Material Handler,Siemens-like,Legacy Analog,Retrofit Sensors,Contract unclear,Needs review,>24 months,Poor,51,Yellow,Resolve access/cyber + adapter
+A-01114,ANAD,Material Handler,Legacy OEM,Vendor Digital,Proprietary Gateway,Government usable,Needs review,6-24 months,Unknown,62,Yellow,Resolve access/cyber + adapter
+A-01333,RRAD,CNC Machine,Siemens-like,Vendor Digital,Proprietary Gateway,Unknown,Isolated,<6 months,Mixed,46,Yellow,Resolve access/cyber + adapter
+A-00522,ANAD,Material Handler,Fanuc-like,Legacy Analog,Retrofit Sensors,Unknown,Approved segment,None,Unknown,28,Red,Retrofit/OEM engagement + data plan
+A-00044,WVA,Hydraulic Press,Generic Industrial,Vendor Digital,Proprietary Gateway,Unknown,Isolated,<6 months,Mixed,46,Yellow,Resolve access/cyber + adapter
+A-00823,SIAD,Overhead Crane,Mazak-like,Native Digital,OPC UA,Contract unclear,Unknown,6-24 months,Mixed,64,Yellow,Resolve access/cyber + adapter
+A-00614,ANAD,Test Stand,Generic Industrial,Vendor Digital,Proprietary Gateway,OEM restricted,Approved segment,None,Unknown,40,Red,Retrofit/OEM engagement + data plan
+A-00821,RRAD,Material Handler,Mazak-like,Legacy Analog,Serial/PLC,Government usable,Unknown,<6 months,Poor,44,Red,Retrofit/OEM engagement + data plan
+A-01225,RRAD,Overhead Crane,Haas-like,Native Digital,REST API,Government usable,Unknown,None,Mixed,60,Yellow,Resolve access/cyber + adapter
+A-00862,ANAD,Hydraulic Press,Caterpillar-like,Vendor Digital,OEM Cloud API,Government usable,Approved segment,>24 months,Poor,78,Green,Direct connector + pilot
+A-00190,ANAD,Transformer,Siemens-like,Legacy Analog,Serial/PLC,Government usable,Approved segment,6-24 months,Poor,62,Yellow,Resolve access/cyber + adapter
+A-00144,WVA,Laser Cutter,Siemens-like,Vendor Digital,Controller API,Unknown,Needs review,>24 months,Good,69,Yellow,Resolve access/cyber + adapter
+A-00202,ANAD,Paint/Blast Booth,Siemens-like,Legacy Analog,Retrofit Sensors,Contract unclear,Unknown,<6 months,Poor,34,Red,Retrofit/OEM engagement + data plan
+A-01436,WVA,CNC Machine,Haas-like,Native Digital,Modbus TCP,Government usable,Unknown,<6 months,Mixed,68,Yellow,Resolve access/cyber + adapter
+A-00794,ANAD,Overhead Crane,Caterpillar-like,Native Digital,OPC UA,Government usable,Unknown,6-24 months,Unknown,64,Yellow,Resolve access/cyber + adapter
+A-01014,ANAD,Air Compressor,Fanuc-like,Vendor Digital,Proprietary Gateway,OEM restricted,Isolated,None,Mixed,40,Red,Retrofit/OEM engagement + data plan
+A-00225,RRAD,Test Stand,Fanuc-like,Legacy Analog,None,Government usable,Isolated,>24 months,Unknown,55,Yellow,Resolve access/cyber + adapter
+A-01041,RRAD,Transformer,Fanuc-like,Legacy Analog,Retrofit Sensors,Contract unclear,Isolated,None,Poor,28,Red,Retrofit/OEM engagement + data plan
+A-00955,SIAD,Hydraulic Press,Caterpillar-like,Legacy Analog,Retrofit Sensors,Contract unclear,Isolated,<6 months,Good,51,Yellow,Resolve access/cyber + adapter
+A-00205,RRAD,Hydraulic Press,Caterpillar-like,Native Digital,MTConnect,OEM restricted,Isolated,>24 months,Unknown,57,Yellow,Resolve access/cyber + adapter
+A-00555,SIAD,Diesel Engine,Mazak-like,Legacy Analog,Serial/PLC,Government usable,Isolated,6-24 months,Poor,52,Yellow,Resolve access/cyber + adapter
+A-00690,ANAD,Hydraulic Press,Caterpillar-like,Native Digital,Modbus TCP,Unknown,Needs review,None,Mixed,48,Yellow,Resolve access/cyber + adapter
+A-01101,RRAD,Paint/Blast Booth,Siemens-like,Vendor Digital,Proprietary Gateway,Contract unclear,Unknown,<6 months,Poor,44,Red,Retrofit/OEM engagement + data plan
+A-00300,WVA,Diesel Engine,Generic Industrial,Legacy Analog,Serial/PLC,Unknown,Needs review,None,Good,39,Red,Retrofit/OEM engagement + data plan
+A-00707,SIAD,Hydraulic Press,Fanuc-like,Native Digital,OPC UA,OEM restricted,Isolated,6-24 months,Good,69,Yellow,Resolve access/cyber + adapter
+A-01263,SIAD,Hydraulic Press,Fanuc-like,Vendor Digital,Proprietary Gateway,Contract unclear,Isolated,6-24 months,Good,67,Yellow,Resolve access/cyber + adapter
+A-01146,ANAD,Air Compressor,Generic Industrial,Native Digital,Modbus TCP,Government usable,Approved segment,<6 months,Unknown,70,Yellow,Resolve access/cyber + adapter
+A-01340,WVA,Air Compressor,Mazak-like,Native Digital,OPC UA,Government usable,Isolated,None,Unknown,52,Yellow,Resolve access/cyber + adapter
+A-00801,RRAD,Diesel Engine,Mazak-like,Legacy Analog,Serial/PLC,Unknown,Approved segment,None,Mixed,38,Red,Retrofit/OEM engagement + data plan
+A-01342,ANAD,Diesel Engine,Fanuc-like,Native Digital,Modbus TCP,Government usable,Unknown,None,Unknown,50,Yellow,Resolve access/cyber + adapter
+A-00773,RRAD,CNC Machine,Generic Industrial,Legacy Analog,None,Government usable,Isolated,<6 months,Unknown,43,Red,Retrofit/OEM engagement + data plan
+A-00293,RRAD,Air Compressor,Siemens-like,Legacy Analog,None,Contract unclear,Needs review,6-24 months,Unknown,42,Red,Retrofit/OEM engagement + data plan
+A-01508,WVA,Paint/Blast Booth,Generic Industrial,Legacy Analog,Serial/PLC,Contract unclear,Approved segment,<6 months,Mixed,53,Yellow,Resolve access/cyber + adapter
+A-00085,RRAD,Air Compressor,Legacy OEM,Native Digital,REST API,Government usable,Isolated,>24 months,Unknown,72,Yellow,Resolve access/cyber + adapter
+A-01202,ANAD,CNC Machine,Generic Industrial,Vendor Digital,OEM Cloud API,Contract unclear,Unknown,None,Poor,36,Red,Retrofit/OEM engagement + data plan
+A-01008,WVA,Air Compressor,Mazak-like,Native Digital,REST API,Unknown,Approved segment,None,Poor,48,Yellow,Resolve access/cyber + adapter
+A-00177,RRAD,Diesel Engine,Fanuc-like,Native Digital,Modbus TCP,Government usable,Isolated,None,Good,70,Yellow,Resolve access/cyber + adapter
+A-01169,RRAD,Transformer,Haas-like,Vendor Digital,Proprietary Gateway,OEM restricted,Approved segment,6-24 months,Good,72,Yellow,Resolve access/cyber + adapter
+A-01497,RRAD,Laser Cutter,Legacy OEM,Legacy Analog,Serial/PLC,Government usable,Isolated,None,Poor,38,Red,Retrofit/OEM engagement + data plan
+A-01415,SIAD,Overhead Crane,Haas-like,Legacy Analog,Serial/PLC,Government usable,Unknown,>24 months,Poor,56,Yellow,Resolve access/cyber + adapter
+A-00870,ANAD,CNC Machine,Siemens-like,Native Digital,REST API,Contract unclear,Needs review,None,Unknown,45,Yellow,Resolve access/cyber + adapter
+A-00742,ANAD,CNC Machine,Caterpillar-like,Legacy Analog,Serial/PLC,Government usable,Needs review,6-24 months,Good,70,Yellow,Resolve access/cyber + adapter
+A-00440,WVA,Overhead Crane,Caterpillar-like,Native Digital,OPC UA,OEM restricted,Needs review,>24 months,Poor,63,Yellow,Resolve access/cyber + adapter
+A-00632,WVA,Overhead Crane,Siemens-like,Vendor Digital,Controller API,Government usable,Needs review,None,Good,66,Yellow,Resolve access/cyber + adapter
+A-00931,SIAD,CNC Machine,Caterpillar-like,Legacy Analog,Serial/PLC,Unknown,Needs review,>24 months,Mixed,51,Yellow,Resolve access/cyber + adapter
+A-01265,RRAD,Diesel Engine,Caterpillar-like,Native Digital,OPC UA,Contract unclear,Unknown,6-24 months,Poor,57,Yellow,Resolve access/cyber + adapter
+A-00433,RRAD,CNC Machine,Generic Industrial,Legacy Analog,None,Contract unclear,Unknown,<6 months,Poor,34,Red,Retrofit/OEM engagement + data plan
+A-00910,ANAD,Laser Cutter,Mazak-like,Native Digital,Modbus TCP,Government usable,Unknown,>24 months,Unknown,70,Yellow,Resolve access/cyber + adapter
+A-00747,SIAD,Overhead Crane,Caterpillar-like,Vendor Digital,Controller API,Unknown,Approved segment,None,Poor,41,Red,Retrofit/OEM engagement + data plan
+A-00003,SIAD,Overhead Crane,Legacy OEM,Native Digital,Modbus TCP,Unknown,Isolated,6-24 months,Poor,52,Yellow,Resolve access/cyber + adapter
+A-00163,SIAD,Overhead Crane,Siemens-like,Legacy Analog,Retrofit Sensors,Contract unclear,Needs review,<6 months,Good,54,Yellow,Resolve access/cyber + adapter
+A-00116,WVA,Laser Cutter,Mazak-like,Vendor Digital,Proprietary Gateway,Unknown,Needs review,>24 months,Unknown,51,Yellow,Resolve access/cyber + adapter
+A-00846,ANAD,Paint/Blast Booth,Mazak-like,Legacy Analog,None,Contract unclear,Approved segment,None,Mixed,45,Yellow,Resolve access/cyber + adapter
+A-00946,ANAD,Test Stand,Haas-like,Legacy Analog,Serial/PLC,Government usable,Isolated,<6 months,Mixed,53,Yellow,Resolve access/cyber + adapter
+A-00809,RRAD,Air Compressor,Generic Industrial,Vendor Digital,Proprietary Gateway,Government usable,Approved segment,6-24 months,Poor,72,Yellow,Resolve access/cyber + adapter
+A-00547,SIAD,Diesel Engine,Generic Industrial,Vendor Digital,Proprietary Gateway,OEM restricted,Needs review,6-24 months,Unknown,47,Yellow,Resolve access/cyber + adapter
+A-00075,SIAD,Material Handler,Fanuc-like,Native Digital,Modbus TCP,Contract unclear,Approved segment,<6 months,Good,78,Green,Direct connector + pilot
+A-00213,RRAD,Overhead Crane,Legacy OEM,Vendor Digital,Controller API,Government usable,Approved segment,6-24 months,Mixed,79,Green,Direct connector + pilot
+A-00790,ANAD,Diesel Engine,Generic Industrial,Native Digital,MTConnect,Contract unclear,Needs review,6-24 months,Mixed,69,Yellow,Resolve access/cyber + adapter
+A-01012,WVA,Diesel Engine,Mazak-like,Native Digital,MTConnect,OEM restricted,Unknown,6-24 months,Poor,52,Yellow,Resolve access/cyber + adapter
+A-00978,ANAD,CNC Machine,Fanuc-like,Legacy Analog,Serial/PLC,Government usable,Unknown,<6 months,Poor,44,Red,Retrofit/OEM engagement + data plan
+A-00674,ANAD,Test Stand,Legacy OEM,Native Digital,OPC UA,OEM restricted,Isolated,>24 months,Unknown,57,Yellow,Resolve access/cyber + adapter
+A-00027,SIAD,Overhead Crane,Siemens-like,Vendor Digital,OEM Cloud API,OEM restricted,Needs review,None,Mixed,43,Red,Retrofit/OEM engagement + data plan
+A-01029,RRAD,Material Handler,Legacy OEM,Legacy Analog,None,Government usable,Isolated,6-24 months,Mixed,59,Yellow,Resolve access/cyber + adapter
+A-00510,ANAD,CNC Machine,Siemens-like,Vendor Digital,OEM Cloud API,OEM restricted,Approved segment,None,Unknown,40,Red,Retrofit/OEM engagement + data plan
+A-00281,RRAD,Hydraulic Press,Caterpillar-like,Vendor Digital,OEM Cloud API,OEM restricted,Approved segment,<6 months,Poor,51,Yellow,Resolve access/cyber + adapter
+A-01588,WVA,Test Stand,Siemens-like,Vendor Digital,OEM Cloud API,Contract unclear,Needs review,6-24 months,Mixed,62,Yellow,Resolve access/cyber + adapter
+A-00046,ANAD,Overhead Crane,Haas-like,Native Digital,Modbus TCP,OEM restricted,Needs review,<6 months,Mixed,58,Yellow,Resolve access/cyber + adapter
+A-01576,WVA,Air Compressor,Caterpillar-like,Native Digital,REST API,Unknown,Needs review,None,Poor,41,Red,Retrofit/OEM engagement + data plan
+A-00343,SIAD,Air Compressor,Legacy OEM,Native Digital,OPC UA,Government usable,Approved segment,6-24 months,Mixed,86,Green,Direct connector + pilot
+A-01395,SIAD,Material Handler,Generic Industrial,Vendor Digital,OEM Cloud API,OEM restricted,Needs review,<6 months,Unknown,41,Red,Retrofit/OEM engagement + data plan
+A-00636,WVA,Air Compressor,Caterpillar-like,Legacy Analog,Retrofit Sensors,Unknown,Needs review,>24 months,Unknown,41,Red,Retrofit/OEM engagement + data plan
+A-00411,SIAD,Material Handler,Mazak-like,Native Digital,MTConnect,Unknown,Isolated,<6 months,Good,61,Yellow,Resolve access/cyber + adapter
+A-00952,WVA,Transformer,Haas-like,Native Digital,REST API,Government usable,Needs review,6-24 months,Mixed,79,Green,Direct connector + pilot
+A-01189,RRAD,Overhead Crane,Haas-like,Legacy Analog,Serial/PLC,Contract unclear,Unknown,<6 months,Mixed,41,Red,Retrofit/OEM engagement + data plan
+A-00442,ANAD,Material Handler,Fanuc-like,Legacy Analog,None,Government usable,Unknown,6-24 months,Good,65,Yellow,Resolve access/cyber + adapter
+A-00958,ANAD,CNC Machine,Fanuc-like,Vendor Digital,Proprietary Gateway,OEM restricted,Isolated,None,Mixed,40,Red,Retrofit/OEM engagement + data plan
+A-00843,SIAD,CNC Machine,Haas-like,Vendor Digital,OEM Cloud API,Government usable,Needs review,None,Good,66,Yellow,Resolve access/cyber + adapter
+A-00113,RRAD,Diesel Engine,Legacy OEM,Legacy Analog,Retrofit Sensors,Government usable,Needs review,>24 months,Poor,61,Yellow,Resolve access/cyber + adapter
+A-00900,WVA,CNC Machine,Caterpillar-like,Legacy Analog,Retrofit Sensors,Contract unclear,Approved segment,<6 months,Poor,46,Yellow,Resolve access/cyber + adapter
+A-00700,WVA,CNC Machine,Caterpillar-like,Vendor Digital,Proprietary Gateway,Government usable,Unknown,6-24 months,Mixed,67,Yellow,Resolve access/cyber + adapter
+A-01259,SIAD,CNC Machine,Caterpillar-like,Legacy Analog,Retrofit Sensors,Contract unclear,Needs review,None,Poor,31,Red,Retrofit/OEM engagement + data plan
+A-01384,WVA,Transformer,Siemens-like,Legacy Analog,Retrofit Sensors,Contract unclear,Isolated,6-24 months,Poor,42,Red,Retrofit/OEM engagement + data plan
+A-01292,WVA,Diesel Engine,Siemens-like,Native Digital,Modbus TCP,OEM restricted,Approved segment,>24 months,Mixed,77,Green,Direct connector + pilot
+A-00299,SIAD,Test Stand,Generic Industrial,Native Digital,REST API,Unknown,Isolated,>24 months,Poor,58,Yellow,Resolve access/cyber + adapter
+A-01214,ANAD,Overhead Crane,Generic Industrial,Native Digital,MTConnect,Government usable,Unknown,>24 months,Mixed,80,Green,Direct connector + pilot
+A-00212,WVA,CNC Machine,Fanuc-like,Legacy Analog,Retrofit Sensors,Contract unclear,Needs review,>24 months,Mixed,58,Yellow,Resolve access/cyber + adapter
+A-00850,ANAD,Material Handler,Legacy OEM,Native Digital,REST API,Government usable,Isolated,<6 months,Mixed,70,Yellow,Resolve access/cyber + adapter
+A-00880,WVA,Hydraulic Press,Legacy OEM,Native Digital,REST API,Contract unclear,Needs review,<6 months,Good,71,Yellow,Resolve access/cyber + adapter
+A-00460,WVA,Test Stand,Caterpillar-like,Vendor Digital,Proprietary Gateway,OEM restricted,Unknown,<6 months,Good,54,Yellow,Resolve access/cyber + adapter
+A-00294,ANAD,Hydraulic Press,Mazak-like,Vendor Digital,Controller API,Contract unclear,Approved segment,6-24 months,Mixed,69,Yellow,Resolve access/cyber + adapter
+A-01557,RRAD,Air Compressor,Mazak-like,Legacy Analog,Retrofit Sensors,Unknown,Needs review,>24 months,Unknown,41,Red,Retrofit/OEM engagement + data plan
+A-00160,WVA,Test Stand,Generic Industrial,Native Digital,Modbus TCP,Unknown,Isolated,<6 months,Unknown,43,Red,Retrofit/OEM engagement + data plan
+A-00276,WVA,Diesel Engine,Mazak-like,Vendor Digital,Proprietary Gateway,Unknown,Isolated,6-24 months,Poor,45,Yellow,Resolve access/cyber + adapter
+A-00855,SIAD,Material Handler,Mazak-like,Vendor Digital,Proprietary Gateway,Government usable,Approved segment,6-24 months,Poor,72,Yellow,Resolve access/cyber + adapter
+A-01396,WVA,Hydraulic Press,Caterpillar-like,Vendor Digital,Controller API,Government usable,Isolated,6-24 months,Mixed,69,Yellow,Resolve access/cyber + adapter
+A-00505,RRAD,CNC Machine,Siemens-like,Vendor Digital,Proprietary Gateway,Government usable,Needs review,>24 months,Unknown,68,Yellow,Resolve access/cyber + adapter
+A-01509,RRAD,Laser Cutter,Legacy OEM,Vendor Digital,OEM Cloud API,Contract unclear,Unknown,>24 months,Good,71,Yellow,Resolve access/cyber + adapter
+A-01355,SIAD,Diesel Engine,Legacy OEM,Legacy Analog,None,OEM restricted,Needs review,None,Poor,26,Red,Retrofit/OEM engagement + data plan
+A-01072,WVA,Paint/Blast Booth,Siemens-like,Vendor Digital,Proprietary Gateway,OEM restricted,Needs review,<6 months,Mixed,51,Yellow,Resolve access/cyber + adapter
+A-00207,SIAD,Hydraulic Press,Fanuc-like,Legacy Analog,Retrofit Sensors,Contract unclear,Approved segment,<6 months,Mixed,53,Yellow,Resolve access/cyber + adapter
+A-00318,ANAD,Air Compressor,Mazak-like,Vendor Digital,Proprietary Gateway,Unknown,Unknown,6-24 months,Good,58,Yellow,Resolve access/cyber + adapter
+A-00829,RRAD,Transformer,Mazak-like,Vendor Digital,Controller API,Contract unclear,Unknown,None,Poor,36,Red,Retrofit/OEM engagement + data plan
+A-00331,SIAD,Hydraulic Press,Haas-like,Native Digital,REST API,OEM restricted,Unknown,>24 months,Unknown,55,Yellow,Resolve access/cyber + adapter
+A-01344,WVA,Overhead Crane,Legacy OEM,Legacy Analog,Serial/PLC,Unknown,Unknown,6-24 months,Good,48,Yellow,Resolve access/cyber + adapter
+A-01394,ANAD,Hydraulic Press,Legacy OEM,Native Digital,Modbus TCP,OEM restricted,Approved segment,None,Poor,50,Yellow,Resolve access/cyber + adapter
+A-00008,WVA,Test Stand,Haas-like,Legacy Analog,Serial/PLC,OEM restricted,Needs review,<6 months,Unknown,31,Red,Retrofit/OEM engagement + data plan
+A-01049,RRAD,Laser Cutter,Generic Industrial,Vendor Digital,Controller API,Unknown,Needs review,<6 months,Good,57,Yellow,Resolve access/cyber + adapter
+A-00490,ANAD,Transformer,Caterpillar-like,Vendor Digital,Proprietary Gateway,Government usable,Unknown,<6 months,Good,69,Yellow,Resolve access/cyber + adapter
+A-00647,SIAD,Transformer,Fanuc-like,Native Digital,REST API,Contract unclear,Needs review,None,Good,63,Yellow,Resolve access/cyber + adapter
+A-01222,ANAD,Test Stand,Fanuc-like,Vendor Digital,Controller API,Government usable,Isolated,None,Mixed,55,Yellow,Resolve access/cyber + adapter
+A-01351,SIAD,Hydraulic Press,Haas-like,Vendor Digital,Proprietary Gateway,Government usable,Unknown,None,Poor,46,Yellow,Resolve access/cyber + adapter
+A-00939,SIAD,Air Compressor,Haas-like,Legacy Analog,None,Unknown,Isolated,None,Good,36,Red,Retrofit/OEM engagement + data plan
+A-01022,ANAD,CNC Machine,Legacy OEM,Vendor Digital,Controller API,Unknown,Unknown,None,Mixed,36,Red,Retrofit/OEM engagement + data plan
+A-00943,SIAD,Diesel Engine,Siemens-like,Vendor Digital,Controller API,OEM restricted,Unknown,>24 months,Mixed,58,Yellow,Resolve access/cyber + adapter
+A-00858,ANAD,Test Stand,Siemens-like,Native Digital,Modbus TCP,Contract unclear,Isolated,6-24 months,Poor,59,Yellow,Resolve access/cyber + adapter
+A-01239,SIAD,Diesel Engine,Legacy OEM,Vendor Digital,Controller API,Unknown,Unknown,None,Good,44,Red,Retrofit/OEM engagement + data plan
+A-01377,RRAD,Air Compressor,Haas-like,Legacy Analog,None,Contract unclear,Approved segment,None,Poor,38,Red,Retrofit/OEM engagement + data plan
+A-00717,RRAD,Diesel Engine,Siemens-like,Vendor Digital,Controller API,Unknown,Needs review,<6 months,Mixed,49,Yellow,Resolve access/cyber + adapter
+A-00354,ANAD,Material Handler,Legacy OEM,Vendor Digital,Controller API,OEM restricted,Needs review,<6 months,Unknown,41,Red,Retrofit/OEM engagement + data plan
+A-00211,SIAD,Air Compressor,Caterpillar-like,Native Digital,OPC UA,Unknown,Unknown,6-24 months,Good,65,Yellow,Resolve access/cyber + adapter
+A-00530,ANAD,Diesel Engine,Mazak-like,Native Digital,Modbus TCP,Unknown,Isolated,>24 months,Unknown,55,Yellow,Resolve access/cyber + adapter
+A-00711,SIAD,Air Compressor,Mazak-like,Vendor Digital,Controller API,OEM restricted,Approved segment,>24 months,Poor,63,Yellow,Resolve access/cyber + adapter
+A-01126,ANAD,Test Stand,Generic Industrial,Native Digital,REST API,OEM restricted,Approved segment,None,Mixed,57,Yellow,Resolve access/cyber + adapter
+A-00285,RRAD,Hydraulic Press,Fanuc-like,Vendor Digital,OEM Cloud API,Unknown,Isolated,<6 months,Unknown,36,Red,Retrofit/OEM engagement + data plan
+A-00344,WVA,Laser Cutter,Generic Industrial,Legacy Analog,Retrofit Sensors,Government usable,Unknown,<6 months,Good,59,Yellow,Resolve access/cyber + adapter
+A-01463,SIAD,Air Compressor,Legacy OEM,Vendor Digital,OEM Cloud API,Unknown,Approved segment,>24 months,Good,76,Green,Direct connector + pilot
+A-00272,WVA,Hydraulic Press,Fanuc-like,Vendor Digital,Controller API,OEM restricted,Unknown,None,Poor,31,Red,Retrofit/OEM engagement + data plan
+A-01178,ANAD,Laser Cutter,Fanuc-like,Vendor Digital,OEM Cloud API,Unknown,Isolated,>24 months,Good,66,Yellow,Resolve access/cyber + adapter
+A-00761,RRAD,Air Compressor,Fanuc-like,Native Digital,OPC UA,Contract unclear,Unknown,>24 months,Poor,63,Yellow,Resolve access/cyber + adapter
+A-01064,WVA,Test Stand,Siemens-like,Vendor Digital,Controller API,Government usable,Unknown,<6 months,Good,69,Yellow,Resolve access/cyber + adapter
+A-00039,SIAD,CNC Machine,Fanuc-like,Vendor Digital,Controller API,Government usable,Approved segment,6-24 months,Good,87,Green,Direct connector + pilot
+A-00669,RRAD,CNC Machine,Fanuc-like,Native Digital,MTConnect,OEM restricted,Isolated,None,Poor,40,Red,Retrofit/OEM engagement + data plan
+A-00561,RRAD,CNC Machine,Caterpillar-like,Vendor Digital,OEM Cloud API,Unknown,Approved segment,<6 months,Mixed,56,Yellow,Resolve access/cyber + adapter
+A-01427,SIAD,CNC Machine,Siemens-like,Vendor Digital,Proprietary Gateway,Contract unclear,Approved segment,<6 months,Mixed,63,Yellow,Resolve access/cyber + adapter
+A-01453,RRAD,Hydraulic Press,Caterpillar-like,Native Digital,REST API,OEM restricted,Needs review,>24 months,Good,78,Green,Direct connector + pilot
+A-00898,ANAD,Overhead Crane,Generic Industrial,Legacy Analog,Serial/PLC,Unknown,Approved segment,>24 months,Poor,51,Yellow,Resolve access/cyber + adapter
+A-00994,ANAD,Material Handler,Generic Industrial,Vendor Digital,Controller API,OEM restricted,Unknown,<6 months,Good,54,Yellow,Resolve access/cyber + adapter
+A-00989,RRAD,CNC Machine,Caterpillar-like,Native Digital,Modbus TCP,OEM restricted,Approved segment,None,Unknown,47,Yellow,Resolve access/cyber + adapter
+A-00251,SIAD,Overhead Crane,Siemens-like,Legacy Analog,Serial/PLC,Government usable,Needs review,6-24 months,Mixed,62,Yellow,Resolve access/cyber + adapter
+A-00966,ANAD,Paint/Blast Booth,Caterpillar-like,Native Digital,MTConnect,Contract unclear,Approved segment,6-24 months,Mixed,76,Green,Direct connector + pilot
+A-01233,RRAD,Diesel Engine,Generic Industrial,Vendor Digital,OEM Cloud API,Government usable,Unknown,6-24 months,Good,75,Green,Direct connector + pilot
+A-01378,ANAD,Diesel Engine,Siemens-like,Native Digital,OPC UA,OEM restricted,Isolated,<6 months,Mixed,55,Yellow,Resolve access/cyber + adapter
+A-01279,SIAD,Diesel Engine,Generic Industrial,Vendor Digital,Controller API,Contract unclear,Unknown,6-24 months,Mixed,57,Yellow,Resolve access/cyber + adapter
+A-00513,RRAD,Diesel Engine,Caterpillar-like,Vendor Digital,Proprietary Gateway,OEM restricted,Needs review,None,Poor,36,Red,Retrofit/OEM engagement + data plan
+A-01486,ANAD,Laser Cutter,Caterpillar-like,Legacy Analog,None,Unknown,Needs review,None,Mixed,31,Red,Retrofit/OEM engagement + data plan
+A-00830,ANAD,Diesel Engine,Legacy OEM,Vendor Digital,OEM Cloud API,OEM restricted,Unknown,>24 months,Good,66,Yellow,Resolve access/cyber + adapter
+A-00349,RRAD,Air Compressor,Fanuc-like,Vendor Digital,Controller API,OEM restricted,Approved segment,>24 months,Mixed,70,Yellow,Resolve access/cyber + adapter
+A-00093,RRAD,Overhead Crane,Legacy OEM,Vendor Digital,OEM Cloud API,Unknown,Approved segment,<6 months,Unknown,46,Yellow,Resolve access/cyber + adapter
+A-00521,RRAD,Material Handler,Fanuc-like,Vendor Digital,Controller API,Unknown,Needs review,<6 months,Poor,42,Red,Retrofit/OEM engagement + data plan
+A-01496,WVA,Transformer,Haas-like,Vendor Digital,Controller API,Government usable,Needs review,<6 months,Good,74,Yellow,Resolve access/cyber + adapter
+A-00849,RRAD,Overhead Crane,Fanuc-like,Legacy Analog,Retrofit Sensors,Government usable,Unknown,None,Poor,36,Red,Retrofit/OEM engagement + data plan
+A-00500,WVA,Laser Cutter,Caterpillar-like,Native Digital,Modbus TCP,OEM restricted,Unknown,>24 months,Mixed,65,Yellow,Resolve access/cyber + adapter
+A-01404,WVA,Diesel Engine,Mazak-like,Legacy Analog,None,Contract unclear,Isolated,>24 months,Mixed,55,Yellow,Resolve access/cyber + adapter
+A-00329,RRAD,Material Handler,Mazak-like,Vendor Digital,Proprietary Gateway,Contract unclear,Unknown,<6 months,Good,59,Yellow,Resolve access/cyber + adapter
+A-00658,ANAD,Test Stand,Caterpillar-like,Native Digital,MTConnect,Unknown,Unknown,>24 months,Unknown,53,Yellow,Resolve access/cyber + adapter
+A-01316,WVA,Transformer,Haas-like,Native Digital,MTConnect,Contract unclear,Isolated,>24 months,Good,80,Green,Direct connector + pilot
+A-01431,SIAD,Hydraulic Press,Legacy OEM,Legacy Analog,None,OEM restricted,Approved segment,None,Mixed,40,Red,Retrofit/OEM engagement + data plan
+A-00797,RRAD,Paint/Blast Booth,Fanuc-like,Native Digital,REST API,Government usable,Unknown,<6 months,Poor,61,Yellow,Resolve access/cyber + adapter
+A-01198,ANAD,CNC Machine,Caterpillar-like,Vendor Digital,Controller API,Contract unclear,Approved segment,>24 months,Unknown,65,Yellow,Resolve access/cyber + adapter
+A-00909,RRAD,Paint/Blast Booth,Legacy OEM,Vendor Digital,Proprietary Gateway,Government usable,Approved segment,6-24 months,Poor,72,Yellow,Resolve access/cyber + adapter
+A-00166,ANAD,Test Stand,Generic Industrial,Vendor Digital,OEM Cloud API,OEM restricted,Unknown,None,Good,46,Yellow,Resolve access/cyber + adapter
+A-01582,ANAD,Diesel Engine,Haas-like,Vendor Digital,Proprietary Gateway,Government usable,Isolated,<6 months,Mixed,63,Yellow,Resolve access/cyber + adapter
+A-00426,ANAD,CNC Machine,Haas-like,Native Digital,REST API,OEM restricted,Needs review,None,Good,58,Yellow,Resolve access/cyber + adapter
+A-00571,SIAD,Hydraulic Press,Legacy OEM,Vendor Digital,Proprietary Gateway,Contract unclear,Isolated,>24 months,Unknown,55,Yellow,Resolve access/cyber + adapter
+A-00224,WVA,Diesel Engine,Mazak-like,Native Digital,OPC UA,Government usable,Isolated,None,Good,70,Yellow,Resolve access/cyber + adapter
+A-00528,WVA,Paint/Blast Booth,Legacy OEM,Legacy Analog,Retrofit Sensors,Government usable,Approved segment,None,Unknown,45,Yellow,Resolve access/cyber + adapter
+A-01309,RRAD,Material Handler,Fanuc-like,Vendor Digital,OEM Cloud API,Contract unclear,Needs review,6-24 months,Unknown,52,Yellow,Resolve access/cyber + adapter
+A-00104,WVA,Air Compressor,Fanuc-like,Legacy Analog,Retrofit Sensors,Government usable,Needs review,None,Good,56,Yellow,Resolve access/cyber + adapter
+A-01409,RRAD,Overhead Crane,Fanuc-like,Legacy Analog,Serial/PLC,Unknown,Approved segment,>24 months,Poor,51,Yellow,Resolve access/cyber + adapter
+A-00874,ANAD,Paint/Blast Booth,Legacy OEM,Legacy Analog,Retrofit Sensors,Government usable,Isolated,None,Good,53,Yellow,Resolve access/cyber + adapter
+A-01546,ANAD,Transformer,Legacy OEM,Legacy Analog,Retrofit Sensors,Contract unclear,Isolated,6-24 months,Unknown,39,Red,Retrofit/OEM engagement + data plan
+A-00996,WVA,Material Handler,Caterpillar-like,Native Digital,REST API,OEM restricted,Unknown,<6 months,Unknown,43,Red,Retrofit/OEM engagement + data plan
+A-00291,SIAD,Laser Cutter,Caterpillar-like,Native Digital,Modbus TCP,Government usable,Needs review,6-24 months,Poor,72,Yellow,Resolve access/cyber + adapter
+A-00640,WVA,Transformer,Mazak-like,Legacy Analog,None,Contract unclear,Isolated,>24 months,Mixed,55,Yellow,Resolve access/cyber + adapter
+A-00538,ANAD,Air Compressor,Fanuc-like,Legacy Analog,Serial/PLC,Government usable,Approved segment,6-24 months,Poor,62,Yellow,Resolve access/cyber + adapter
+A-00296,WVA,CNC Machine,Generic Industrial,Native Digital,Modbus TCP,Government usable,Needs review,6-24 months,Unknown,69,Yellow,Resolve access/cyber + adapter
+A-01269,RRAD,Diesel Engine,Mazak-like,Native Digital,REST API,Contract unclear,Needs review,<6 months,Good,71,Yellow,Resolve access/cyber + adapter
+A-01185,RRAD,CNC Machine,Haas-like,Native Digital,Modbus TCP,OEM restricted,Needs review,<6 months,Good,66,Yellow,Resolve access/cyber + adapter
+A-01154,ANAD,Hydraulic Press,Mazak-like,Legacy Analog,Retrofit Sensors,OEM restricted,Unknown,>24 months,Good,56,Yellow,Resolve access/cyber + adapter
+A-01199,SIAD,Laser Cutter,Mazak-like,Legacy Analog,Serial/PLC,Government usable,Approved segment,6-24 months,Good,77,Green,Direct connector + pilot
+A-01477,RRAD,Diesel Engine,Siemens-like,Native Digital,MTConnect,Unknown,Isolated,None,Good,53,Yellow,Resolve access/cyber + adapter
+A-00325,RRAD,Hydraulic Press,Siemens-like,Legacy Analog,Retrofit Sensors,Government usable,Approved segment,>24 months,Unknown,65,Yellow,Resolve access/cyber + adapter
+A-01083,SIAD,Material Handler,Legacy OEM,Native Digital,Modbus TCP,OEM restricted,Isolated,6-24 months,Good,69,Yellow,Resolve access/cyber + adapter
+A-00729,RRAD,Laser Cutter,Fanuc-like,Legacy Analog,None,Unknown,Unknown,>24 months,Good,54,Yellow,Resolve access/cyber + adapter
+A-00143,SIAD,Hydraulic Press,Legacy OEM,Legacy Analog,Retrofit Sensors,Unknown,Approved segment,<6 months,Mixed,46,Yellow,Resolve access/cyber + adapter
+A-01541,RRAD,Overhead Crane,Generic Industrial,Native Digital,Modbus TCP,Contract unclear,Isolated,6-24 months,Poor,59,Yellow,Resolve access/cyber + adapter
+A-01088,WVA,Hydraulic Press,Caterpillar-like,Native Digital,Modbus TCP,Contract unclear,Unknown,None,Unknown,40,Red,Retrofit/OEM engagement + data plan
+A-01328,WVA,Diesel Engine,Generic Industrial,Vendor Digital,Proprietary Gateway,Unknown,Needs review,>24 months,Good,69,Yellow,Resolve access/cyber + adapter
+A-00608,WVA,Material Handler,Mazak-like,Vendor Digital,OEM Cloud API,Government usable,Approved segment,None,Mixed,65,Yellow,Resolve access/cyber + adapter

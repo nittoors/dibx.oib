@@ -1,0 +1,1201 @@
+part_id,fsc,part_name,source_count,lead_time_days,on_hand,projected_60d_demand,criticality,supply_risk,recommended_action
+P-00001,5330,Hydraulic Pump,1,46,34,16,Critical,31.7,Monitor
+P-00002,2910,Valve Body,2,39,25,15,Medium,7.4,Monitor
+P-00003,5330,Power Supply,3,33,43,18,High,0,Monitor
+P-00004,5340,Drive Coupling,2,49,55,15,Low,0,Monitor
+P-00005,5935,Filter Element,3,37,1,1,Medium,23.5,Monitor
+P-00006,3120,Cooling Fan,4,9,3,5,Low,3.5,Monitor
+P-00007,2930,Cooling Fan,4,47,0,10,High,71.9,Expedite / alternate source
+P-00008,2920,Filter Element,2,19,3,16,High,54.2,Increase reorder point
+P-00009,3120,Power Supply,2,19,26,30,Medium,21.7,Monitor
+P-00010,3020,Bearing Assembly,2,41,26,17,Critical,38.2,Monitor
+P-00011,5340,Filter Element,2,7,24,14,Medium,0,Monitor
+P-00012,5340,Starter Assembly,3,29,8,10,Critical,46.5,Monitor
+P-00013,2920,Starter Assembly,2,31,0,21,High,85.1,Expedite / alternate source
+P-00014,4720,Hydraulic Pump,2,17,14,17,Critical,56.1,Increase reorder point
+P-00015,5330,Power Supply,1,65,7,18,Medium,88.7,Expedite / alternate source
+P-00016,2920,Sensor Pack,1,44,0,33,High,100,Expedite / alternate source
+P-00017,2910,Hose Assembly,2,17,8,26,High,78.1,Expedite / alternate source
+P-00018,5905,Starter Assembly,4,16,13,24,Critical,67.9,Increase reorder point
+P-00019,5905,Cooling Fan,2,31,43,30,High,12.6,Monitor
+P-00020,5905,Starter Assembly,3,41,36,11,Critical,0,Monitor
+P-00021,3040,Control Module,4,30,1,15,High,57.4,Increase reorder point
+P-00022,3020,Sensor Pack,4,19,27,19,High,11.5,Monitor
+P-00023,4720,Control Module,1,46,18,20,Medium,66.5,Increase reorder point
+P-00024,3120,Control Module,2,12,25,14,High,0,Monitor
+P-00025,2930,Sensor Pack,4,32,30,9,Medium,0,Monitor
+P-00026,5340,Bearing Assembly,3,36,23,11,Critical,27.6,Monitor
+P-00027,2930,Control Module,2,16,28,16,Critical,18.4,Monitor
+P-00028,3110,Starter Assembly,1,37,8,21,High,95.3,Expedite / alternate source
+P-00029,2930,Seal Kit,2,7,27,22,Low,0,Monitor
+P-00030,3040,Cooling Fan,4,32,12,13,High,25.6,Monitor
+P-00031,5330,Power Supply,2,33,33,31,Low,18.4,Monitor
+P-00032,3020,Bearing Assembly,1,16,28,14,High,23.5,Monitor
+P-00033,5935,Seal Kit,1,73,36,1,High,20.0,Monitor
+P-00034,4720,Valve Body,1,65,34,10,Medium,16.2,Monitor
+P-00035,5330,Power Supply,2,29,31,11,Critical,0,Monitor
+P-00036,2910,Bearing Assembly,2,76,23,23,Medium,52.3,Increase reorder point
+P-00037,3020,Hydraulic Pump,4,24,30,25,High,9.4,Monitor
+P-00038,5905,Hose Assembly,3,21,7,21,Critical,70.8,Expedite / alternate source
+P-00039,2990,Hydraulic Pump,4,29,15,16,Medium,31.5,Monitor
+P-00040,5330,Hose Assembly,4,19,23,20,High,20.4,Monitor
+P-00041,5935,Cooling Fan,1,44,30,23,Medium,44.2,Monitor
+P-00042,5340,Drive Coupling,3,55,47,16,Low,0,Monitor
+P-00043,3020,Valve Body,3,26,25,4,Critical,12.1,Monitor
+P-00044,2815,Filter Element,2,30,30,21,Medium,0,Monitor
+P-00045,4720,Power Supply,1,73,11,34,Critical,100,Expedite / alternate source
+P-00046,2815,Seal Kit,3,14,54,23,High,0,Monitor
+P-00047,2990,Seal Kit,3,52,43,22,High,0,Monitor
+P-00048,3110,Filter Element,2,32,13,23,Medium,48.4,Monitor
+P-00049,5935,Hydraulic Pump,4,26,45,1,High,0,Monitor
+P-00050,2815,Hydraulic Pump,4,28,43,20,High,0,Monitor
+P-00051,3020,Power Supply,3,7,40,32,Medium,5.6,Monitor
+P-00052,2815,Power Supply,2,7,20,9,High,0,Monitor
+P-00053,2930,Filter Element,2,59,13,8,Medium,21.2,Monitor
+P-00054,2990,Starter Assembly,2,18,32,16,Medium,0,Monitor
+P-00055,3040,Hose Assembly,3,38,41,3,Medium,0,Monitor
+P-00056,2930,Drive Coupling,3,20,15,5,High,11.3,Monitor
+P-00057,5905,Power Supply,1,62,33,12,High,28.5,Monitor
+P-00058,5905,Control Module,3,31,33,24,High,16.2,Monitor
+P-00059,5935,Hydraulic Pump,2,43,11,16,Medium,34.9,Monitor
+P-00060,2920,Hose Assembly,3,51,5,29,Medium,79.7,Expedite / alternate source
+P-00061,5905,Power Supply,3,40,27,23,High,24.0,Monitor
+P-00062,5330,Starter Assembly,4,7,3,27,High,67.7,Increase reorder point
+P-00063,3120,Drive Coupling,4,7,14,17,Medium,9.4,Monitor
+P-00064,2930,Hose Assembly,2,32,6,18,High,70.6,Expedite / alternate source
+P-00065,2930,Cooling Fan,2,34,20,23,Medium,39.7,Monitor
+P-00066,2930,Hydraulic Pump,2,22,38,33,Medium,14.9,Monitor
+P-00067,5905,Valve Body,4,58,27,8,Critical,15.9,Monitor
+P-00068,2990,Drive Coupling,4,43,19,17,High,27.2,Monitor
+P-00069,2930,Sensor Pack,2,26,25,11,Medium,1.8,Monitor
+P-00070,2920,Sensor Pack,4,47,21,28,High,53.3,Increase reorder point
+P-00071,2910,Hose Assembly,2,35,16,17,Medium,36.6,Monitor
+P-00072,3020,Drive Coupling,2,43,19,23,High,42.7,Monitor
+P-00073,2815,Filter Element,2,61,39,20,Medium,0.3,Monitor
+P-00074,5935,Bearing Assembly,3,31,40,34,Medium,24.6,Monitor
+P-00075,2990,Filter Element,1,29,8,30,Critical,100,Expedite / alternate source
+P-00076,2910,Valve Body,1,40,44,26,High,26.3,Monitor
+P-00077,2910,Valve Body,3,25,19,20,High,18.5,Monitor
+P-00078,2910,Valve Body,3,21,36,10,Medium,0,Monitor
+P-00079,5935,Drive Coupling,4,58,47,6,High,0,Monitor
+P-00080,3040,Seal Kit,3,40,21,22,High,32.9,Monitor
+P-00081,3040,Power Supply,3,25,34,24,Medium,0,Monitor
+P-00082,5905,Sensor Pack,3,23,12,10,High,26.5,Monitor
+P-00083,3020,Cooling Fan,2,45,8,17,Critical,75.7,Expedite / alternate source
+P-00084,2910,Control Module,3,7,25,13,High,0,Monitor
+P-00085,5905,Bearing Assembly,1,51,46,13,High,11.4,Monitor
+P-00086,3120,Filter Element,2,29,10,15,Medium,28.9,Monitor
+P-00087,2910,Power Supply,2,42,36,18,Medium,0,Monitor
+P-00088,3110,Cooling Fan,3,46,21,17,Medium,28.1,Monitor
+P-00089,2930,Filter Element,1,65,25,14,High,78.9,Expedite / alternate source
+P-00090,5340,Seal Kit,3,30,17,25,High,52.6,Increase reorder point
+P-00091,3020,Seal Kit,4,29,53,20,High,0,Monitor
+P-00092,4720,Hose Assembly,3,44,46,21,Medium,0,Monitor
+P-00093,3120,Drive Coupling,3,32,13,8,Medium,13.4,Monitor
+P-00094,5935,Valve Body,4,23,43,6,Critical,0,Monitor
+P-00095,2930,Hose Assembly,2,25,16,19,Low,23.2,Monitor
+P-00096,3110,Power Supply,3,27,34,14,Medium,0,Monitor
+P-00097,5330,Control Module,4,34,3,6,Medium,17.5,Monitor
+P-00098,3120,Control Module,3,51,8,22,Medium,68.9,Increase reorder point
+P-00099,5340,Valve Body,4,15,30,14,Medium,0,Monitor
+P-00100,3120,Sensor Pack,2,7,5,16,Low,17.2,Monitor
+P-00101,2930,Hose Assembly,4,7,7,31,Medium,64.6,Increase reorder point
+P-00102,2815,Seal Kit,2,11,0,22,High,82.1,Expedite / alternate source
+P-00103,3110,Hydraulic Pump,2,19,31,22,Medium,1.5,Monitor
+P-00104,3110,Cooling Fan,3,10,38,21,Medium,0,Monitor
+P-00105,2910,Drive Coupling,4,30,23,24,Low,12.2,Monitor
+P-00106,3120,Filter Element,3,14,24,24,Medium,17.7,Monitor
+P-00107,2990,Sensor Pack,4,26,24,6,High,0,Monitor
+P-00108,2990,Starter Assembly,1,39,29,20,Critical,56.4,Increase reorder point
+P-00109,5330,Seal Kit,2,26,6,15,Critical,79.1,Expedite / alternate source
+P-00110,2930,Sensor Pack,3,7,46,1,Critical,0,Monitor
+P-00111,2990,Drive Coupling,2,32,12,32,High,79.8,Expedite / alternate source
+P-00112,4720,Hose Assembly,2,40,38,11,High,0,Monitor
+P-00113,3110,Filter Element,4,40,22,4,Medium,1.0,Monitor
+P-00114,3020,Power Supply,2,41,16,33,High,76.9,Expedite / alternate source
+P-00115,2920,Sensor Pack,4,55,51,15,High,0,Monitor
+P-00116,2910,Starter Assembly,4,37,24,34,Low,27.0,Monitor
+P-00117,5905,Cooling Fan,2,22,3,28,Critical,84.5,Expedite / alternate source
+P-00118,3040,Filter Element,3,42,12,5,Medium,12.9,Monitor
+P-00119,5330,Cooling Fan,4,29,8,28,Critical,96.5,Expedite / alternate source
+P-00120,3110,Seal Kit,3,33,21,20,Medium,17.6,Monitor
+P-00121,2920,Control Module,3,7,13,19,Critical,49.9,Monitor
+P-00122,4720,Hose Assembly,2,36,19,11,Medium,11.7,Monitor
+P-00123,2815,Sensor Pack,4,26,16,10,High,21.7,Monitor
+P-00124,5330,Drive Coupling,3,18,27,35,Low,27.4,Monitor
+P-00125,3040,Valve Body,2,23,46,34,Medium,0,Monitor
+P-00126,2815,Valve Body,4,36,0,30,High,96.8,Expedite / alternate source
+P-00127,2990,Control Module,3,18,41,8,High,0,Monitor
+P-00128,5330,Hose Assembly,4,9,0,13,Medium,36.1,Monitor
+P-00129,4720,Filter Element,3,39,30,17,Medium,0,Monitor
+P-00130,3120,Filter Element,3,52,9,17,High,79.1,Expedite / alternate source
+P-00131,5905,Cooling Fan,3,26,30,22,Critical,25.7,Monitor
+P-00132,5935,Hose Assembly,3,66,19,20,High,49.3,Monitor
+P-00133,2815,Cooling Fan,3,9,30,12,High,0,Monitor
+P-00134,3020,Hydraulic Pump,3,10,27,25,High,16.6,Monitor
+P-00135,5330,Hydraulic Pump,3,8,29,15,Low,0,Monitor
+P-00136,2815,Cooling Fan,4,37,31,9,Medium,0,Monitor
+P-00137,5340,Power Supply,4,9,36,23,Low,0,Monitor
+P-00138,3110,Valve Body,2,33,22,11,Critical,30.2,Monitor
+P-00139,5935,Filter Element,1,41,6,26,Medium,100,Expedite / alternate source
+P-00140,2930,Hydraulic Pump,4,32,18,21,Critical,65.3,Increase reorder point
+P-00141,2815,Filter Element,2,42,37,31,Medium,23.6,Monitor
+P-00142,2930,Control Module,2,48,49,35,Medium,3.9,Monitor
+P-00143,2920,Starter Assembly,2,39,43,19,High,0,Monitor
+P-00144,2930,Valve Body,2,32,28,17,High,1.6,Monitor
+P-00145,3110,Sensor Pack,3,23,23,1,Low,0,Monitor
+P-00146,5905,Hose Assembly,3,7,34,27,Medium,0,Monitor
+P-00147,5330,Hydraulic Pump,2,34,20,28,Low,41.6,Monitor
+P-00148,2990,Valve Body,3,18,20,29,Medium,37.4,Monitor
+P-00149,4720,Drive Coupling,1,39,0,9,High,76.1,Expedite / alternate source
+P-00150,2930,Drive Coupling,2,31,37,9,Low,0,Monitor
+P-00151,3040,Filter Element,3,24,30,20,High,7.8,Monitor
+P-00152,2910,Drive Coupling,1,46,0,6,High,80.8,Expedite / alternate source
+P-00153,3020,Hose Assembly,1,35,41,18,High,0,Monitor
+P-00154,2990,Valve Body,2,43,34,23,High,25.0,Monitor
+P-00155,3020,Starter Assembly,2,31,4,24,Critical,76.6,Expedite / alternate source
+P-00156,5935,Valve Body,3,27,21,33,Medium,42.8,Monitor
+P-00157,2920,Cooling Fan,3,25,36,36,High,32.4,Monitor
+P-00158,3040,Hydraulic Pump,1,45,21,17,Medium,46.4,Monitor
+P-00159,3020,Seal Kit,2,25,0,14,Low,43.2,Monitor
+P-00160,2920,Valve Body,1,61,31,7,Medium,21.8,Monitor
+P-00161,2930,Starter Assembly,1,37,29,13,High,22.8,Monitor
+P-00162,2815,Control Module,2,28,22,16,Medium,15.4,Monitor
+P-00163,2990,Cooling Fan,2,53,25,21,High,45.3,Monitor
+P-00164,3120,Starter Assembly,4,31,18,19,Low,17.5,Monitor
+P-00165,2910,Filter Element,3,10,13,14,Low,9.7,Monitor
+P-00166,3020,Seal Kit,4,10,4,21,High,59.2,Increase reorder point
+P-00167,2930,Drive Coupling,3,16,21,14,Medium,8.2,Monitor
+P-00168,2920,Hydraulic Pump,3,42,35,24,High,12.8,Monitor
+P-00169,5935,Hose Assembly,4,30,32,21,High,20.6,Monitor
+P-00170,5330,Hydraulic Pump,1,50,6,18,Medium,76.4,Expedite / alternate source
+P-00171,4720,Hose Assembly,3,10,2,14,Low,28.6,Monitor
+P-00172,3110,Hose Assembly,2,29,29,10,Medium,0,Monitor
+P-00173,2815,Filter Element,4,54,37,25,High,12.6,Monitor
+P-00174,3110,Valve Body,3,37,0,2,High,47.3,Monitor
+P-00175,3020,Valve Body,2,32,28,33,Medium,47.0,Monitor
+P-00176,5340,Hydraulic Pump,3,34,34,9,High,0,Monitor
+P-00177,2920,Filter Element,2,27,39,11,High,0,Monitor
+P-00178,5330,Filter Element,1,65,36,14,High,45.9,Monitor
+P-00179,4720,Seal Kit,2,23,19,4,High,14.6,Monitor
+P-00180,3040,Seal Kit,3,41,19,6,High,21.9,Monitor
+P-00181,5330,Power Supply,4,28,1,5,Medium,30.3,Monitor
+P-00182,3020,Bearing Assembly,2,34,33,27,Medium,10.5,Monitor
+P-00183,2920,Seal Kit,1,51,18,20,Critical,75.4,Expedite / alternate source
+P-00184,2815,Hose Assembly,2,30,16,14,High,33.4,Monitor
+P-00185,5905,Valve Body,4,37,37,6,Medium,0,Monitor
+P-00186,3110,Valve Body,2,29,7,10,High,39.1,Monitor
+P-00187,3110,Control Module,2,68,9,10,Medium,49.2,Monitor
+P-00188,3120,Drive Coupling,4,40,0,22,High,93.0,Expedite / alternate source
+P-00189,5935,Filter Element,3,51,41,22,High,0,Monitor
+P-00190,2990,Sensor Pack,4,39,36,24,Medium,1.2,Monitor
+P-00191,3020,Bearing Assembly,2,19,32,15,Medium,0,Monitor
+P-00192,3020,Hydraulic Pump,4,15,2,22,High,75.3,Expedite / alternate source
+P-00193,5340,Seal Kit,3,11,27,19,Medium,0,Monitor
+P-00194,2920,Starter Assembly,4,18,14,19,Medium,23.1,Monitor
+P-00195,2930,Drive Coupling,3,26,20,23,High,30.8,Monitor
+P-00196,5330,Starter Assembly,3,27,11,26,High,65.9,Increase reorder point
+P-00197,2920,Hose Assembly,3,16,21,28,High,39.3,Monitor
+P-00198,3120,Starter Assembly,1,50,20,11,High,58.7,Increase reorder point
+P-00199,3020,Hydraulic Pump,2,27,3,19,Medium,45.1,Monitor
+P-00200,2815,Filter Element,3,33,15,19,High,36.2,Monitor
+P-00201,5330,Seal Kit,4,52,34,10,Low,0,Monitor
+P-00202,2930,Bearing Assembly,2,24,38,22,Low,0,Monitor
+P-00203,5330,Control Module,2,32,20,13,High,14.9,Monitor
+P-00204,3040,Drive Coupling,3,40,14,28,High,69.3,Increase reorder point
+P-00205,5905,Starter Assembly,2,42,31,1,Medium,0,Monitor
+P-00206,2990,Filter Element,1,42,35,4,Medium,0,Monitor
+P-00207,3110,Filter Element,2,25,0,10,High,48.1,Monitor
+P-00208,5905,Bearing Assembly,1,39,13,22,Critical,87.8,Expedite / alternate source
+P-00209,2920,Valve Body,3,23,26,19,Medium,16.7,Monitor
+P-00210,4720,Bearing Assembly,3,15,0,7,High,51.4,Increase reorder point
+P-00211,3120,Filter Element,2,23,14,29,High,72.2,Expedite / alternate source
+P-00212,3040,Starter Assembly,1,51,0,20,High,100,Expedite / alternate source
+P-00213,3110,Control Module,1,57,10,25,Low,87.2,Expedite / alternate source
+P-00214,5330,Filter Element,3,25,5,16,Medium,52.5,Increase reorder point
+P-00215,5340,Power Supply,3,34,6,22,Medium,65.6,Increase reorder point
+P-00216,5905,Sensor Pack,1,35,19,21,High,60.1,Increase reorder point
+P-00217,2910,Hydraulic Pump,2,52,23,2,High,0,Monitor
+P-00218,2910,Seal Kit,4,20,11,14,Critical,40.9,Monitor
+P-00219,5905,Starter Assembly,3,45,59,1,Low,0,Monitor
+P-00220,2910,Starter Assembly,1,54,35,15,Critical,36.6,Monitor
+P-00221,2990,Hydraulic Pump,2,18,9,23,High,63.5,Increase reorder point
+P-00222,3120,Hose Assembly,1,55,20,10,High,43.5,Monitor
+P-00223,5935,Valve Body,1,51,19,32,Medium,88.3,Expedite / alternate source
+P-00224,2930,Valve Body,2,19,10,12,Critical,40.1,Monitor
+P-00225,3110,Control Module,4,25,12,20,Medium,40.6,Monitor
+P-00226,3110,Sensor Pack,2,20,15,15,Critical,28.2,Monitor
+P-00227,3040,Seal Kit,3,23,23,18,Medium,13.7,Monitor
+P-00228,2920,Hydraulic Pump,1,74,13,1,Critical,82.4,Expedite / alternate source
+P-00229,5935,Filter Element,4,28,14,34,Medium,89.8,Expedite / alternate source
+P-00230,2990,Sensor Pack,1,63,17,24,Medium,84.9,Expedite / alternate source
+P-00231,2815,Cooling Fan,2,45,9,7,High,40.2,Monitor
+P-00232,3040,Seal Kit,4,26,0,11,High,62.5,Increase reorder point
+P-00233,2930,Filter Element,3,44,31,18,Critical,19.1,Monitor
+P-00234,5330,Valve Body,1,61,21,20,Critical,82.4,Expedite / alternate source
+P-00235,5905,Seal Kit,2,13,22,22,Medium,16.4,Monitor
+P-00236,3110,Starter Assembly,2,16,12,12,Medium,26.5,Monitor
+P-00237,4720,Power Supply,4,16,14,7,High,10.8,Monitor
+P-00238,3110,Bearing Assembly,2,11,0,4,High,25.7,Monitor
+P-00239,5340,Hose Assembly,1,11,30,21,High,18.7,Monitor
+P-00240,5340,Bearing Assembly,3,39,42,5,Medium,0,Monitor
+P-00241,5330,Control Module,1,54,21,25,Medium,75.3,Expedite / alternate source
+P-00242,5340,Control Module,2,34,0,28,Low,70.9,Expedite / alternate source
+P-00243,2920,Starter Assembly,2,20,43,10,Medium,0,Monitor
+P-00244,3120,Filter Element,3,17,0,11,Medium,28.5,Monitor
+P-00245,3110,Control Module,4,27,36,41,High,35.7,Monitor
+P-00246,5340,Control Module,3,14,25,1,High,0,Monitor
+P-00247,2990,Hydraulic Pump,3,7,15,11,High,17.6,Monitor
+P-00248,2920,Cooling Fan,1,53,22,29,High,85.2,Expedite / alternate source
+P-00249,2930,Control Module,4,27,43,17,High,0,Monitor
+P-00250,2930,Control Module,1,56,17,18,Medium,72.7,Expedite / alternate source
+P-00251,3110,Hydraulic Pump,3,53,53,23,High,0,Monitor
+P-00252,3110,Sensor Pack,3,30,11,17,High,50.4,Increase reorder point
+P-00253,5330,Valve Body,2,28,0,37,Medium,100,Expedite / alternate source
+P-00254,5935,Seal Kit,4,55,30,19,High,19.1,Monitor
+P-00255,5935,Cooling Fan,4,48,25,38,Medium,77.3,Expedite / alternate source
+P-00256,5330,Starter Assembly,3,35,18,10,High,19.5,Monitor
+P-00257,3020,Seal Kit,3,16,4,26,Medium,65.8,Increase reorder point
+P-00258,5330,Control Module,1,66,0,23,Low,100,Expedite / alternate source
+P-00259,5330,Hydraulic Pump,2,37,34,18,Medium,0,Monitor
+P-00260,5905,Cooling Fan,4,22,46,31,High,0,Monitor
+P-00261,2815,Hose Assembly,1,43,38,1,High,0,Monitor
+P-00262,2990,Power Supply,1,58,17,13,Medium,55.4,Increase reorder point
+P-00263,2920,Sensor Pack,3,18,14,8,High,12.0,Monitor
+P-00264,5330,Control Module,3,22,5,20,High,53.6,Increase reorder point
+P-00265,3020,Hydraulic Pump,4,50,42,22,High,0,Monitor
+P-00266,2920,Filter Element,4,10,32,15,Critical,0,Monitor
+P-00267,3110,Bearing Assembly,2,14,22,27,High,39.9,Monitor
+P-00268,5340,Bearing Assembly,2,39,1,15,Medium,59.1,Increase reorder point
+P-00269,2910,Starter Assembly,4,34,21,20,Medium,23.7,Monitor
+P-00270,5905,Seal Kit,3,49,21,1,Medium,3.0,Monitor
+P-00271,5935,Drive Coupling,2,21,3,5,Medium,21.1,Monitor
+P-00272,2920,Starter Assembly,2,57,53,25,Critical,0,Monitor
+P-00273,3110,Hose Assembly,3,17,30,19,Medium,2.0,Monitor
+P-00274,2930,Power Supply,3,50,28,2,Critical,0,Monitor
+P-00275,2930,Control Module,1,35,14,9,Medium,29.9,Monitor
+P-00276,2815,Drive Coupling,2,7,17,18,Critical,31.7,Monitor
+P-00277,2930,Power Supply,3,8,11,20,Critical,48.9,Monitor
+P-00278,5330,Starter Assembly,2,28,29,35,Critical,53.4,Increase reorder point
+P-00279,5330,Hose Assembly,2,7,25,30,High,28.6,Monitor
+P-00280,3020,Power Supply,2,38,35,18,High,0,Monitor
+P-00281,2990,Power Supply,1,43,25,10,High,41.0,Monitor
+P-00282,3040,Control Module,2,27,29,9,High,0,Monitor
+P-00283,5935,Control Module,1,34,38,21,High,28.1,Monitor
+P-00284,4720,Power Supply,3,31,34,24,Critical,21.3,Monitor
+P-00285,2930,Control Module,4,70,63,11,High,0,Monitor
+P-00286,2930,Drive Coupling,4,7,15,9,Medium,5.4,Monitor
+P-00287,2990,Filter Element,3,23,24,28,High,38.4,Monitor
+P-00288,2930,Filter Element,2,56,32,17,High,14.4,Monitor
+P-00289,4720,Valve Body,3,27,33,19,Medium,2.4,Monitor
+P-00290,3120,Hose Assembly,4,17,45,3,High,0,Monitor
+P-00291,3110,Seal Kit,3,25,30,12,Critical,2.7,Monitor
+P-00292,5330,Bearing Assembly,3,32,19,19,Low,15.3,Monitor
+P-00293,2920,Hose Assembly,2,29,22,9,High,5.1,Monitor
+P-00294,5330,Valve Body,4,28,21,8,Low,0,Monitor
+P-00295,5340,Cooling Fan,3,26,41,14,Critical,0,Monitor
+P-00296,2920,Hydraulic Pump,4,19,22,12,Medium,0,Monitor
+P-00297,5905,Drive Coupling,1,63,19,18,Medium,80.8,Expedite / alternate source
+P-00298,5935,Hydraulic Pump,3,44,4,25,High,92.7,Expedite / alternate source
+P-00299,2815,Hose Assembly,1,55,39,3,High,2.7,Monitor
+P-00300,5935,Hydraulic Pump,4,38,18,29,High,56.0,Increase reorder point
+P-00301,2990,Bearing Assembly,4,25,12,5,Medium,3.2,Monitor
+P-00302,5935,Filter Element,1,50,32,25,Critical,56.7,Increase reorder point
+P-00303,2990,Seal Kit,3,7,12,13,Medium,5.1,Monitor
+P-00304,5340,Seal Kit,3,27,18,17,Low,5.3,Monitor
+P-00305,2930,Hydraulic Pump,2,34,0,5,Low,38.0,Monitor
+P-00306,2990,Sensor Pack,2,9,52,5,High,0,Monitor
+P-00307,2910,Valve Body,2,30,29,17,High,15.9,Monitor
+P-00308,2920,Power Supply,2,26,29,27,High,24.9,Monitor
+P-00309,2910,Seal Kit,1,31,32,13,Low,3.0,Monitor
+P-00310,3120,Hydraulic Pump,3,36,0,27,High,97.8,Expedite / alternate source
+P-00311,5340,Starter Assembly,4,48,21,22,Medium,43.5,Monitor
+P-00312,2990,Cooling Fan,2,43,30,8,Low,0,Monitor
+P-00313,2990,Control Module,3,10,24,13,Low,0,Monitor
+P-00314,3040,Filter Element,4,9,44,9,High,0,Monitor
+P-00315,5330,Valve Body,1,33,56,20,Critical,3.6,Monitor
+P-00316,3020,Cooling Fan,3,7,0,19,Medium,46.7,Monitor
+P-00317,5905,Drive Coupling,2,38,19,23,High,47.6,Monitor
+P-00318,2815,Power Supply,2,26,8,14,High,57.4,Increase reorder point
+P-00319,5905,Drive Coupling,3,37,33,17,Medium,0,Monitor
+P-00320,3040,Hydraulic Pump,2,14,12,1,Critical,9.6,Monitor
+P-00321,3040,Starter Assembly,1,69,19,22,Critical,92.6,Expedite / alternate source
+P-00322,2910,Control Module,3,17,41,42,High,35.9,Monitor
+P-00323,3040,Filter Element,4,28,24,17,High,27.6,Monitor
+P-00324,4720,Power Supply,3,16,28,19,High,0,Monitor
+P-00325,3020,Bearing Assembly,2,21,56,32,High,0,Monitor
+P-00326,3020,Cooling Fan,2,33,6,15,High,58.9,Increase reorder point
+P-00327,3110,Filter Element,1,69,30,26,Low,58.2,Increase reorder point
+P-00328,5905,Seal Kit,4,28,5,10,Medium,32.1,Monitor
+P-00329,3110,Control Module,3,23,16,13,High,17.3,Monitor
+P-00330,2930,Sensor Pack,3,13,39,22,High,0.6,Monitor
+P-00331,2910,Valve Body,1,54,17,13,Medium,64.8,Increase reorder point
+P-00332,5935,Sensor Pack,3,17,8,8,Medium,10.5,Monitor
+P-00333,5935,Sensor Pack,3,38,2,14,Low,57.9,Increase reorder point
+P-00334,2920,Filter Element,1,44,32,14,Medium,11.6,Monitor
+P-00335,2920,Valve Body,2,37,43,13,Critical,0,Monitor
+P-00336,3120,Seal Kit,2,37,34,15,Medium,0,Monitor
+P-00337,2815,Sensor Pack,1,62,0,7,High,95.2,Expedite / alternate source
+P-00338,3040,Power Supply,4,24,24,32,Medium,41.4,Monitor
+P-00339,2990,Control Module,3,37,38,17,High,0,Monitor
+P-00340,2910,Valve Body,1,52,0,6,Low,80.8,Expedite / alternate source
+P-00341,5340,Sensor Pack,3,36,23,25,Medium,20.5,Monitor
+P-00342,2815,Sensor Pack,2,33,19,20,High,35.4,Monitor
+P-00343,2930,Power Supply,3,16,43,14,Medium,0,Monitor
+P-00344,2930,Control Module,4,14,16,13,Critical,28.3,Monitor
+P-00345,2990,Cooling Fan,3,46,18,31,Medium,53.3,Increase reorder point
+P-00346,5905,Drive Coupling,4,58,22,30,Medium,69.0,Increase reorder point
+P-00347,5340,Filter Element,4,31,1,6,Medium,36.7,Monitor
+P-00348,3040,Drive Coupling,2,10,1,27,Medium,76.0,Expedite / alternate source
+P-00349,3020,Sensor Pack,4,29,24,20,High,12.3,Monitor
+P-00350,3110,Hose Assembly,3,26,28,11,Medium,0,Monitor
+P-00351,2930,Sensor Pack,2,36,11,7,High,24.1,Monitor
+P-00352,3020,Hose Assembly,3,48,29,18,Critical,31.0,Monitor
+P-00353,2920,Sensor Pack,2,44,23,37,Critical,84.5,Expedite / alternate source
+P-00354,2990,Seal Kit,4,34,19,15,High,30.5,Monitor
+P-00355,5330,Seal Kit,1,32,6,18,Low,63.5,Increase reorder point
+P-00356,2910,Bearing Assembly,2,46,33,8,Low,0,Monitor
+P-00357,3020,Hydraulic Pump,4,23,27,25,High,29.6,Monitor
+P-00358,2910,Hydraulic Pump,2,35,18,20,Medium,18.4,Monitor
+P-00359,5330,Seal Kit,1,30,16,22,Medium,72.1,Expedite / alternate source
+P-00360,5340,Seal Kit,4,18,13,21,Medium,52.2,Increase reorder point
+P-00361,2910,Valve Body,3,21,36,19,High,0,Monitor
+P-00362,2930,Starter Assembly,3,27,11,19,High,49.8,Monitor
+P-00363,2990,Control Module,3,7,22,17,Critical,25.4,Monitor
+P-00364,2930,Sensor Pack,2,31,45,35,Low,2.3,Monitor
+P-00365,3020,Filter Element,1,59,9,8,High,85.3,Expedite / alternate source
+P-00366,5905,Hydraulic Pump,1,57,28,21,High,62.6,Increase reorder point
+P-00367,3120,Cooling Fan,3,15,23,16,High,7.7,Monitor
+P-00368,4720,Seal Kit,2,23,40,22,High,5.0,Monitor
+P-00369,3040,Valve Body,3,40,4,30,High,100,Expedite / alternate source
+P-00370,5935,Control Module,1,60,32,6,Medium,15.0,Monitor
+P-00371,5340,Hose Assembly,3,46,40,16,Critical,0,Monitor
+P-00372,3120,Starter Assembly,3,28,15,28,Medium,62.0,Increase reorder point
+P-00373,2910,Bearing Assembly,2,14,31,16,High,14.4,Monitor
+P-00374,3110,Sensor Pack,3,56,34,20,High,22.1,Monitor
+P-00375,4720,Hose Assembly,3,32,41,35,Medium,16.8,Monitor
+P-00376,3110,Filter Element,2,49,52,25,Critical,0,Monitor
+P-00377,5340,Hose Assembly,2,23,38,16,Low,0,Monitor
+P-00378,3020,Hydraulic Pump,3,37,18,26,Critical,46.7,Monitor
+P-00379,2910,Sensor Pack,4,31,11,26,Medium,62.6,Increase reorder point
+P-00380,2990,Valve Body,3,29,12,1,Critical,37.5,Monitor
+P-00381,5905,Control Module,3,7,16,30,Low,49.7,Monitor
+P-00382,3120,Filter Element,3,29,22,10,Medium,9.2,Monitor
+P-00383,5340,Power Supply,2,41,65,1,Critical,0,Monitor
+P-00384,2920,Power Supply,2,39,26,23,Critical,38.0,Monitor
+P-00385,3110,Power Supply,1,54,28,19,High,53.0,Increase reorder point
+P-00386,3040,Hose Assembly,4,30,35,11,High,0,Monitor
+P-00387,5340,Filter Element,2,29,29,22,High,31.9,Monitor
+P-00388,2920,Hydraulic Pump,1,34,27,1,Medium,0,Monitor
+P-00389,2990,Sensor Pack,2,35,30,11,High,0,Monitor
+P-00390,2815,Control Module,4,27,29,18,High,16.2,Monitor
+P-00391,5330,Cooling Fan,2,33,23,9,High,10.3,Monitor
+P-00392,2930,Hydraulic Pump,2,32,16,34,Critical,88.3,Expedite / alternate source
+P-00393,2920,Control Module,4,16,39,10,Medium,0,Monitor
+P-00394,5935,Hydraulic Pump,1,75,36,13,Critical,50.1,Increase reorder point
+P-00395,5935,Filter Element,1,52,22,26,High,79.5,Expedite / alternate source
+P-00396,3110,Bearing Assembly,2,18,30,24,Medium,1.2,Monitor
+P-00397,2920,Bearing Assembly,3,15,9,1,High,8.8,Monitor
+P-00398,2910,Cooling Fan,2,12,34,19,Critical,0,Monitor
+P-00399,3120,Bearing Assembly,4,32,10,8,Critical,40.7,Monitor
+P-00400,3120,Filter Element,2,35,35,21,High,23.1,Monitor
+P-00401,2815,Sensor Pack,3,35,0,22,High,85.1,Expedite / alternate source
+P-00402,2990,Starter Assembly,4,34,21,24,High,43.2,Monitor
+P-00403,5905,Drive Coupling,2,44,0,23,High,100,Expedite / alternate source
+P-00404,5340,Filter Element,4,51,28,28,High,42.7,Monitor
+P-00405,2930,Sensor Pack,3,31,27,29,Low,25.2,Monitor
+P-00406,3110,Bearing Assembly,2,10,6,14,High,45.3,Monitor
+P-00407,5935,Filter Element,1,61,42,20,High,34.2,Monitor
+P-00408,3020,Hydraulic Pump,2,43,18,24,Medium,48.9,Monitor
+P-00409,2920,Power Supply,4,39,0,14,Critical,78.3,Expedite / alternate source
+P-00410,5340,Valve Body,3,33,43,21,High,0,Monitor
+P-00411,2920,Seal Kit,3,62,12,1,Critical,56.1,Increase reorder point
+P-00412,2815,Seal Kit,3,62,5,20,Critical,100,Expedite / alternate source
+P-00413,2920,Filter Element,3,32,66,27,Low,0,Monitor
+P-00414,5340,Hose Assembly,3,41,13,17,Low,37.4,Monitor
+P-00415,2990,Hydraulic Pump,3,44,28,13,Medium,1.5,Monitor
+P-00416,3040,Filter Element,3,42,34,26,High,14.7,Monitor
+P-00417,2920,Sensor Pack,1,54,13,8,Low,64.6,Increase reorder point
+P-00418,2920,Drive Coupling,1,77,40,26,Critical,68.6,Increase reorder point
+P-00419,3110,Power Supply,1,55,20,22,Low,59.7,Increase reorder point
+P-00420,2930,Control Module,2,7,12,5,Medium,0,Monitor
+P-00421,2910,Bearing Assembly,2,14,18,18,Low,7.9,Monitor
+P-00422,5935,Hose Assembly,3,23,24,21,Critical,47.0,Monitor
+P-00423,3110,Hydraulic Pump,2,17,34,15,High,0,Monitor
+P-00424,2920,Filter Element,4,19,35,17,Medium,0,Monitor
+P-00425,2990,Valve Body,1,48,1,25,High,100,Expedite / alternate source
+P-00426,5905,Valve Body,2,42,29,1,High,0,Monitor
+P-00427,3110,Valve Body,4,24,24,29,High,34.9,Monitor
+P-00428,3120,Valve Body,3,24,18,18,Critical,38.3,Monitor
+P-00429,2930,Control Module,1,10,44,1,High,0,Monitor
+P-00430,5935,Valve Body,2,56,6,26,Medium,86.0,Expedite / alternate source
+P-00431,3020,Cooling Fan,3,31,22,14,High,7.3,Monitor
+P-00432,2910,Drive Coupling,1,31,15,22,Low,59.6,Increase reorder point
+P-00433,5905,Hydraulic Pump,3,49,1,23,High,89.0,Expedite / alternate source
+P-00434,4720,Valve Body,2,36,37,7,Medium,0,Monitor
+P-00435,3040,Filter Element,3,45,29,16,Medium,11.8,Monitor
+P-00436,5905,Cooling Fan,2,45,0,8,Medium,30.7,Monitor
+P-00437,2990,Power Supply,2,35,13,6,Medium,17.6,Monitor
+P-00438,2930,Drive Coupling,3,31,0,22,Medium,64.8,Increase reorder point
+P-00439,2990,Power Supply,3,47,46,19,Medium,0,Monitor
+P-00440,5935,Control Module,4,30,40,30,Medium,0,Monitor
+P-00441,5935,Sensor Pack,3,25,18,26,High,50.8,Increase reorder point
+P-00442,2920,Sensor Pack,3,25,31,29,High,19.2,Monitor
+P-00443,2990,Bearing Assembly,2,39,40,35,High,25.0,Monitor
+P-00444,5330,Control Module,2,27,25,20,Low,0,Monitor
+P-00445,2920,Hose Assembly,1,51,13,1,High,35.6,Monitor
+P-00446,5340,Hose Assembly,2,51,6,11,Medium,48.5,Monitor
+P-00447,3120,Valve Body,2,43,34,8,Medium,0,Monitor
+P-00448,5330,Valve Body,3,27,30,42,High,68.6,Increase reorder point
+P-00449,5935,Cooling Fan,2,22,0,16,High,69.6,Increase reorder point
+P-00450,2815,Valve Body,2,26,31,28,Medium,17.2,Monitor
+P-00451,3040,Drive Coupling,2,51,29,12,High,6.4,Monitor
+P-00452,2930,Hose Assembly,3,36,0,12,High,55.8,Increase reorder point
+P-00453,5935,Hose Assembly,4,32,30,22,High,22.5,Monitor
+P-00454,5905,Seal Kit,4,46,11,19,Critical,78.5,Expedite / alternate source
+P-00455,3040,Filter Element,2,16,15,20,High,39.6,Monitor
+P-00456,4720,Valve Body,1,60,12,23,Medium,87.4,Expedite / alternate source
+P-00457,2815,Seal Kit,1,52,38,1,Medium,0,Monitor
+P-00458,3020,Power Supply,2,41,30,25,Low,11.0,Monitor
+P-00459,3110,Cooling Fan,2,32,4,26,High,95.8,Expedite / alternate source
+P-00460,2920,Valve Body,2,16,30,17,High,0,Monitor
+P-00461,5340,Filter Element,4,48,8,16,Low,43.7,Monitor
+P-00462,5340,Control Module,2,38,14,26,Medium,61.0,Increase reorder point
+P-00463,2910,Bearing Assembly,2,24,47,11,Critical,0,Monitor
+P-00464,2920,Filter Element,4,7,25,27,High,41.2,Monitor
+P-00465,2815,Control Module,2,39,23,28,Medium,41.8,Monitor
+P-00466,5340,Hose Assembly,3,15,39,19,High,0,Monitor
+P-00467,2815,Hose Assembly,1,50,19,25,Medium,82.5,Expedite / alternate source
+P-00468,2990,Sensor Pack,3,35,45,27,Low,0,Monitor
+P-00469,3120,Cooling Fan,3,25,9,26,High,63.5,Increase reorder point
+P-00470,2990,Hydraulic Pump,3,10,24,20,Critical,11.8,Monitor
+P-00471,3020,Power Supply,2,39,39,29,High,10.9,Monitor
+P-00472,2930,Bearing Assembly,1,53,27,8,Critical,41.2,Monitor
+P-00473,5905,Starter Assembly,1,42,0,11,Critical,98.3,Expedite / alternate source
+P-00474,2990,Sensor Pack,1,59,0,23,High,100,Expedite / alternate source
+P-00475,3040,Power Supply,1,65,0,22,High,100,Expedite / alternate source
+P-00476,3020,Filter Element,4,40,20,17,Medium,15.7,Monitor
+P-00477,2910,Drive Coupling,2,7,31,14,Medium,0,Monitor
+P-00478,5905,Seal Kit,1,46,19,22,Medium,66.2,Increase reorder point
+P-00479,4720,Sensor Pack,4,26,15,11,Low,10.7,Monitor
+P-00480,5330,Power Supply,4,51,48,25,Low,0,Monitor
+P-00481,2990,Hose Assembly,2,24,2,19,High,58.2,Increase reorder point
+P-00482,5330,Filter Element,3,22,4,4,High,35.4,Monitor
+P-00483,5330,Hose Assembly,3,45,46,27,Low,0,Monitor
+P-00484,2920,Starter Assembly,4,46,0,27,Medium,96.9,Expedite / alternate source
+P-00485,2990,Bearing Assembly,3,17,19,19,Medium,14.4,Monitor
+P-00486,4720,Sensor Pack,1,35,24,32,Low,63.2,Increase reorder point
+P-00487,3040,Drive Coupling,1,23,15,24,High,58.6,Increase reorder point
+P-00488,3120,Starter Assembly,2,13,0,16,Medium,52.4,Increase reorder point
+P-00489,3110,Filter Element,3,18,12,10,Low,0,Monitor
+P-00490,5905,Hose Assembly,2,15,47,25,High,0,Monitor
+P-00491,5340,Hydraulic Pump,1,51,31,15,Low,8.3,Monitor
+P-00492,4720,Control Module,2,42,17,2,High,11.8,Monitor
+P-00493,2910,Drive Coupling,1,34,7,31,Medium,100,Expedite / alternate source
+P-00494,4720,Starter Assembly,1,30,24,38,High,98.9,Expedite / alternate source
+P-00495,3110,Starter Assembly,3,48,11,25,Low,70.2,Expedite / alternate source
+P-00496,5330,Valve Body,3,17,51,7,High,0,Monitor
+P-00497,2930,Cooling Fan,2,23,34,19,High,0,Monitor
+P-00498,5340,Starter Assembly,2,21,0,13,High,40.0,Monitor
+P-00499,2930,Control Module,3,26,37,6,High,0,Monitor
+P-00500,2920,Starter Assembly,3,15,6,18,High,42.4,Monitor
+P-00501,5330,Power Supply,2,29,0,14,High,79.9,Expedite / alternate source
+P-00502,3120,Hydraulic Pump,1,60,41,22,Medium,39.9,Monitor
+P-00503,2990,Hose Assembly,2,41,4,13,Low,55.2,Increase reorder point
+P-00504,5935,Sensor Pack,1,63,5,27,High,100,Expedite / alternate source
+P-00505,2930,Starter Assembly,3,33,12,7,Medium,0,Monitor
+P-00506,5905,Hose Assembly,2,27,23,17,High,30.8,Monitor
+P-00507,5935,Sensor Pack,4,48,11,8,High,27.1,Monitor
+P-00508,4720,Control Module,3,41,21,24,Medium,48.0,Monitor
+P-00509,2920,Power Supply,3,19,35,13,High,0,Monitor
+P-00510,2990,Bearing Assembly,2,27,15,22,Low,36.1,Monitor
+P-00511,5330,Valve Body,4,22,49,14,High,0,Monitor
+P-00512,3120,Control Module,4,7,20,24,Medium,29.1,Monitor
+P-00513,3020,Control Module,4,23,12,12,High,49.5,Monitor
+P-00514,3110,Starter Assembly,4,31,23,13,Critical,17.5,Monitor
+P-00515,4720,Valve Body,2,58,31,6,Low,0,Monitor
+P-00516,2990,Starter Assembly,3,46,26,19,High,18.4,Monitor
+P-00517,3110,Bearing Assembly,2,22,13,21,Critical,61.5,Increase reorder point
+P-00518,5905,Starter Assembly,3,23,16,13,High,20.0,Monitor
+P-00519,5935,Hydraulic Pump,2,43,0,17,High,70.5,Expedite / alternate source
+P-00520,2910,Power Supply,3,51,27,21,Medium,23.6,Monitor
+P-00521,2990,Starter Assembly,1,61,0,9,Medium,94.2,Expedite / alternate source
+P-00522,3020,Bearing Assembly,2,31,25,17,High,14.6,Monitor
+P-00523,2815,Power Supply,4,19,37,14,High,0,Monitor
+P-00524,2990,Sensor Pack,2,31,20,21,High,41.9,Monitor
+P-00525,5905,Starter Assembly,2,22,14,35,Critical,74.8,Expedite / alternate source
+P-00526,5330,Filter Element,4,58,26,19,High,36.3,Monitor
+P-00527,3040,Starter Assembly,3,38,29,17,Medium,0,Monitor
+P-00528,5330,Starter Assembly,1,55,43,17,High,23.0,Monitor
+P-00529,4720,Bearing Assembly,4,71,4,6,Medium,53.9,Increase reorder point
+P-00530,2910,Cooling Fan,1,45,6,15,High,94.2,Expedite / alternate source
+P-00531,2910,Cooling Fan,3,39,16,6,Medium,10.8,Monitor
+P-00532,4720,Seal Kit,3,21,33,17,Medium,0,Monitor
+P-00533,2930,Power Supply,3,7,35,27,Critical,26.0,Monitor
+P-00534,3110,Sensor Pack,2,23,41,23,High,0.8,Monitor
+P-00535,5935,Seal Kit,4,37,47,7,Critical,0,Monitor
+P-00536,5935,Starter Assembly,3,37,5,18,Low,43.5,Monitor
+P-00537,2990,Starter Assembly,4,10,18,23,Critical,52.9,Increase reorder point
+P-00538,4720,Power Supply,4,41,37,25,Low,0.2,Monitor
+P-00539,2930,Valve Body,3,30,15,24,High,63.0,Increase reorder point
+P-00540,5935,Seal Kit,3,16,25,20,Low,6.9,Monitor
+P-00541,3020,Control Module,1,56,55,11,Medium,0,Monitor
+P-00542,2815,Bearing Assembly,4,20,44,1,High,0,Monitor
+P-00543,2990,Valve Body,3,39,43,9,High,0,Monitor
+P-00544,3120,Cooling Fan,2,44,14,7,High,39.6,Monitor
+P-00545,3110,Valve Body,1,59,13,19,Medium,91.2,Expedite / alternate source
+P-00546,2920,Seal Kit,1,27,7,13,Medium,57.0,Increase reorder point
+P-00547,2910,Sensor Pack,3,11,26,12,Medium,0,Monitor
+P-00548,2920,Valve Body,3,41,37,21,Medium,0,Monitor
+P-00549,2920,Starter Assembly,4,15,12,32,High,71.7,Expedite / alternate source
+P-00550,2990,Hydraulic Pump,2,17,13,11,Medium,13.6,Monitor
+P-00551,2920,Valve Body,4,38,44,16,Medium,0,Monitor
+P-00552,3110,Valve Body,3,31,38,22,Critical,15.2,Monitor
+P-00553,3120,Hose Assembly,2,33,29,5,Low,0,Monitor
+P-00554,5905,Starter Assembly,3,41,35,26,High,28.7,Monitor
+P-00555,5905,Hose Assembly,3,16,22,28,Medium,32.6,Monitor
+P-00556,5905,Sensor Pack,3,16,37,17,High,0,Monitor
+P-00557,2910,Drive Coupling,1,37,25,22,Critical,66.7,Increase reorder point
+P-00558,3040,Cooling Fan,2,23,0,14,Low,41.6,Monitor
+P-00559,5330,Control Module,3,24,37,25,Medium,4.4,Monitor
+P-00560,5935,Starter Assembly,2,22,33,11,Medium,0,Monitor
+P-00561,5905,Starter Assembly,2,17,37,17,Medium,0,Monitor
+P-00562,5340,Drive Coupling,3,42,6,17,High,56.6,Increase reorder point
+P-00563,2920,Hydraulic Pump,2,19,31,4,High,0,Monitor
+P-00564,2920,Drive Coupling,4,36,24,30,Medium,55.4,Increase reorder point
+P-00565,2910,Cooling Fan,2,33,26,1,High,0,Monitor
+P-00566,3120,Cooling Fan,3,7,3,23,Medium,45.5,Monitor
+P-00567,2930,Hose Assembly,4,20,22,20,High,15.3,Monitor
+P-00568,4720,Seal Kit,3,17,40,21,Medium,0,Monitor
+P-00569,3040,Filter Element,3,22,29,31,Critical,47.7,Monitor
+P-00570,3120,Cooling Fan,3,12,16,8,Medium,9.0,Monitor
+P-00571,2930,Sensor Pack,4,20,18,14,Low,4.3,Monitor
+P-00572,2990,Filter Element,4,41,0,29,High,94.1,Expedite / alternate source
+P-00573,5340,Sensor Pack,4,7,14,19,Medium,2.5,Monitor
+P-00574,3110,Valve Body,4,19,25,6,Medium,0,Monitor
+P-00575,5340,Control Module,4,18,31,4,Medium,0,Monitor
+P-00576,2990,Hydraulic Pump,2,29,10,12,Medium,26.7,Monitor
+P-00577,2930,Valve Body,2,50,16,26,Medium,52.5,Increase reorder point
+P-00578,5340,Control Module,4,32,33,18,Medium,3.7,Monitor
+P-00579,2910,Hydraulic Pump,4,20,4,6,High,24.5,Monitor
+P-00580,2815,Sensor Pack,2,18,53,26,Medium,0,Monitor
+P-00581,2920,Starter Assembly,2,33,43,33,High,18.9,Monitor
+P-00582,3120,Bearing Assembly,3,13,38,29,High,24.9,Monitor
+P-00583,3110,Filter Element,3,39,24,11,High,7.4,Monitor
+P-00584,2990,Seal Kit,3,31,40,11,High,0,Monitor
+P-00585,2930,Drive Coupling,3,10,45,16,Medium,0,Monitor
+P-00586,4720,Hose Assembly,2,38,30,18,Medium,11.0,Monitor
+P-00587,2920,Power Supply,1,50,15,1,High,42.8,Monitor
+P-00588,3120,Starter Assembly,3,32,11,7,Medium,12.9,Monitor
+P-00589,5340,Seal Kit,1,54,8,11,Medium,65.9,Increase reorder point
+P-00590,3020,Filter Element,3,39,19,22,Critical,58.6,Increase reorder point
+P-00591,4720,Control Module,3,19,8,25,Medium,55.0,Increase reorder point
+P-00592,3120,Sensor Pack,3,24,25,10,Critical,4.4,Monitor
+P-00593,5935,Seal Kit,3,43,17,11,Critical,35.2,Monitor
+P-00594,2910,Seal Kit,2,22,44,14,Medium,0,Monitor
+P-00595,3110,Filter Element,3,14,21,26,Medium,40.3,Monitor
+P-00596,2930,Hose Assembly,2,29,0,20,Low,67.8,Increase reorder point
+P-00597,3110,Starter Assembly,1,50,5,22,High,100,Expedite / alternate source
+P-00598,2910,Hose Assembly,4,22,30,17,Medium,0,Monitor
+P-00599,3120,Seal Kit,1,33,0,13,Critical,100,Expedite / alternate source
+P-00600,3120,Cooling Fan,3,52,51,6,Medium,0,Monitor
+P-00601,5340,Hose Assembly,4,11,32,1,High,0,Monitor
+P-00602,2930,Hydraulic Pump,2,22,32,17,High,0,Monitor
+P-00603,5935,Seal Kit,2,28,24,37,High,52.9,Increase reorder point
+P-00604,2815,Drive Coupling,3,9,8,12,Critical,42.2,Monitor
+P-00605,3040,Drive Coupling,2,25,2,21,Low,50.6,Increase reorder point
+P-00606,5330,Control Module,3,35,4,15,High,55.5,Increase reorder point
+P-00607,3120,Cooling Fan,2,35,16,14,High,43.9,Monitor
+P-00608,2990,Power Supply,3,31,26,28,Medium,32.5,Monitor
+P-00609,2910,Cooling Fan,2,25,0,18,High,75.9,Expedite / alternate source
+P-00610,3020,Drive Coupling,2,45,0,2,Medium,40.4,Monitor
+P-00611,5935,Seal Kit,1,48,18,12,High,60.2,Increase reorder point
+P-00612,5935,Drive Coupling,4,47,41,18,Medium,0,Monitor
+P-00613,5340,Bearing Assembly,2,29,17,14,Medium,12.6,Monitor
+P-00614,2990,Filter Element,1,44,0,13,High,97.5,Expedite / alternate source
+P-00615,2990,Control Module,2,49,31,24,Medium,18.6,Monitor
+P-00616,2815,Seal Kit,3,17,16,19,High,55.0,Increase reorder point
+P-00617,5340,Sensor Pack,3,43,45,18,High,0,Monitor
+P-00618,3020,Hose Assembly,1,43,30,13,High,31.4,Monitor
+P-00619,3020,Starter Assembly,3,31,0,12,High,63.4,Increase reorder point
+P-00620,3020,Power Supply,1,60,13,11,High,77.2,Expedite / alternate source
+P-00621,2930,Valve Body,2,16,43,15,Critical,0,Monitor
+P-00622,3120,Seal Kit,1,54,34,17,Low,27.9,Monitor
+P-00623,5330,Starter Assembly,2,31,26,27,Medium,16.4,Monitor
+P-00624,5340,Hydraulic Pump,3,16,20,7,High,0,Monitor
+P-00625,4720,Cooling Fan,2,25,18,14,High,22.5,Monitor
+P-00626,2920,Seal Kit,4,34,40,27,High,14.2,Monitor
+P-00627,5330,Sensor Pack,3,26,13,9,Low,13.6,Monitor
+P-00628,2930,Hose Assembly,2,34,20,19,High,31.8,Monitor
+P-00629,3040,Filter Element,3,48,31,3,High,0,Monitor
+P-00630,2910,Control Module,4,48,37,12,High,0,Monitor
+P-00631,2930,Valve Body,3,40,46,14,High,0,Monitor
+P-00632,3020,Hose Assembly,2,15,0,20,Medium,64.6,Increase reorder point
+P-00633,3020,Hose Assembly,1,63,23,13,Critical,76.2,Expedite / alternate source
+P-00634,3020,Filter Element,2,12,3,15,High,56.3,Increase reorder point
+P-00635,3040,Starter Assembly,4,29,62,9,High,0,Monitor
+P-00636,2990,Valve Body,1,67,47,43,Medium,65.0,Increase reorder point
+P-00637,3020,Bearing Assembly,3,54,14,27,High,71.6,Expedite / alternate source
+P-00638,4720,Seal Kit,1,40,26,16,Medium,52.7,Increase reorder point
+P-00639,2990,Cooling Fan,1,22,43,16,High,0,Monitor
+P-00640,2920,Sensor Pack,4,23,5,28,Medium,65.4,Increase reorder point
+P-00641,5340,Valve Body,2,35,0,8,Medium,59.1,Increase reorder point
+P-00642,5935,Hydraulic Pump,4,32,45,16,High,0,Monitor
+P-00643,3040,Bearing Assembly,2,46,28,24,Medium,32.1,Monitor
+P-00644,2815,Hose Assembly,3,18,34,9,Medium,0,Monitor
+P-00645,2990,Drive Coupling,1,39,38,17,Medium,1.2,Monitor
+P-00646,3040,Starter Assembly,2,22,0,12,Medium,47.1,Monitor
+P-00647,4720,Control Module,3,47,23,18,Medium,29.1,Monitor
+P-00648,5330,Valve Body,1,41,10,13,High,80.9,Expedite / alternate source
+P-00649,2815,Cooling Fan,1,32,46,22,Medium,0,Monitor
+P-00650,5935,Control Module,2,13,41,20,Low,0,Monitor
+P-00651,4720,Seal Kit,4,30,21,16,Medium,9.9,Monitor
+P-00652,2815,Filter Element,2,20,21,11,High,6.1,Monitor
+P-00653,5340,Seal Kit,3,23,11,27,Medium,50.4,Increase reorder point
+P-00654,2815,Cooling Fan,2,26,12,1,Low,0,Monitor
+P-00655,5330,Cooling Fan,3,41,16,23,Critical,72.1,Expedite / alternate source
+P-00656,3040,Control Module,4,8,22,26,High,26.0,Monitor
+P-00657,2910,Seal Kit,2,47,20,17,Critical,47.0,Monitor
+P-00658,2990,Filter Element,2,29,21,14,Medium,1.7,Monitor
+P-00659,3120,Cooling Fan,4,9,2,30,Low,57.2,Increase reorder point
+P-00660,3120,Cooling Fan,2,22,36,27,High,20.1,Monitor
+P-00661,5330,Valve Body,4,24,9,9,Medium,17.5,Monitor
+P-00662,4720,Filter Element,2,43,40,6,Medium,0,Monitor
+P-00663,2920,Cooling Fan,3,54,4,1,High,48.6,Monitor
+P-00664,5330,Valve Body,4,22,41,22,Medium,0,Monitor
+P-00665,2920,Power Supply,1,32,60,25,High,0,Monitor
+P-00666,5935,Hose Assembly,4,26,49,22,High,0,Monitor
+P-00667,4720,Valve Body,2,20,19,19,Medium,31.1,Monitor
+P-00668,5340,Sensor Pack,1,56,10,14,Medium,71.5,Expedite / alternate source
+P-00669,3110,Seal Kit,1,50,39,38,Critical,79.8,Expedite / alternate source
+P-00670,2930,Power Supply,3,32,33,27,Medium,30.2,Monitor
+P-00671,4720,Sensor Pack,3,49,0,4,High,59.8,Increase reorder point
+P-00672,5935,Drive Coupling,3,7,45,7,High,0,Monitor
+P-00673,5340,Bearing Assembly,3,7,32,46,High,59.6,Increase reorder point
+P-00674,3040,Power Supply,1,29,40,23,Medium,13.3,Monitor
+P-00675,2990,Cooling Fan,2,12,33,28,Medium,6.8,Monitor
+P-00676,5935,Hose Assembly,2,28,16,21,High,25.8,Monitor
+P-00677,2920,Drive Coupling,2,21,26,6,Medium,0,Monitor
+P-00678,3110,Hydraulic Pump,2,19,0,22,Medium,54.7,Increase reorder point
+P-00679,2910,Power Supply,2,18,37,6,High,0,Monitor
+P-00680,2920,Drive Coupling,3,38,26,8,Critical,25.2,Monitor
+P-00681,2920,Seal Kit,1,44,8,12,Medium,81.7,Expedite / alternate source
+P-00682,5330,Seal Kit,1,54,31,13,Medium,21.8,Monitor
+P-00683,5935,Sensor Pack,3,58,25,18,High,45.1,Monitor
+P-00684,3040,Sensor Pack,1,39,17,6,High,40.0,Monitor
+P-00685,5935,Control Module,1,60,41,35,High,69.4,Increase reorder point
+P-00686,5935,Valve Body,2,33,21,13,High,21.0,Monitor
+P-00687,4720,Hose Assembly,3,9,9,22,High,59.5,Increase reorder point
+P-00688,2815,Hydraulic Pump,3,16,52,24,High,0,Monitor
+P-00689,2910,Cooling Fan,2,49,44,13,Medium,0,Monitor
+P-00690,2930,Valve Body,1,12,5,14,High,71.8,Expedite / alternate source
+P-00691,4720,Power Supply,2,20,15,1,Medium,0,Monitor
+P-00692,2920,Valve Body,3,10,21,12,High,3.9,Monitor
+P-00693,5340,Cooling Fan,4,33,24,14,High,11.3,Monitor
+P-00694,5905,Valve Body,4,19,30,6,Low,0,Monitor
+P-00695,2930,Power Supply,2,33,11,10,Low,15.7,Monitor
+P-00696,5330,Filter Element,2,26,3,23,Medium,67.2,Increase reorder point
+P-00697,3020,Hose Assembly,2,26,24,21,Medium,19.2,Monitor
+P-00698,5935,Starter Assembly,4,7,30,20,High,0,Monitor
+P-00699,4720,Power Supply,3,27,23,10,Critical,12.9,Monitor
+P-00700,5905,Filter Element,1,63,47,13,High,12.4,Monitor
+P-00701,2920,Valve Body,3,32,30,19,Critical,16.7,Monitor
+P-00702,5340,Bearing Assembly,2,54,39,6,Medium,0,Monitor
+P-00703,3120,Cooling Fan,1,45,26,19,High,58.7,Increase reorder point
+P-00704,5905,Sensor Pack,4,37,35,1,Medium,0,Monitor
+P-00705,3020,Seal Kit,3,62,48,1,Medium,0,Monitor
+P-00706,2815,Sensor Pack,2,34,18,16,High,34.5,Monitor
+P-00707,5935,Hydraulic Pump,2,35,19,19,Low,6.1,Monitor
+P-00708,5905,Cooling Fan,3,32,33,15,High,5.6,Monitor
+P-00709,5330,Hydraulic Pump,2,33,30,29,Low,13.3,Monitor
+P-00710,3120,Filter Element,3,25,59,21,Medium,0,Monitor
+P-00711,2990,Valve Body,4,25,22,37,Low,49.9,Monitor
+P-00712,3040,Bearing Assembly,1,30,38,27,High,31.2,Monitor
+P-00713,3110,Valve Body,2,25,32,18,Low,0,Monitor
+P-00714,5905,Sensor Pack,3,51,38,16,Medium,0,Monitor
+P-00715,5330,Power Supply,3,7,30,29,Medium,23.0,Monitor
+P-00716,3020,Drive Coupling,2,40,17,23,High,47.8,Monitor
+P-00717,2910,Sensor Pack,1,21,27,16,High,40.6,Monitor
+P-00718,3120,Hydraulic Pump,2,28,17,14,Medium,15.7,Monitor
+P-00719,3110,Drive Coupling,3,30,35,23,Low,0,Monitor
+P-00720,2930,Power Supply,3,33,8,20,Medium,42.8,Monitor
+P-00721,5330,Hose Assembly,1,64,15,5,Medium,50.1,Increase reorder point
+P-00722,3120,Hydraulic Pump,4,45,57,21,High,0,Monitor
+P-00723,5905,Drive Coupling,2,26,19,18,High,34.4,Monitor
+P-00724,5905,Hose Assembly,4,30,1,10,High,56.2,Increase reorder point
+P-00725,3110,Control Module,2,38,15,21,Critical,52.5,Increase reorder point
+P-00726,3040,Power Supply,4,26,29,44,Medium,56.5,Increase reorder point
+P-00727,2920,Cooling Fan,1,77,1,29,Critical,100,Expedite / alternate source
+P-00728,2910,Cooling Fan,4,32,47,11,Medium,0,Monitor
+P-00729,3040,Drive Coupling,3,21,9,21,Critical,75.2,Expedite / alternate source
+P-00730,5935,Drive Coupling,1,68,23,20,Low,61.1,Increase reorder point
+P-00731,5340,Sensor Pack,3,37,22,28,Critical,74.5,Expedite / alternate source
+P-00732,5905,Power Supply,3,22,28,6,Medium,0,Monitor
+P-00733,3020,Control Module,2,15,11,21,High,43.4,Monitor
+P-00734,3040,Starter Assembly,3,33,24,9,High,4.0,Monitor
+P-00735,5340,Hydraulic Pump,1,43,0,33,Medium,100,Expedite / alternate source
+P-00736,2910,Starter Assembly,4,43,32,16,Low,0,Monitor
+P-00737,5330,Starter Assembly,3,28,28,9,Medium,0,Monitor
+P-00738,3120,Sensor Pack,3,23,36,25,Medium,0,Monitor
+P-00739,5340,Valve Body,3,27,4,27,Medium,76.9,Expedite / alternate source
+P-00740,2815,Hose Assembly,4,37,4,17,High,70.2,Expedite / alternate source
+P-00741,5935,Cooling Fan,2,21,15,17,High,47.1,Monitor
+P-00742,4720,Power Supply,1,23,32,17,High,38.0,Monitor
+P-00743,5905,Starter Assembly,4,26,29,30,Medium,39.2,Monitor
+P-00744,3110,Drive Coupling,3,31,40,13,High,0,Monitor
+P-00745,3020,Bearing Assembly,3,30,16,22,Medium,44.7,Monitor
+P-00746,5340,Starter Assembly,2,24,10,17,Medium,46.4,Monitor
+P-00747,2990,Sensor Pack,2,23,40,21,High,0,Monitor
+P-00748,3020,Drive Coupling,3,23,14,15,Medium,37.1,Monitor
+P-00749,4720,Drive Coupling,2,25,14,10,High,10.8,Monitor
+P-00750,5330,Power Supply,4,29,26,21,Medium,13.1,Monitor
+P-00751,3120,Hydraulic Pump,3,16,43,17,High,0,Monitor
+P-00752,2815,Valve Body,3,47,0,8,Low,33.9,Monitor
+P-00753,5935,Valve Body,1,31,0,1,Critical,68.8,Increase reorder point
+P-00754,5340,Seal Kit,2,7,31,4,Medium,0,Monitor
+P-00755,3040,Power Supply,4,31,10,19,High,57.5,Increase reorder point
+P-00756,3040,Drive Coupling,2,62,37,17,High,16.7,Monitor
+P-00757,2930,Valve Body,2,25,18,8,High,7.6,Monitor
+P-00758,2910,Sensor Pack,3,34,27,11,Medium,0,Monitor
+P-00759,3110,Seal Kit,3,33,24,14,Medium,7.1,Monitor
+P-00760,3040,Valve Body,1,41,0,8,High,87.3,Expedite / alternate source
+P-00761,5905,Hydraulic Pump,3,64,24,22,High,40.4,Monitor
+P-00762,3020,Filter Element,3,13,36,21,High,0,Monitor
+P-00763,3020,Hydraulic Pump,4,30,11,21,Critical,78.2,Expedite / alternate source
+P-00764,5330,Control Module,2,24,28,14,Critical,3.8,Monitor
+P-00765,3110,Power Supply,2,33,24,24,Medium,26.0,Monitor
+P-00766,5905,Starter Assembly,3,7,24,26,Low,0,Monitor
+P-00767,3020,Bearing Assembly,2,27,8,21,High,72.8,Expedite / alternate source
+P-00768,5330,Starter Assembly,1,20,7,22,High,91.0,Expedite / alternate source
+P-00769,3110,Valve Body,1,45,16,19,Medium,69.6,Increase reorder point
+P-00770,5905,Hydraulic Pump,2,38,41,19,High,0,Monitor
+P-00771,5905,Valve Body,2,34,9,27,High,55.3,Increase reorder point
+P-00772,3020,Hydraulic Pump,4,23,20,26,High,31.7,Monitor
+P-00773,4720,Seal Kit,2,35,29,6,High,0,Monitor
+P-00774,3110,Control Module,4,36,25,25,High,28.8,Monitor
+P-00775,2815,Sensor Pack,1,79,25,14,Medium,44.9,Monitor
+P-00776,5340,Sensor Pack,3,35,44,8,Critical,0,Monitor
+P-00777,4720,Power Supply,1,55,39,30,High,53.0,Increase reorder point
+P-00778,3020,Drive Coupling,1,48,31,14,Medium,24.3,Monitor
+P-00779,5905,Starter Assembly,3,10,28,18,Low,0,Monitor
+P-00780,2920,Hose Assembly,4,43,14,28,Low,69.7,Increase reorder point
+P-00781,3020,Cooling Fan,2,29,44,25,Low,0,Monitor
+P-00782,2815,Starter Assembly,1,51,7,32,High,100,Expedite / alternate source
+P-00783,4720,Valve Body,2,36,45,10,Medium,0,Monitor
+P-00784,2910,Control Module,3,39,13,19,High,61.5,Increase reorder point
+P-00785,3040,Seal Kit,2,23,18,11,Medium,11.6,Monitor
+P-00786,3020,Cooling Fan,2,44,40,22,Critical,16.2,Monitor
+P-00787,3110,Drive Coupling,1,31,50,5,High,0,Monitor
+P-00788,4720,Seal Kit,3,20,20,8,Critical,19.7,Monitor
+P-00789,2930,Valve Body,2,27,24,1,Medium,0,Monitor
+P-00790,3040,Valve Body,2,60,8,34,Medium,89.4,Expedite / alternate source
+P-00791,2815,Bearing Assembly,4,28,6,9,High,43.6,Monitor
+P-00792,5340,Hydraulic Pump,2,31,43,32,Critical,23.9,Monitor
+P-00793,2920,Filter Element,2,26,18,10,High,15.6,Monitor
+P-00794,5935,Valve Body,3,45,26,20,Medium,3.4,Monitor
+P-00795,5905,Filter Element,3,29,23,11,High,1.9,Monitor
+P-00796,3120,Bearing Assembly,2,30,0,9,Medium,37.5,Monitor
+P-00797,5330,Hydraulic Pump,3,13,53,1,Medium,0,Monitor
+P-00798,2815,Hydraulic Pump,2,26,24,9,High,7.9,Monitor
+P-00799,3120,Power Supply,3,38,34,5,High,0,Monitor
+P-00800,5905,Valve Body,4,23,0,18,Critical,75.2,Expedite / alternate source
+P-00801,3120,Hose Assembly,2,42,28,7,High,0,Monitor
+P-00802,3110,Power Supply,3,43,0,9,High,63.7,Increase reorder point
+P-00803,5340,Hydraulic Pump,2,34,19,13,Critical,38.7,Monitor
+P-00804,2910,Hydraulic Pump,1,54,29,21,Critical,74.5,Expedite / alternate source
+P-00805,2815,Cooling Fan,2,16,0,8,High,45.8,Monitor
+P-00806,2815,Cooling Fan,2,54,27,23,Medium,20.6,Monitor
+P-00807,4720,Filter Element,3,33,7,12,High,38.7,Monitor
+P-00808,3110,Cooling Fan,3,39,16,19,Medium,30.5,Monitor
+P-00809,2990,Bearing Assembly,1,40,60,14,High,0,Monitor
+P-00810,2920,Seal Kit,4,22,3,21,Low,56.5,Increase reorder point
+P-00811,3020,Valve Body,1,47,33,15,Medium,21.4,Monitor
+P-00812,3020,Seal Kit,2,21,21,11,Medium,14.6,Monitor
+P-00813,3110,Seal Kit,4,37,20,29,High,56.3,Increase reorder point
+P-00814,5330,Power Supply,2,59,0,18,High,64.4,Increase reorder point
+P-00815,5905,Valve Body,3,41,17,25,Low,46.1,Monitor
+P-00816,5330,Starter Assembly,1,67,27,19,Medium,62.6,Increase reorder point
+P-00817,4720,Hose Assembly,2,7,19,18,Low,0,Monitor
+P-00818,5935,Sensor Pack,3,66,13,9,High,51.2,Increase reorder point
+P-00819,3120,Bearing Assembly,4,24,30,23,Medium,0,Monitor
+P-00820,2990,Filter Element,2,58,19,30,Medium,70.9,Expedite / alternate source
+P-00821,3040,Sensor Pack,2,42,0,1,Medium,41.1,Monitor
+P-00822,4720,Valve Body,1,52,40,35,Low,28.2,Monitor
+P-00823,4720,Drive Coupling,1,21,41,8,High,0,Monitor
+P-00824,5905,Seal Kit,2,35,13,1,Medium,1.7,Monitor
+P-00825,4720,Cooling Fan,2,29,13,19,Medium,32.7,Monitor
+P-00826,5330,Hose Assembly,2,13,0,8,High,47.4,Monitor
+P-00827,2930,Bearing Assembly,1,40,71,31,High,0,Monitor
+P-00828,4720,Drive Coupling,4,18,11,16,High,35.1,Monitor
+P-00829,4720,Bearing Assembly,4,32,28,10,Medium,0.9,Monitor
+P-00830,2920,Bearing Assembly,2,7,40,13,High,0,Monitor
+P-00831,2910,Starter Assembly,2,13,5,13,Medium,29.9,Monitor
+P-00832,3020,Hose Assembly,3,27,47,10,Medium,0,Monitor
+P-00833,2920,Bearing Assembly,1,43,49,1,Medium,0,Monitor
+P-00834,2930,Seal Kit,3,42,0,5,Critical,59.7,Increase reorder point
+P-00835,5935,Starter Assembly,3,22,0,1,Low,23.1,Monitor
+P-00836,2920,Bearing Assembly,2,24,37,25,High,0,Monitor
+P-00837,5905,Filter Element,1,40,47,21,High,13.6,Monitor
+P-00838,5340,Control Module,2,39,64,4,Low,0,Monitor
+P-00839,2815,Sensor Pack,3,36,25,20,Low,0,Monitor
+P-00840,2910,Cooling Fan,1,47,26,21,High,63.2,Increase reorder point
+P-00841,4720,Control Module,2,26,29,30,Critical,30.8,Monitor
+P-00842,3020,Filter Element,1,25,23,18,Low,41.1,Monitor
+P-00843,4720,Bearing Assembly,3,22,0,25,Low,78.9,Expedite / alternate source
+P-00844,5340,Hydraulic Pump,4,53,9,4,Medium,28.1,Monitor
+P-00845,5330,Hydraulic Pump,2,21,35,19,Low,0,Monitor
+P-00846,3020,Hydraulic Pump,2,13,21,13,High,12.6,Monitor
+P-00847,2910,Filter Element,2,18,34,16,High,0,Monitor
+P-00848,2930,Starter Assembly,2,44,22,29,High,44.3,Monitor
+P-00849,5330,Filter Element,1,64,23,25,High,90.9,Expedite / alternate source
+P-00850,2910,Hydraulic Pump,1,32,35,34,Critical,84.3,Expedite / alternate source
+P-00851,2910,Filter Element,4,20,41,22,High,0,Monitor
+P-00852,5340,Sensor Pack,2,25,4,15,High,69.9,Increase reorder point
+P-00853,3040,Filter Element,2,18,14,10,High,19.7,Monitor
+P-00854,2910,Hydraulic Pump,2,10,24,20,Low,0,Monitor
+P-00855,2910,Sensor Pack,3,43,21,15,High,24.3,Monitor
+P-00856,2910,Hydraulic Pump,3,13,21,10,High,2.4,Monitor
+P-00857,3120,Cooling Fan,3,36,6,33,Critical,100,Expedite / alternate source
+P-00858,2910,Drive Coupling,2,39,11,23,High,67.0,Increase reorder point
+P-00859,5905,Cooling Fan,4,37,37,14,High,0,Monitor
+P-00860,4720,Hose Assembly,2,13,17,6,Medium,0,Monitor
+P-00861,2815,Drive Coupling,2,18,16,11,Medium,0,Monitor
+P-00862,2815,Bearing Assembly,3,39,34,22,High,3.2,Monitor
+P-00863,5330,Filter Element,2,7,44,15,Medium,0,Monitor
+P-00864,2930,Hose Assembly,2,48,35,21,Medium,0.7,Monitor
+P-00865,3120,Filter Element,1,39,10,8,Low,44.3,Monitor
+P-00866,3110,Valve Body,1,40,41,16,High,16.3,Monitor
+P-00867,5340,Hose Assembly,2,7,24,15,Medium,0,Monitor
+P-00868,3040,Control Module,2,44,2,23,Medium,70.0,Expedite / alternate source
+P-00869,2815,Cooling Fan,4,21,30,17,High,0,Monitor
+P-00870,2910,Valve Body,2,52,35,11,High,0,Monitor
+P-00871,5330,Cooling Fan,3,23,45,14,Medium,0,Monitor
+P-00872,3120,Sensor Pack,3,7,14,10,Medium,0,Monitor
+P-00873,3110,Control Module,3,44,0,16,High,88.7,Expedite / alternate source
+P-00874,5935,Drive Coupling,4,29,18,21,Medium,39.0,Monitor
+P-00875,5340,Hose Assembly,3,38,11,30,High,67.2,Increase reorder point
+P-00876,5935,Drive Coupling,2,28,32,15,Medium,0,Monitor
+P-00877,2920,Control Module,1,51,11,1,Medium,44.3,Monitor
+P-00878,2815,Control Module,1,55,32,22,Medium,33.2,Monitor
+P-00879,5935,Bearing Assembly,4,27,24,20,High,21.5,Monitor
+P-00880,5935,Hydraulic Pump,4,18,31,15,Critical,1.8,Monitor
+P-00881,5340,Seal Kit,2,15,16,27,High,58.6,Increase reorder point
+P-00882,5905,Starter Assembly,2,37,16,29,Medium,67.0,Increase reorder point
+P-00883,4720,Power Supply,2,29,12,13,Medium,28.2,Monitor
+P-00884,2990,Sensor Pack,2,33,20,4,Low,0,Monitor
+P-00885,3120,Drive Coupling,2,30,36,19,High,0,Monitor
+P-00886,3020,Cooling Fan,1,66,19,25,Critical,97.6,Expedite / alternate source
+P-00887,5340,Hose Assembly,2,18,19,26,High,41.3,Monitor
+P-00888,2910,Starter Assembly,4,38,12,25,Critical,75.2,Expedite / alternate source
+P-00889,2990,Cooling Fan,1,52,14,22,Critical,100,Expedite / alternate source
+P-00890,5330,Filter Element,4,31,8,35,High,97.8,Expedite / alternate source
+P-00891,3110,Sensor Pack,3,41,17,1,Low,0,Monitor
+P-00892,2920,Power Supply,2,43,30,16,Medium,0,Monitor
+P-00893,5340,Bearing Assembly,3,24,16,5,Low,0,Monitor
+P-00894,2930,Hose Assembly,2,23,20,18,High,38.9,Monitor
+P-00895,5330,Seal Kit,4,20,0,13,High,65.9,Increase reorder point
+P-00896,2990,Seal Kit,3,41,0,20,Medium,82.4,Expedite / alternate source
+P-00897,3040,Valve Body,2,60,13,10,Critical,47.4,Monitor
+P-00898,3110,Control Module,2,32,20,9,Medium,0,Monitor
+P-00899,3020,Seal Kit,4,46,40,1,Medium,0,Monitor
+P-00900,5330,Sensor Pack,1,45,14,28,Medium,80.9,Expedite / alternate source
+P-00901,3110,Drive Coupling,1,59,8,25,High,100,Expedite / alternate source
+P-00902,3040,Seal Kit,2,37,33,17,Critical,26.2,Monitor
+P-00903,3020,Valve Body,3,28,24,23,High,36.4,Monitor
+P-00904,5330,Control Module,3,24,0,17,Low,54.2,Increase reorder point
+P-00905,3020,Control Module,2,18,40,10,High,0,Monitor
+P-00906,5905,Bearing Assembly,1,34,23,31,Medium,70.6,Expedite / alternate source
+P-00907,3120,Bearing Assembly,3,28,41,34,Medium,1.0,Monitor
+P-00908,3020,Power Supply,3,34,29,22,Critical,34.4,Monitor
+P-00909,5935,Cooling Fan,3,40,18,26,High,49.9,Monitor
+P-00910,2990,Starter Assembly,2,39,15,33,Medium,68.6,Increase reorder point
+P-00911,5935,Hose Assembly,3,21,27,23,High,22.5,Monitor
+P-00912,2920,Power Supply,2,52,45,8,Critical,0,Monitor
+P-00913,3120,Sensor Pack,2,46,39,22,Medium,1.8,Monitor
+P-00914,2990,Seal Kit,4,29,0,5,Medium,30.4,Monitor
+P-00915,2815,Starter Assembly,3,43,54,18,Low,0,Monitor
+P-00916,3020,Bearing Assembly,2,37,23,3,Low,0,Monitor
+P-00917,3020,Seal Kit,1,26,29,5,Medium,0,Monitor
+P-00918,5330,Bearing Assembly,2,48,29,1,Critical,0.4,Monitor
+P-00919,5905,Valve Body,1,64,3,14,High,100,Expedite / alternate source
+P-00920,3120,Valve Body,2,22,29,35,Low,21.8,Monitor
+P-00921,5935,Control Module,1,50,11,18,Medium,67.2,Increase reorder point
+P-00922,3110,Drive Coupling,3,56,8,11,Low,32.8,Monitor
+P-00923,3020,Starter Assembly,2,16,28,16,Low,0,Monitor
+P-00924,3040,Filter Element,3,16,30,25,Medium,7.6,Monitor
+P-00925,2930,Hose Assembly,3,39,38,10,Medium,0,Monitor
+P-00926,3040,Hydraulic Pump,4,22,25,31,High,55.7,Increase reorder point
+P-00927,3120,Drive Coupling,2,35,25,22,Medium,21.7,Monitor
+P-00928,2910,Sensor Pack,3,20,19,17,High,27.9,Monitor
+P-00929,2910,Power Supply,3,33,32,15,Critical,12.8,Monitor
+P-00930,2990,Filter Element,3,9,30,12,Critical,0,Monitor
+P-00931,5935,Seal Kit,2,65,44,17,Medium,0,Monitor
+P-00932,2815,Bearing Assembly,2,50,25,9,High,12.3,Monitor
+P-00933,5340,Valve Body,3,21,49,7,Critical,0,Monitor
+P-00934,5330,Drive Coupling,4,36,28,24,High,42.7,Monitor
+P-00935,2930,Bearing Assembly,2,17,6,6,High,31.8,Monitor
+P-00936,2930,Hydraulic Pump,2,14,27,23,Medium,7.6,Monitor
+P-00937,5340,Sensor Pack,4,7,29,12,High,0,Monitor
+P-00938,5935,Drive Coupling,1,67,25,12,High,32.5,Monitor
+P-00939,5340,Valve Body,3,19,19,7,High,2.8,Monitor
+P-00940,4720,Hose Assembly,4,36,15,19,High,47.2,Monitor
+P-00941,3120,Hydraulic Pump,2,12,0,27,High,91.5,Expedite / alternate source
+P-00942,3110,Power Supply,2,41,44,8,High,0,Monitor
+P-00943,4720,Hose Assembly,2,8,6,15,Medium,28.7,Monitor
+P-00944,5340,Drive Coupling,4,40,4,16,High,52.2,Increase reorder point
+P-00945,5935,Seal Kit,3,25,48,15,Medium,0,Monitor
+P-00946,4720,Sensor Pack,1,9,48,15,Low,0,Monitor
+P-00947,2815,Filter Element,4,24,30,26,Low,0,Monitor
+P-00948,2910,Filter Element,2,24,18,19,Medium,29.5,Monitor
+P-00949,3020,Bearing Assembly,3,7,12,29,High,46.3,Monitor
+P-00950,2910,Power Supply,1,71,15,32,Critical,100,Expedite / alternate source
+P-00951,5905,Valve Body,3,34,18,8,Medium,1.1,Monitor
+P-00952,2910,Control Module,4,36,34,8,High,0,Monitor
+P-00953,2910,Seal Kit,3,26,31,23,Medium,0,Monitor
+P-00954,5905,Bearing Assembly,2,34,11,14,Medium,33.2,Monitor
+P-00955,5905,Drive Coupling,2,25,16,18,Medium,17.8,Monitor
+P-00956,5905,Drive Coupling,2,16,32,27,Medium,0,Monitor
+P-00957,2815,Sensor Pack,1,73,25,21,Medium,66.2,Increase reorder point
+P-00958,5905,Seal Kit,2,26,26,22,High,21.4,Monitor
+P-00959,5330,Power Supply,3,56,0,1,High,59.1,Increase reorder point
+P-00960,5935,Cooling Fan,3,24,36,26,High,0,Monitor
+P-00961,2920,Power Supply,2,11,0,9,Medium,26.0,Monitor
+P-00962,3020,Hose Assembly,2,33,36,25,High,13.6,Monitor
+P-00963,5340,Seal Kit,3,20,21,10,Medium,0,Monitor
+P-00964,5330,Seal Kit,1,61,12,17,Medium,95.6,Expedite / alternate source
+P-00965,3040,Starter Assembly,1,60,29,12,Low,18.2,Monitor
+P-00966,5330,Hydraulic Pump,2,28,23,14,High,18.6,Monitor
+P-00967,4720,Valve Body,3,49,15,21,Medium,43.3,Monitor
+P-00968,5330,Power Supply,3,38,35,17,High,0,Monitor
+P-00969,2930,Filter Element,2,38,36,14,Medium,0,Monitor
+P-00970,2920,Sensor Pack,2,48,34,8,High,0,Monitor
+P-00971,5935,Cooling Fan,3,7,0,9,High,23.6,Monitor
+P-00972,3040,Seal Kit,1,63,40,27,Critical,73.1,Expedite / alternate source
+P-00973,2910,Power Supply,2,7,28,26,Critical,26.8,Monitor
+P-00974,4720,Drive Coupling,1,40,33,13,Medium,13.4,Monitor
+P-00975,3020,Cooling Fan,2,37,25,19,Critical,29.0,Monitor
+P-00976,2990,Cooling Fan,2,36,8,23,Critical,87.9,Expedite / alternate source
+P-00977,3040,Sensor Pack,3,7,11,20,High,32.7,Monitor
+P-00978,4720,Seal Kit,3,14,23,8,Critical,7.4,Monitor
+P-00979,3020,Hydraulic Pump,3,22,10,18,High,55.7,Increase reorder point
+P-00980,5330,Sensor Pack,3,12,0,14,High,45.4,Monitor
+P-00981,5340,Cooling Fan,3,42,37,22,High,18.5,Monitor
+P-00982,2815,Valve Body,3,30,6,31,High,90.9,Expedite / alternate source
+P-00983,2815,Cooling Fan,3,30,47,25,High,0,Monitor
+P-00984,4720,Filter Element,2,56,32,27,Medium,29.0,Monitor
+P-00985,5935,Starter Assembly,2,29,31,22,Medium,7.0,Monitor
+P-00986,2990,Hydraulic Pump,1,68,17,39,Medium,100,Expedite / alternate source
+P-00987,5340,Bearing Assembly,2,36,28,23,Critical,35.0,Monitor
+P-00988,2910,Bearing Assembly,2,30,4,2,Medium,20.7,Monitor
+P-00989,2910,Cooling Fan,1,34,27,8,Medium,13.7,Monitor
+P-00990,2815,Cooling Fan,3,24,20,19,Medium,7.4,Monitor
+P-00991,4720,Drive Coupling,2,39,9,19,High,57.1,Increase reorder point
+P-00992,2920,Control Module,3,7,39,17,Medium,0,Monitor
+P-00993,5935,Valve Body,2,30,23,27,High,39.6,Monitor
+P-00994,5935,Hose Assembly,2,18,41,8,Low,0,Monitor
+P-00995,5340,Starter Assembly,3,25,38,21,High,0,Monitor
+P-00996,2990,Drive Coupling,2,7,23,34,High,33.2,Monitor
+P-00997,5905,Power Supply,2,31,66,12,High,0,Monitor
+P-00998,2815,Power Supply,1,64,14,19,Medium,82.2,Expedite / alternate source
+P-00999,3120,Power Supply,3,31,5,21,Low,41.0,Monitor
+P-01000,2815,Hose Assembly,2,56,52,9,Medium,0,Monitor
+P-01001,5935,Power Supply,4,39,34,18,High,5.3,Monitor
+P-01002,5905,Cooling Fan,3,27,14,23,High,42.4,Monitor
+P-01003,2930,Control Module,4,33,23,3,High,0,Monitor
+P-01004,2815,Control Module,4,25,18,16,Medium,26.6,Monitor
+P-01005,2930,Hose Assembly,3,21,6,23,High,76.5,Expedite / alternate source
+P-01006,2920,Cooling Fan,4,47,0,17,High,74.9,Expedite / alternate source
+P-01007,2815,Power Supply,3,14,9,18,Medium,35.2,Monitor
+P-01008,5330,Hose Assembly,1,61,18,25,High,94.8,Expedite / alternate source
+P-01009,3110,Sensor Pack,2,31,0,19,Medium,73.2,Expedite / alternate source
+P-01010,3110,Filter Element,1,49,29,16,High,43.6,Monitor
+P-01011,5340,Drive Coupling,4,38,19,16,High,34.8,Monitor
+P-01012,2815,Sensor Pack,2,54,28,33,Medium,42.6,Monitor
+P-01013,3110,Control Module,4,42,0,11,Low,46.6,Monitor
+P-01014,4720,Valve Body,2,42,33,35,Critical,72.8,Expedite / alternate source
+P-01015,3040,Filter Element,4,21,0,32,Low,87.4,Expedite / alternate source
+P-01016,4720,Hose Assembly,2,33,27,34,Medium,46.6,Monitor
+P-01017,4720,Drive Coupling,2,13,11,26,High,58.7,Increase reorder point
+P-01018,4720,Valve Body,1,35,5,28,High,100,Expedite / alternate source
+P-01019,2910,Hydraulic Pump,1,43,4,28,Medium,97.9,Expedite / alternate source
+P-01020,3120,Cooling Fan,2,10,26,19,Low,0,Monitor
+P-01021,2920,Cooling Fan,3,9,22,10,High,4.8,Monitor
+P-01022,2920,Seal Kit,2,20,16,28,High,53.6,Increase reorder point
+P-01023,2920,Bearing Assembly,2,37,6,25,Critical,94.6,Expedite / alternate source
+P-01024,5330,Control Module,3,18,42,9,High,0,Monitor
+P-01025,3020,Valve Body,3,23,34,15,Critical,4.2,Monitor
+P-01026,2815,Sensor Pack,2,39,24,19,Medium,29.6,Monitor
+P-01027,5340,Filter Element,4,19,34,18,Low,0,Monitor
+P-01028,3020,Bearing Assembly,3,39,36,4,Medium,0,Monitor
+P-01029,2815,Control Module,2,43,51,16,High,0,Monitor
+P-01030,2920,Control Module,1,64,0,31,Medium,100,Expedite / alternate source
+P-01031,5905,Hydraulic Pump,2,33,40,12,Medium,0,Monitor
+P-01032,3120,Valve Body,4,33,20,30,High,72.5,Expedite / alternate source
+P-01033,2930,Starter Assembly,2,16,38,24,Low,0,Monitor
+P-01034,4720,Valve Body,2,7,18,16,High,19.8,Monitor
+P-01035,5935,Seal Kit,4,58,17,18,High,55.3,Increase reorder point
+P-01036,5330,Valve Body,1,24,22,11,High,27.5,Monitor
+P-01037,3110,Seal Kit,2,14,40,15,Medium,0,Monitor
+P-01038,3040,Hose Assembly,4,26,21,19,Critical,45.2,Monitor
+P-01039,3040,Control Module,2,43,11,26,High,71.6,Expedite / alternate source
+P-01040,2920,Hydraulic Pump,2,19,22,28,Medium,34.1,Monitor
+P-01041,3110,Sensor Pack,2,18,37,17,Medium,0,Monitor
+P-01042,2990,Hose Assembly,1,57,16,6,Low,37.2,Monitor
+P-01043,2990,Control Module,1,51,25,19,Medium,55.9,Increase reorder point
+P-01044,2990,Power Supply,4,25,13,9,Critical,7.8,Monitor
+P-01045,5905,Power Supply,3,31,22,12,High,27.2,Monitor
+P-01046,3040,Drive Coupling,4,30,21,2,Critical,0,Monitor
+P-01047,5935,Drive Coupling,2,28,13,19,High,57.2,Increase reorder point
+P-01048,3110,Power Supply,4,26,29,23,Critical,24.1,Monitor
+P-01049,3040,Control Module,2,32,21,29,Medium,55.7,Increase reorder point
+P-01050,5340,Bearing Assembly,2,22,12,19,High,53.8,Increase reorder point
+P-01051,5905,Power Supply,3,28,26,22,Medium,0,Monitor
+P-01052,3020,Valve Body,3,14,11,34,Medium,49.7,Monitor
+P-01053,3040,Hydraulic Pump,3,32,30,9,Critical,0,Monitor
+P-01054,2910,Seal Kit,1,44,22,14,Medium,34.0,Monitor
+P-01055,2910,Drive Coupling,2,32,45,20,High,0,Monitor
+P-01056,2920,Filter Element,4,23,28,26,High,32.6,Monitor
+P-01057,2910,Drive Coupling,4,34,18,20,High,49.3,Monitor
+P-01058,3110,Seal Kit,3,47,16,4,Medium,7.3,Monitor
+P-01059,2815,Seal Kit,2,38,5,18,High,74.6,Expedite / alternate source
+P-01060,3110,Sensor Pack,2,35,25,5,Medium,0,Monitor
+P-01061,5935,Power Supply,3,9,41,23,Medium,0,Monitor
+P-01062,4720,Power Supply,2,14,38,16,High,0,Monitor
+P-01063,2815,Control Module,4,45,49,5,Low,0,Monitor
+P-01064,5340,Power Supply,4,42,15,18,Medium,33.6,Monitor
+P-01065,5905,Hydraulic Pump,3,32,8,21,Low,50.9,Increase reorder point
+P-01066,2815,Hydraulic Pump,3,22,9,12,Medium,33.4,Monitor
+P-01067,2815,Bearing Assembly,2,28,16,13,Medium,9.0,Monitor
+P-01068,2910,Starter Assembly,3,26,8,10,Medium,27.9,Monitor
+P-01069,5935,Bearing Assembly,3,33,30,17,High,2.7,Monitor
+P-01070,2815,Hose Assembly,2,21,27,13,High,0,Monitor
+P-01071,3110,Power Supply,1,36,10,11,Low,40.0,Monitor
+P-01072,5340,Cooling Fan,2,26,21,13,Medium,8.4,Monitor
+P-01073,2930,Control Module,1,10,45,14,High,0,Monitor
+P-01074,2930,Hydraulic Pump,3,34,16,22,Low,39.1,Monitor
+P-01075,3020,Filter Element,3,33,33,1,Medium,0,Monitor
+P-01076,2930,Hydraulic Pump,2,36,37,14,Medium,0,Monitor
+P-01077,2910,Hose Assembly,4,22,12,23,Medium,46.6,Monitor
+P-01078,4720,Sensor Pack,4,43,35,35,Medium,30.7,Monitor
+P-01079,2910,Valve Body,2,20,13,31,Medium,52.3,Increase reorder point
+P-01080,2920,Hose Assembly,3,15,0,16,Low,40.9,Monitor
+P-01081,4720,Sensor Pack,2,23,15,1,Medium,0,Monitor
+P-01082,4720,Hydraulic Pump,2,28,0,15,Medium,54.5,Increase reorder point
+P-01083,2990,Control Module,1,49,27,28,Critical,82.2,Expedite / alternate source
+P-01084,5340,Filter Element,1,37,48,33,Medium,26.8,Monitor
+P-01085,5935,Cooling Fan,3,32,48,14,Low,0,Monitor
+P-01086,5330,Control Module,4,26,13,25,Medium,41.7,Monitor
+P-01087,5330,Bearing Assembly,1,13,25,44,Critical,100,Expedite / alternate source
+P-01088,2920,Hydraulic Pump,1,24,15,21,Medium,71.5,Expedite / alternate source
+P-01089,3110,Cooling Fan,1,52,38,11,High,11.0,Monitor
+P-01090,5330,Control Module,2,31,17,26,Medium,43.5,Monitor
+P-01091,3110,Drive Coupling,3,27,0,24,Low,54.8,Increase reorder point
+P-01092,3040,Drive Coupling,4,31,0,13,High,61.1,Increase reorder point
+P-01093,2990,Drive Coupling,2,16,28,15,Medium,0,Monitor
+P-01094,3110,Control Module,1,48,26,3,High,21.7,Monitor
+P-01095,3040,Drive Coupling,4,18,36,10,Medium,0,Monitor
+P-01096,2815,Hydraulic Pump,2,21,20,11,Critical,24.1,Monitor
+P-01097,5340,Filter Element,3,8,25,13,Critical,0,Monitor
+P-01098,5340,Control Module,2,55,29,8,High,0,Monitor
+P-01099,5330,Seal Kit,2,9,30,17,Critical,17.2,Monitor
+P-01100,5935,Seal Kit,1,50,2,25,High,100,Expedite / alternate source
+P-01101,2910,Starter Assembly,4,35,17,5,High,16.3,Monitor
+P-01102,3120,Hose Assembly,4,10,11,18,Critical,32.7,Monitor
+P-01103,2910,Hose Assembly,3,37,0,17,High,81.2,Expedite / alternate source
+P-01104,5340,Cooling Fan,1,55,39,30,Medium,54.3,Increase reorder point
+P-01105,3040,Hose Assembly,2,22,27,19,High,16.5,Monitor
+P-01106,3120,Hydraulic Pump,2,33,15,23,High,55.6,Increase reorder point
+P-01107,2990,Drive Coupling,2,35,20,15,Low,5.8,Monitor
+P-01108,2910,Cooling Fan,1,58,26,2,Low,8.4,Monitor
+P-01109,2990,Bearing Assembly,3,30,19,21,Medium,42.7,Monitor
+P-01110,3120,Cooling Fan,4,17,26,10,Critical,7.5,Monitor
+P-01111,3020,Control Module,4,23,11,25,Medium,54.1,Increase reorder point
+P-01112,2910,Bearing Assembly,2,22,1,21,High,71.3,Expedite / alternate source
+P-01113,5935,Starter Assembly,2,21,0,9,High,57.5,Increase reorder point
+P-01114,3110,Starter Assembly,2,45,64,33,Low,0,Monitor
+P-01115,3020,Bearing Assembly,4,28,1,19,High,82.2,Expedite / alternate source
+P-01116,5905,Hydraulic Pump,2,60,10,4,High,39.6,Monitor
+P-01117,2910,Power Supply,2,12,9,30,High,58.9,Increase reorder point
+P-01118,5340,Starter Assembly,1,42,24,32,Critical,75.4,Expedite / alternate source
+P-01119,3110,Seal Kit,4,45,19,11,Medium,13.6,Monitor
+P-01120,5330,Power Supply,1,27,33,29,Critical,79.6,Expedite / alternate source
+P-01121,5905,Cooling Fan,2,29,41,21,Medium,0,Monitor
+P-01122,3120,Hose Assembly,3,48,36,32,High,22.2,Monitor
+P-01123,4720,Hydraulic Pump,3,14,40,17,High,0,Monitor
+P-01124,3120,Drive Coupling,4,31,31,21,High,14.9,Monitor
+P-01125,2930,Power Supply,4,23,20,14,High,24.7,Monitor
+P-01126,2990,Bearing Assembly,3,35,37,4,High,0,Monitor
+P-01127,5905,Seal Kit,3,22,17,9,Medium,8.6,Monitor
+P-01128,2920,Cooling Fan,4,14,24,13,High,0,Monitor
+P-01129,5905,Power Supply,1,40,40,15,High,7.1,Monitor
+P-01130,4720,Sensor Pack,3,32,36,21,High,2.0,Monitor
+P-01131,2920,Power Supply,2,27,0,17,Critical,79.7,Expedite / alternate source
+P-01132,2920,Sensor Pack,3,22,50,22,Low,0,Monitor
+P-01133,3040,Filter Element,2,17,26,15,High,5.1,Monitor
+P-01134,2990,Power Supply,4,24,5,24,High,77.1,Expedite / alternate source
+P-01135,5935,Bearing Assembly,4,26,7,20,High,64.6,Increase reorder point
+P-01136,2990,Seal Kit,2,33,14,13,Critical,39.8,Monitor
+P-01137,2910,Hose Assembly,3,38,12,31,Medium,69.4,Increase reorder point
+P-01138,2815,Hydraulic Pump,2,7,29,26,Medium,11.7,Monitor
+P-01139,3040,Seal Kit,3,26,26,18,High,23.9,Monitor
+P-01140,2920,Hose Assembly,3,36,0,16,Medium,60.0,Increase reorder point
+P-01141,5935,Hose Assembly,2,19,11,22,Medium,42.9,Monitor
+P-01142,5330,Hose Assembly,4,32,43,28,High,1.9,Monitor
+P-01143,2910,Valve Body,2,9,26,7,Low,0,Monitor
+P-01144,2910,Power Supply,4,32,14,18,High,42.9,Monitor
+P-01145,3120,Starter Assembly,2,11,21,14,Medium,0,Monitor
+P-01146,5905,Control Module,4,37,18,13,High,24.4,Monitor
+P-01147,5905,Filter Element,1,54,31,24,Critical,81.0,Expedite / alternate source
+P-01148,2815,Hydraulic Pump,4,16,23,8,Critical,3.5,Monitor
+P-01149,2815,Control Module,2,45,17,20,Medium,27.9,Monitor
+P-01150,4720,Sensor Pack,3,7,17,11,Medium,6.6,Monitor
+P-01151,2910,Hose Assembly,4,30,33,12,Critical,14.7,Monitor
+P-01152,4720,Starter Assembly,2,25,30,15,Medium,0,Monitor
+P-01153,3040,Hose Assembly,4,25,27,17,High,18.2,Monitor
+P-01154,3120,Control Module,1,43,0,16,Medium,89.9,Expedite / alternate source
+P-01155,5330,Hose Assembly,4,18,14,34,Medium,82.4,Expedite / alternate source
+P-01156,2815,Valve Body,2,27,42,14,Medium,0,Monitor
+P-01157,2910,Filter Element,4,31,15,20,Low,21.9,Monitor
+P-01158,2930,Drive Coupling,4,31,16,1,High,0,Monitor
+P-01159,5905,Sensor Pack,1,37,39,16,Low,4.0,Monitor
+P-01160,2815,Seal Kit,2,30,14,22,High,40.8,Monitor
+P-01161,3120,Valve Body,4,14,35,17,High,0,Monitor
+P-01162,5330,Seal Kit,1,37,19,29,Medium,72.7,Expedite / alternate source
+P-01163,5905,Control Module,3,16,32,10,Medium,0,Monitor
+P-01164,2990,Cooling Fan,4,7,20,23,High,25.8,Monitor
+P-01165,2910,Cooling Fan,2,27,30,30,Critical,51.0,Increase reorder point
+P-01166,2920,Valve Body,1,47,4,1,Critical,78.0,Expedite / alternate source
+P-01167,3040,Hose Assembly,3,28,6,1,Critical,31.7,Monitor
+P-01168,5340,Hydraulic Pump,2,7,1,17,High,44.4,Monitor
+P-01169,5340,Filter Element,2,27,0,26,High,75.3,Expedite / alternate source
+P-01170,4720,Bearing Assembly,3,50,19,26,Medium,44.3,Monitor
+P-01171,2910,Filter Element,4,7,20,10,Medium,0,Monitor
+P-01172,2910,Filter Element,4,30,42,18,Medium,0,Monitor
+P-01173,2990,Cooling Fan,2,28,4,19,Critical,85.1,Expedite / alternate source
+P-01174,5330,Starter Assembly,4,45,27,10,Medium,0,Monitor
+P-01175,4720,Sensor Pack,2,29,25,22,Medium,14.1,Monitor
+P-01176,2910,Drive Coupling,2,44,33,20,High,17.0,Monitor
+P-01177,2920,Hose Assembly,2,16,26,5,High,0,Monitor
+P-01178,2990,Hydraulic Pump,4,21,10,27,Low,59.2,Increase reorder point
+P-01179,5935,Power Supply,2,31,27,6,Critical,9.0,Monitor
+P-01180,2920,Hose Assembly,2,9,26,17,High,11.5,Monitor
+P-01181,5905,Hose Assembly,3,19,46,25,Critical,0,Monitor
+P-01182,5935,Drive Coupling,1,71,17,23,Low,85.5,Expedite / alternate source
+P-01183,5330,Control Module,1,55,10,17,High,91.1,Expedite / alternate source
+P-01184,2990,Sensor Pack,1,30,32,17,Medium,14.4,Monitor
+P-01185,2910,Cooling Fan,4,30,51,22,High,0,Monitor
+P-01186,5340,Power Supply,3,48,66,7,Medium,0,Monitor
+P-01187,2920,Drive Coupling,1,80,21,6,Low,43.9,Monitor
+P-01188,2815,Drive Coupling,2,23,43,18,High,0,Monitor
+P-01189,3120,Drive Coupling,3,26,35,16,Medium,0,Monitor
+P-01190,3020,Bearing Assembly,2,50,24,14,Medium,19.4,Monitor
+P-01191,4720,Hydraulic Pump,2,29,41,15,High,0,Monitor
+P-01192,5330,Starter Assembly,3,39,34,23,High,3.0,Monitor
+P-01193,4720,Filter Element,2,26,43,21,High,0,Monitor
+P-01194,4720,Hydraulic Pump,1,76,17,20,Medium,79.6,Expedite / alternate source
+P-01195,2910,Hydraulic Pump,4,21,15,2,High,3.1,Monitor
+P-01196,2920,Bearing Assembly,1,28,35,29,High,39.7,Monitor
+P-01197,3120,Filter Element,4,8,31,20,Medium,0,Monitor
+P-01198,3120,Bearing Assembly,1,42,62,12,Low,0,Monitor
+P-01199,5340,Control Module,3,12,37,34,Medium,0,Monitor
+P-01200,5905,Starter Assembly,2,32,9,17,Medium,48.3,Monitor

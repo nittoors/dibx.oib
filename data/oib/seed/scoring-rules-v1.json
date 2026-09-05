@@ -1,0 +1,132 @@
+{
+  "code": "prototype-v1",
+  "effective_from": "2026-09-03",
+  "description": "Approved synthetic OIB connectivity screening rules with Green 75+, Yellow 45-74, and Red 0-44.",
+  "dimensions": {
+    "connectivity": {
+      "max_points": 28,
+      "values": {
+        "NATIVE_DIGITAL": 28,
+        "VENDOR_DIGITAL": 20,
+        "LEGACY_ANALOG": 8
+      },
+      "aliases": {
+        "Native Digital": "NATIVE_DIGITAL",
+        "Vendor Digital": "VENDOR_DIGITAL",
+        "Legacy Analog": "LEGACY_ANALOG"
+      }
+    },
+    "protocol": {
+      "max_points": 18,
+      "values": {
+        "MTCONNECT": 18,
+        "OPC_UA": 18,
+        "REST_API": 16,
+        "CONTROLLER_API": 16,
+        "OEM_CLOUD_API": 12,
+        "MODBUS": 10,
+        "SERIAL_PLC": 6,
+        "PROPRIETARY_GATEWAY": 6,
+        "RETROFIT_SENSORS": 6,
+        "NONE": 0
+      },
+      "aliases": {
+        "MTConnect": "MTCONNECT",
+        "OPC UA": "OPC_UA",
+        "REST API": "REST_API",
+        "Controller API": "CONTROLLER_API",
+        "OEM Cloud API": "OEM_CLOUD_API",
+        "Modbus": "MODBUS",
+        "Modbus TCP": "MODBUS",
+        "Serial/PLC": "SERIAL_PLC",
+        "Proprietary Gateway": "PROPRIETARY_GATEWAY",
+        "Retrofit Sensors": "RETROFIT_SENSORS",
+        "None": "NONE"
+      }
+    },
+    "data_rights": {
+      "max_points": 18,
+      "values": {
+        "GOVERNMENT_USABLE": 18,
+        "LIMITED_LICENSE": 10,
+        "OEM_RESTRICTED": 10,
+        "CONTRACT_UNCLEAR": 5,
+        "UNKNOWN": 5,
+        "NO_ACCESS": 0
+      },
+      "aliases": {
+        "Government usable": "GOVERNMENT_USABLE",
+        "Limited license": "LIMITED_LICENSE",
+        "OEM restricted": "OEM_RESTRICTED",
+        "Contract unclear": "CONTRACT_UNCLEAR",
+        "Unknown": "UNKNOWN",
+        "No access": "NO_ACCESS"
+      }
+    },
+    "cyber_status": {
+      "max_points": 16,
+      "values": {
+        "APPROVED": 16,
+        "ISOLATED": 10,
+        "NEEDS_REVIEW": 4,
+        "UNKNOWN": 4,
+        "NOT_ASSESSED": 0
+      },
+      "aliases": {
+        "Approved": "APPROVED",
+        "Approved segment": "APPROVED",
+        "Isolated": "ISOLATED",
+        "Needs review": "NEEDS_REVIEW",
+        "Unknown": "UNKNOWN",
+        "Not assessed": "NOT_ASSESSED"
+      }
+    },
+    "history": {
+      "max_points": 10,
+      "values": {
+        "GT_24_MONTHS": 10,
+        "MONTHS_6_TO_24": 7,
+        "LT_6_MONTHS": 3,
+        "NONE": 0
+      },
+      "aliases": {
+        ">24 months": "GT_24_MONTHS",
+        "6-24 months": "MONTHS_6_TO_24",
+        "<6 months": "LT_6_MONTHS",
+        "None": "NONE"
+      }
+    },
+    "data_quality": {
+      "max_points": 10,
+      "values": {
+        "GOOD": 10,
+        "MIXED": 6,
+        "POOR": 2,
+        "UNKNOWN": 0
+      },
+      "aliases": {
+        "Good": "GOOD",
+        "Mixed": "MIXED",
+        "Poor": "POOR",
+        "Unknown": "UNKNOWN"
+      }
+    }
+  },
+  "bands": [
+    {
+      "grade": "Green",
+      "minimum": 75,
+      "recommended_action": "Direct connector + pilot"
+    },
+    {
+      "grade": "Yellow",
+      "minimum": 45,
+      "recommended_action": "Resolve access/cyber + adapter"
+    },
+    {
+      "grade": "Red",
+      "minimum": 0,
+      "recommended_action": "Retrofit/OEM engagement + data plan"
+    }
+  ]
+}

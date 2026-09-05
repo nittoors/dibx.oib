@@ -1,0 +1,41 @@
+depot,work_center,inspections,defect_rate_pct,first_pass_yield_pct,open_ncr,repeat_ncr,top_defect,ai_focus
+ANAD,Receiving,156,5.8,90.4,1,0,Weld discontinuity,Monitor trend
+ANAD,Disassembly,290,2.5,94.9,2,0,Dimensional variance,Monitor trend
+ANAD,Inspection,226,6.2,93.1,5,1,Surface finish,Monitor trend
+ANAD,Machining,85,6.1,90.1,1,0,Weld discontinuity,Monitor trend
+ANAD,Welding,363,5.0,94.1,6,1,Surface finish,Monitor trend
+ANAD,Paint,219,3.5,92.6,3,0,Surface finish,Monitor trend
+ANAD,Assembly,188,4.8,91.3,2,0,Configuration mismatch,Monitor trend
+ANAD,Test,119,6.0,92.7,3,0,Documentation gap,Monitor trend
+ANAD,Quality,287,6.3,93.0,7,2,Dimensional variance,Monitor trend
+ANAD,Packaging,133,4.1,92.5,0,0,Dimensional variance,Monitor trend
+RRAD,Receiving,202,4.8,92.2,1,0,Leak test,Monitor trend
+RRAD,Disassembly,176,8.8,91.1,5,1,Leak test,Root cause review
+RRAD,Inspection,123,8.9,90.9,3,1,Leak test,Root cause review
+RRAD,Machining,127,5.0,93.6,3,0,Leak test,Monitor trend
+RRAD,Welding,283,3.2,96.3,2,0,Documentation gap,Monitor trend
+RRAD,Paint,129,5.5,92.5,1,0,Configuration mismatch,Monitor trend
+RRAD,Assembly,156,10.3,89.6,5,2,Surface finish,Root cause review
+RRAD,Test,157,6.2,91.3,3,0,Documentation gap,Monitor trend
+RRAD,Quality,198,9.2,90.2,6,2,Configuration mismatch,Root cause review
+RRAD,Packaging,344,2.2,95.7,3,0,Leak test,Monitor trend
+SIAD,Receiving,309,6.0,92.2,5,1,Documentation gap,Monitor trend
+SIAD,Disassembly,429,3.1,94.5,3,0,Dimensional variance,Monitor trend
+SIAD,Inspection,158,0.5,96.4,0,0,Leak test,Monitor trend
+SIAD,Machining,360,2.0,94.5,3,1,Weld discontinuity,Monitor trend
+SIAD,Welding,128,3.9,93.8,1,0,Leak test,Monitor trend
+SIAD,Paint,125,6.0,92.2,1,0,Weld discontinuity,Monitor trend
+SIAD,Assembly,211,5.7,90.4,5,2,Weld discontinuity,Monitor trend
+SIAD,Test,100,2.6,95.8,0,0,Configuration mismatch,Monitor trend
+SIAD,Quality,428,7.3,91.2,13,5,Documentation gap,Root cause review
+SIAD,Packaging,291,7.4,89.1,7,1,Documentation gap,Root cause review
+WVA,Receiving,101,2.7,94.0,1,0,Dimensional variance,Monitor trend
+WVA,Disassembly,159,2.8,96.5,2,0,Weld discontinuity,Monitor trend
+WVA,Inspection,117,6.4,91.7,2,0,Configuration mismatch,Monitor trend
+WVA,Machining,318,10.9,88.6,6,0,Weld discontinuity,Root cause review
+WVA,Welding,301,6.3,91.8,4,1,Documentation gap,Monitor trend
+WVA,Paint,323,7.8,90.0,4,1,Weld discontinuity,Root cause review
+WVA,Assembly,154,4.0,94.5,0,0,Leak test,Monitor trend
+WVA,Test,300,3.7,95.5,5,0,Dimensional variance,Monitor trend
+WVA,Quality,430,3.7,95.2,3,0,Dimensional variance,Monitor trend
+WVA,Packaging,232,6.5,91.9,6,1,Surface finish,Monitor trend

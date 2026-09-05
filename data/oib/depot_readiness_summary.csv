@@ -1,0 +1,5 @@
+depot,name,location,readiness,asset_risk,workforce_gap,supply_risk,plan_attainment,open_quality,top_drivers
+RRAD,Red River Army Depot,"Texarkana, TX",51.3,31.7,22.1,36.1,82.0,890,"[('Workforce Capacity', 70.72000000000001), ('Production Flow', 54.103961684842105), ('Supply Chain', 36.0635700066357)]"
+ANAD,Anniston Army Depot,"Anniston, AL",56.2,32.2,16.3,36.2,82.0,920,"[('Production Flow', 54.101439498975694), ('Workforce Capacity', 52.160000000000004), ('Supply Chain', 36.21774834437086)]"
+SIAD,Sierra Army Depot,"Herlong, CA",54.0,33.9,18.4,35.7,81.8,918,"[('Workforce Capacity', 58.879999999999995), ('Production Flow', 54.4576808531079), ('Supply Chain', 35.73418628454452)]"
+WVA,Watervliet Arsenal,"Watervliet, NY",53.0,32.3,19.9,36.1,82.0,948,"[('Workforce Capacity', 63.68), ('Production Flow', 54.09656415312544), ('Supply Chain', 36.148500823723225)]"

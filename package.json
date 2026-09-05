@@ -1,0 +1,12 @@
+{
+  "name": "dibx-oib",
+  "private": true,
+  "version": "0.1.0",
+  "packageManager": "pnpm@11.19.0",
+  "scripts": {
+    "build": "pnpm --filter @dbix/oib-web build",
+    "lint": "pnpm --filter @dbix/oib-web lint",
+    "test": "pnpm --filter @dbix/oib-web test",
+    "typecheck": "pnpm --filter @dbix/oib-web typecheck"
+  }
+}

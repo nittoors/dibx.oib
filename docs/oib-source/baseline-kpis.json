@@ -1,0 +1,41 @@
+{
+  "ALL": {
+    "command": {"composite_readiness": 53.6, "assets_elevated": 179, "workforce_gap": 716, "critical_supply": 170, "plan_attainment": 88.3, "open_ncr": 133, "bottlenecks": 13},
+    "assets": {"count": 1600, "average_health": 70.7, "high_risk": 10, "legacy_analog": 426},
+    "workforce": {"count": 2600, "average_availability": 87.7, "skill_families_at_risk": 27, "training_due": 0},
+    "flow": {"plan_attainment": 88.3, "bottlenecks": 13, "queue_hours": 312.5, "downtime_hours": 368.5},
+    "quality": {"inspections": 8935, "average_defect_rate": 5.3, "first_pass_yield": 92.7, "open_ncr": 133}
+  },
+  "RRAD": {
+    "command": {"composite_readiness": 51.3, "assets_elevated": 37, "workforce_gap": 173, "critical_supply": 170, "plan_attainment": 87.6, "open_ncr": 32, "bottlenecks": 3},
+    "assets": {"count": 400, "average_health": 71.5, "high_risk": 3, "legacy_analog": 111},
+    "workforce": {"count": 650, "average_availability": 87.6, "skill_families_at_risk": 7, "training_due": 0},
+    "flow": {"plan_attainment": 87.6, "bottlenecks": 3, "queue_hours": 68.5, "downtime_hours": 92.0},
+    "quality": {"inspections": 1895, "average_defect_rate": 6.4, "first_pass_yield": 92.3, "open_ncr": 32}
+  },
+  "ANAD": {
+    "command": {"composite_readiness": 56.2, "assets_elevated": 46, "workforce_gap": 184, "critical_supply": 170, "plan_attainment": 87.2, "open_ncr": 30, "bottlenecks": 4},
+    "assets": {"count": 400, "average_health": 71.0, "high_risk": 2, "legacy_analog": 89},
+    "workforce": {"count": 650, "average_availability": 88.2, "skill_families_at_risk": 7, "training_due": 0},
+    "flow": {"plan_attainment": 87.2, "bottlenecks": 4, "queue_hours": 93.3, "downtime_hours": 94.2},
+    "quality": {"inspections": 2066, "average_defect_rate": 5.0, "first_pass_yield": 92.5, "open_ncr": 30}
+  },
+  "SIAD": {
+    "command": {"composite_readiness": 54.0, "assets_elevated": 57, "workforce_gap": 189, "critical_supply": 170, "plan_attainment": 89.1, "open_ncr": 38, "bottlenecks": 3},
+    "assets": {"count": 400, "average_health": 69.6, "high_risk": 3, "legacy_analog": 123},
+    "workforce": {"count": 650, "average_availability": 87.7, "skill_families_at_risk": 7, "training_due": 0},
+    "flow": {"plan_attainment": 89.1, "bottlenecks": 3, "queue_hours": 70.4, "downtime_hours": 97.3},
+    "quality": {"inspections": 2539, "average_defect_rate": 4.5, "first_pass_yield": 93.0, "open_ncr": 38}
+  },
+  "WVA": {
+    "command": {"composite_readiness": 53.0, "assets_elevated": 39, "workforce_gap": 170, "critical_supply": 170, "plan_attainment": 89.3, "open_ncr": 33, "bottlenecks": 3},
+    "assets": {"count": 400, "average_health": 70.6, "high_risk": 2, "legacy_analog": 103},
+    "workforce": {"count": 650, "average_availability": 87.5, "skill_families_at_risk": 6, "training_due": 0},
+    "flow": {"plan_attainment": 89.3, "bottlenecks": 3, "queue_hours": 80.3, "downtime_hours": 85.0},
+    "quality": {"inspections": 2435, "average_defect_rate": 5.5, "first_pass_yield": 93.0, "open_ncr": 33}
+  },
+  "global": {
+    "supply": {"parts": 1200, "critical_risks": 170, "single_source": 212, "average_lead_time_days": 32},
+    "assessment": {"green": 43, "yellow": 266, "red": 91}
+  }
+}

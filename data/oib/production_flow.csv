@@ -1,0 +1,41 @@
+depot,work_center,weekly_plan,forecast_output,plan_attainment_pct,queue_hours,downtime_hours,labor_gap_pct,constraint_driver
+ANAD,Receiving,175,184,105,5.4,0.1,4.5,None
+ANAD,Disassembly,254,207,81.5,12.0,15.7,16.5,Certified labor
+ANAD,Inspection,131,117,89.4,9.1,9.8,3.6,None
+ANAD,Machining,154,124,80.5,9.8,16.1,23.3,Rework
+ANAD,Welding,149,108,72.5,17.3,14.6,15.5,Rework
+ANAD,Paint,187,157,83.9,7.2,5.2,6.5,None
+ANAD,Assembly,122,116,95.5,12.6,11.9,17.0,None
+ANAD,Test,257,265,103.2,1,0,1.0,None
+ANAD,Quality,296,249,84.0,1,1.8,0.3,None
+ANAD,Packaging,233,179,76.9,17.9,19.0,6.2,Certified labor
+RRAD,Receiving,234,180,77.0,11.2,17.8,12.7,Certified labor
+RRAD,Disassembly,237,192,80.9,12.5,7.9,14.5,Machine downtime
+RRAD,Inspection,125,127,101.7,1.3,4.8,2.0,None
+RRAD,Machining,156,122,78.5,20.6,18.3,13.6,Rework
+RRAD,Welding,155,148,95.4,1.2,5.3,5.7,None
+RRAD,Paint,123,112,90.7,4.3,6.0,7.1,None
+RRAD,Assembly,156,128,81.9,1.9,14.8,5.5,None
+RRAD,Test,258,222,86.2,9.0,7.7,10.5,None
+RRAD,Quality,264,249,94.4,2.6,2.3,5.5,None
+RRAD,Packaging,259,232,89.5,3.9,7.1,2.9,None
+SIAD,Receiving,195,163,83.5,12.0,19.6,14.0,Certified labor
+SIAD,Disassembly,229,203,88.5,7.0,12.7,1.4,None
+SIAD,Inspection,295,276,93.5,3.7,7.2,7.1,None
+SIAD,Machining,146,134,91.4,6.2,3.6,9.1,None
+SIAD,Welding,141,125,88.5,3.9,0,3.7,None
+SIAD,Paint,293,294,100.4,2.2,3.1,2.1,None
+SIAD,Assembly,146,104,71.3,14.0,14.9,24.8,Tooling
+SIAD,Test,120,125,104.0,4.3,7.7,7.3,None
+SIAD,Quality,234,219,93.8,1.7,12.0,7.7,None
+SIAD,Packaging,191,146,76.4,15.4,16.5,9.4,Parts availability
+WVA,Receiving,228,231,101.4,4.3,4.2,2.9,None
+WVA,Disassembly,287,245,85.4,7.5,0.3,3.6,None
+WVA,Inspection,257,219,85.1,7.6,0.2,8.1,None
+WVA,Machining,297,275,92.6,6.3,3.8,7.6,None
+WVA,Welding,124,109,88.3,5.3,14.5,12.0,None
+WVA,Paint,212,213,100.7,1,5.2,7.7,None
+WVA,Assembly,261,252,96.5,3.8,6.8,3.5,None
+WVA,Test,155,119,76.7,12.4,15.2,6.3,Parts availability
+WVA,Quality,215,183,85.3,16.4,9.4,15.0,Certified labor
+WVA,Packaging,127,103,81.3,15.7,25.4,14.7,Parts availability

@@ -1,0 +1,72 @@
+{
+  "dataset_version": "synthetic-v1",
+  "schema_version": "1",
+  "source_code": "prototype-csv-v5.2",
+  "source_name": "Depot Readiness AI synthetic prototype data",
+  "source_classification": "SYNTHETIC",
+  "source_description": "Synthetic demonstration records informed by public reference structures; no operational Army or OEM data.",
+  "observed_at": "2026-08-28T00:00:00Z",
+  "reporting_year": 2026,
+  "files": [
+    {
+      "dataset": "assets",
+      "path": "../asset_master.csv",
+      "sha256": "2e7ff128b8c57bf6343d79da6e50e7e0e04915ad01c5c8c47e0bf21e24bf2969",
+      "row_count": 1600
+    },
+    {
+      "dataset": "connectivity_assessments",
+      "path": "../connectivity_assessment_seed.csv",
+      "sha256": "8eae032109015c11c085bee7365af546f0afc301e59cc61a43f86d2fd1710cd5",
+      "row_count": 400
+    },
+    {
+      "dataset": "depot_readiness",
+      "path": "../depot_readiness_summary.csv",
+      "sha256": "13cbffc9737d03840c0442dbef2a955bd8649e146c25b08d879aeb165c727efc",
+      "row_count": 4
+    },
+    {
+      "dataset": "parts",
+      "path": "../parts_master.csv",
+      "sha256": "7c142b03bf32be2a8b1368cd4ba00b7ed91cf67c0f5814f4d98847db2715dbd4",
+      "row_count": 1200
+    },
+    {
+      "dataset": "production_flow",
+      "path": "../production_flow.csv",
+      "sha256": "8cd59f3c78f7c17f735dffc5c6eb36bd69dd8b27df858d8a348f15daa714feee",
+      "row_count": 40
+    },
+    {
+      "dataset": "quality",
+      "path": "../quality_summary.csv",
+      "sha256": "22ec1b88886ad5ecf98827ee29f7095d732e5935e83bac0191026a18f5c10efd",
+      "row_count": 40
+    },
+    {
+      "dataset": "readiness_trend",
+      "path": "../readiness_trend.csv",
+      "sha256": "9c0cf600943190164084a09ce7beeb5b2188e57c38823b2f3b7938b00180fc67",
+      "row_count": 24
+    },
+    {
+      "dataset": "workforce_capacity",
+      "path": "../workforce_capacity.csv",
+      "sha256": "0c65a1a454b7912efd9778e6fd7a8c026b2874b887bb42c4a4fd36ba94f485ba",
+      "row_count": 40
+    },
+    {
+      "dataset": "workforce_source",
+      "path": "../workforce_master.csv",
+      "sha256": "224254d2f3c9d43c031822a6f19771ca859ba10bd5245b362498da8783e4cdde",
+      "row_count": 2600
+    },
+    {
+      "dataset": "scoring_rules",
+      "path": "scoring-rules-v1.json",
+      "sha256": "b54c9714895d4424177054264a73ebb96133845873bae316d75c6edb11ee1e5a",
+      "row_count": 1
+    }
+  ]
+}
