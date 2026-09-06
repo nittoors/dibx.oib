@@ -23,7 +23,7 @@ class Settings(BaseSettings):
     app_name: str = "Depot Readiness API"
     app_version: str = "0.1.0"
     app_env: str = "local"
-    auth_mode: Literal["development", "cognito"] = "development"
+    auth_mode: Literal["development", "public_readonly", "cognito"] = "development"
     database_url: str = LOCAL_DATABASE_URL
     db_host: str | None = None
     db_port: int = 5432
@@ -58,8 +58,10 @@ class Settings(BaseSettings):
                 database=self.db_name,
                 query={"sslmode": "require"} if self.is_production_like else {},
             ).render_as_string(hide_password=False)
-        if self.is_production_like and self.auth_mode != "cognito":
-            raise ValueError("AUTH_MODE must be cognito outside local/test/development")
+        if self.is_production_like and self.auth_mode not in {"cognito", "public_readonly"}:
+            raise ValueError(
+                "AUTH_MODE must be cognito or public_readonly outside local/test/development"
+            )
         if self.auth_mode == "cognito":
             if not self.cognito_issuer_url or not self.cognito_client_id:
                 raise ValueError(

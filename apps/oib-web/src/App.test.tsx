@@ -287,4 +287,23 @@ describe('Depot Readiness React UI', () => {
     expect(scopedRequests.length).toBeGreaterThan(0)
     expect(scopedRequests.every((url) => url.searchParams.get('depot') === 'ANAD')).toBe(true)
   })
+
+  it('shows public data but prevents assessment writes in public read-only mode', async () => {
+    activeSession = {
+      subject: 'public-viewer',
+      roles: ['OIB-Viewers'],
+      allowed_depots: ['RRAD', 'ANAD', 'SIAD', 'WVA', 'Other'],
+      authentication_mode: 'public_readonly',
+    }
+    const user = userEvent.setup()
+    renderApp()
+
+    await screen.findByRole('heading', { name: 'Mission readiness before the constraint becomes a crisis.' })
+    expect(screen.queryByRole('button', { name: 'Sign out' })).not.toBeInTheDocument()
+    await user.click(screen.getByRole('button', { name: /Data Readiness Assessment/ }))
+    await screen.findByRole('heading', { name: 'Assess an asset' })
+    expect(screen.getByText(/Public read-only mode:/)).toBeInTheDocument()
+    expect(screen.getByRole('button', { name: 'Score & Save Assessment' })).toBeDisabled()
+    expect(vi.mocked(fetch).mock.calls.some(([, options]) => options?.method === 'POST')).toBe(false)
+  })
 })

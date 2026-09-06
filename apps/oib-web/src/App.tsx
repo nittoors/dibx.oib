@@ -40,10 +40,10 @@ export default function App() {
     }
     return <main className="content"><div className="card error-state" role="alert"><h3>Prototype data could not load</h3><p>The API is unavailable or authentication is not configured.</p><button className="btn primary" type="button" onClick={() => void sessionQuery.refetch()}>Try again</button></div></main>
   }
-  return <AuthorizationProvider allowedDepots={sessionQuery.data.allowed_depots}><ApplicationShell allowedDepots={sessionQuery.data.allowed_depots} showSignOut={sessionQuery.data.authentication_mode === 'cognito'} /></AuthorizationProvider>
+  return <AuthorizationProvider allowedDepots={sessionQuery.data.allowed_depots}><ApplicationShell allowedDepots={sessionQuery.data.allowed_depots} publicReadOnly={sessionQuery.data.authentication_mode === 'public_readonly'} showSignOut={sessionQuery.data.authentication_mode === 'cognito'} /></AuthorizationProvider>
 }
 
-function ApplicationShell({ allowedDepots, showSignOut }: { allowedDepots: string[]; showSignOut: boolean }) {
+function ApplicationShell({ allowedDepots, publicReadOnly, showSignOut }: { allowedDepots: string[]; publicReadOnly: boolean; showSignOut: boolean }) {
   const [page, setPage] = useState<PageId>('command')
   const [depot, setDepot] = useState<DepotCode>(() => {
     const operational = ['RRAD', 'ANAD', 'SIAD', 'WVA'] as const
@@ -77,7 +77,7 @@ function ApplicationShell({ allowedDepots, showSignOut }: { allowedDepots: strin
   else if (page === 'supply') content = <SupplyPage />
   else if (page === 'flow') content = <FlowPage depot={depot} setDepot={setDepot} />
   else if (page === 'quality') content = <QualityPage depot={depot} setDepot={setDepot} />
-  else if (page === 'connect') content = <AssessmentPage showToast={setToast} />
+  else if (page === 'connect') content = <AssessmentPage publicReadOnly={publicReadOnly} showToast={setToast} />
   else if (page === 'training') content = <TrainingPage openPage={openPage} />
   else content = <ProvenancePage />
 

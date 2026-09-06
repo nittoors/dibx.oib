@@ -15,8 +15,24 @@ from app.main import app
 
 
 def test_production_like_environments_fail_closed_without_cognito() -> None:
-    with pytest.raises(ValidationError, match="AUTH_MODE must be cognito"):
+    with pytest.raises(ValidationError, match="AUTH_MODE must be cognito or public_readonly"):
         Settings(app_env="production", auth_mode="development")
+
+
+def test_public_readonly_is_production_safe_and_viewer_only() -> None:
+    settings = Settings(app_env="production", auth_mode="public_readonly")
+
+    principal = auth.get_current_principal(credentials=None, settings=settings)
+
+    assert principal.subject == "public-viewer"
+    assert principal.groups == frozenset({"OIB-Viewers"})
+    assert principal.depots == auth.ALL_DEPOTS
+    assert principal.authentication_mode == "public_readonly"
+    assert principal.can_read()
+    assert not principal.can_assess()
+    with pytest.raises(HTTPException) as error:
+        auth.require_assessor(principal)
+    assert error.value.status_code == 403
 
 
 def test_cognito_access_token_validates_client_type_roles_and_depots(

@@ -23,7 +23,7 @@ class Principal:
     subject: str
     groups: frozenset[str]
     depots: frozenset[str]
-    authentication_mode: Literal["development", "cognito"]
+    authentication_mode: Literal["development", "public_readonly", "cognito"]
 
     @property
     def is_admin(self) -> bool:
@@ -123,6 +123,13 @@ def get_current_principal(
     credentials: Annotated[HTTPAuthorizationCredentials | None, Depends(bearer_scheme)],
     settings: Annotated[Settings, Depends(get_settings)],
 ) -> Principal:
+    if settings.auth_mode == "public_readonly":
+        return Principal(
+            subject="public-viewer",
+            groups=frozenset({VIEWER_GROUP}),
+            depots=ALL_DEPOTS,
+            authentication_mode="public_readonly",
+        )
     if settings.auth_mode == "development":
         if settings.is_production_like:
             raise HTTPException(

@@ -11,6 +11,14 @@ applies.
 Production images are Linux ARM64, non-root, vulnerability-scanned, and labeled with the
 GitHub source repository and revision. Base images and Python dependencies are pinned.
 
+## Runtime access mode
+
+Shared Terraform in `Nittoors/dibx.esi` sets OIB to either `cognito` (the secure default)
+or `public_readonly`. Public read-only mode bypasses browser sign-in and maps anonymous
+requests to `OIB-Viewers`; assessment writes and administrative endpoints continue to
+require their Cognito roles on the server. Cognito resources are preserved for a later
+switch back.
+
 Local validation:
 
 ```bash

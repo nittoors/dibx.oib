@@ -191,5 +191,5 @@ export interface Session {
   subject: string
   roles: string[]
   allowed_depots: string[]
-  authentication_mode: 'development' | 'cognito'
+  authentication_mode: 'development' | 'public_readonly' | 'cognito'
 }

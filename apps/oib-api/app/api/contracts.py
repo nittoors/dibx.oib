@@ -152,7 +152,7 @@ class SessionResponse(BaseModel):
     subject: str
     roles: list[str]
     allowed_depots: list[str]
-    authentication_mode: Literal["development", "cognito"]
+    authentication_mode: Literal["development", "public_readonly", "cognito"]
 
 
 class AuditEventResponse(BaseModel):
