@@ -16,6 +16,7 @@ WORKDIR /service
 COPY apps/oib-api/requirements.lock ./requirements.lock
 RUN apt-get update \
     && apt-get upgrade --yes \
+    && apt-get install --yes --no-install-recommends libpq5 \
     && rm -rf /var/lib/apt/lists/* \
     && python -m pip install --no-cache-dir --no-deps --requirement requirements.lock \
     && python -m pip check \
